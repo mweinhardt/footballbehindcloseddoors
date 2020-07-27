@@ -1,0 +1,297 @@
+Date;Local;Visitor;HG;AG;Outcome;1.5+;2.5+;3.5+;TG;BTS;hCS;aCS;HTh;HTa;FG;sample
+19. Jul;Arka Gdynia;Jagiellonia;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+19. Jul;LKS Lodz;Lechia Gdansk;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+20. Jul;Piast Gliwice;Lech Poznan;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+20. Jul;Rakow Czest.;Korona Kielce;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+20. Jul;Wisla Krakow;Slask Wroclaw;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+21. Jul;Legia Warsaw;Pogon Szczecin;1;2;Away win;+;+;-;3;+;-;-;0;0;L;0
+21. Jul;Zaglebie Lubin;KS Cracovia;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+22. Jul;Wisla Plock;Gornik Zabrze;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+26. Jul;Gornik Zabrze;Zaglebie Lubin;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+26. Jul;Lech Poznan;Wisla Plock;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+27. Jul;Jagiellonia;Rakow Czest.;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+27. Jul;KS Cracovia;LKS Lodz;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+28. Jul;Korona Kielce;Legia Warsaw;1;2;Away win;+;+;-;3;+;-;-;1;1;V;0
+28. Jul;Lechia Gdansk;Wisla Krakow;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+28. Jul;Slask Wroclaw;Piast Gliwice;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+29. Jul;Pogon Szczecin;Arka Gdynia;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+02. Aug;Arka Gdynia;Korona Kielce;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+02. Aug;Zaglebie Lubin;Jagiellonia;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+03. Aug;LKS Lodz;Lech Poznan;1;2;Away win;+;+;-;3;+;-;-;1;2;V;0
+03. Aug;Rakow Czest.;KS Cracovia;1;3;Away win;+;+;+;4;+;-;-;1;2;V;0
+04. Aug;Legia Warsaw;Slask Wroclaw;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+04. Aug;Piast Gliwice;Pogon Szczecin;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+04. Aug;Wisla Plock;Lechia Gdansk;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+05. Aug;Wisla Krakow;Gornik Zabrze;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+09. Aug;Lech Poznan;Slask Wroclaw;1;3;Away win;+;+;+;4;+;-;-;1;3;V;0
+10. Aug;Gornik Zabrze;Rakow Czest.;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+10. Aug;Pogon Szczecin;Wisla Krakow;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+10. Aug;Zaglebie Lubin;Arka Gdynia;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+11. Aug;KS Cracovia;Korona Kielce;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+11. Aug;LKS Lodz;Piast Gliwice;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+12. Aug;Lechia Gdansk;Jagiellonia;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+16. Aug;Wisla Krakow;LKS Lodz;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+17. Aug;Arka Gdynia;Lech Poznan;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+17. Aug;Jagiellonia;Gornik Zabrze;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+17. Aug;Slask Wroclaw;KS Cracovia;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+18. Aug;Legia Warsaw;Zaglebie Lubin;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+18. Aug;Piast Gliwice;Wisla Plock;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+18. Aug;Rakow Czest.;Lechia Gdansk;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+19. Aug;Korona Kielce;Pogon Szczecin;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+23. Aug;Jagiellonia;Wisla Krakow;3;2;Home win;+;+;+;5;+;-;-;2;1;L;0
+24. Aug;KS Cracovia;Arka Gdynia;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+24. Aug;Lechia Gdansk;Slask Wroclaw;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+24. Aug;Rakow Czest.;Lech Poznan;2;3;Away win;+;+;+;5;+;-;-;0;2;V;0
+25. Aug;Gornik Zabrze;Korona Kielce;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+25. Aug;LKS Lodz;Legia Warsaw;2;3;Away win;+;+;+;5;+;-;-;1;0;L;0
+25. Aug;Zaglebie Lubin;Piast Gliwice;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+26. Aug;Pogon Szczecin;Wisla Plock;1;2;Away win;+;+;-;3;+;-;-;1;1;V;0
+30. Aug;Arka Gdynia;Gornik Zabrze;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+30. Aug;Korona Kielce;Jagiellonia;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+31. Aug;Piast Gliwice;Lechia Gdansk;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+31. Aug;Wisla Krakow;Zaglebie Lubin;4;2;Home win;+;+;+;6;+;-;-;2;2;L;0
+31. Aug;Wisla Plock;LKS Lodz;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+01. Sep;Lech Poznan;KS Cracovia;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+01. Sep;Legia Warsaw;Rakow Czest.;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+01. Sep;Slask Wroclaw;Pogon Szczecin;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+13. Sep;Jagiellonia;Legia Warsaw;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+13. Sep;Zaglebie Lubin;Wisla Plock;5;0;Home win;+;+;+;5;-;+;-;3;0;L;0
+14. Sep;Korona Kielce;Wisla Krakow;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+14. Sep;Lechia Gdansk;Lech Poznan;2;1;Home win;+;+;-;3;+;-;-;2;1;L;0
+14. Sep;Rakow Czest.;Arka Gdynia;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+15. Sep;Gornik Zabrze;Slask Wroclaw;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+15. Sep;Pogon Szczecin;LKS Lodz;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+16. Sep;KS Cracovia;Piast Gliwice;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+18. Sep;Wisla Plock;Legia Warsaw;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+20. Sep;Lech Poznan;Jagiellonia;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+20. Sep;Piast Gliwice;Rakow Czest.;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+21. Sep;Lechia Gdansk;Korona Kielce;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+21. Sep;LKS Lodz;Arka Gdynia;1;4;Away win;+;+;+;5;+;-;-;0;2;V;0
+21. Sep;Slask Wroclaw;Zaglebie Lubin;4;4;Draw;+;+;+;8;+;-;-;2;2;L;0
+22. Sep;KS Cracovia;Legia Warsaw;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+22. Sep;Pogon Szczecin;Gornik Zabrze;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+22. Sep;Wisla Plock;Wisla Krakow;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+27. Sep;Korona Kielce;Slask Wroclaw;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+28. Sep;Gornik Zabrze;Lech Poznan;1;3;Away win;+;+;+;4;+;-;-;1;2;V;0
+28. Sep;Legia Warsaw;Lechia Gdansk;1;2;Away win;+;+;-;3;+;-;-;1;1;L;0
+28. Sep;Rakow Czest.;Wisla Plock;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+29. Sep;Arka Gdynia;Piast Gliwice;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+29. Sep;Jagiellonia;Pogon Szczecin;2;3;Away win;+;+;+;5;+;-;-;1;0;L;0
+29. Sep;Wisla Krakow;KS Cracovia;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+30. Sep;Zaglebie Lubin;LKS Lodz;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+4 Oct;Slask Wroclaw;Jagiellonia;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+4 Oct;Wisla Plock;Arka Gdynia;4;1;Home win;+;+;+;5;+;-;-;2;0;L;0
+5 Oct;Lech Poznan;Wisla Krakow;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+5 Oct;Lechia Gdansk;Zaglebie Lubin;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+5 Oct;Pogon Szczecin;Rakow Czest.;1;2;Away win;+;+;-;3;+;-;-;1;2;L;0
+6 Oct;KS Cracovia;Gornik Zabrze;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+6 Oct;LKS Lodz;Korona Kielce;4;1;Home win;+;+;+;5;+;-;-;2;1;L;0
+6 Oct;Piast Gliwice;Legia Warsaw;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+18 Oct;Wisla Krakow;Piast Gliwice;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+18 Oct;Zaglebie Lubin;Pogon Szczecin;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+19 Oct;Jagiellonia;KS Cracovia;3;2;Home win;+;+;+;5;+;-;-;1;1;V;0
+19 Oct;Korona Kielce;Wisla Plock;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+19 Oct;Legia Warsaw;Lech Poznan;2;1;Home win;+;+;-;3;+;-;-;0;0;V;0
+20 Oct;Arka Gdynia;Lechia Gdansk;2;2;Draw;+;+;+;4;+;-;-;0;0;V;0
+20 Oct;Gornik Zabrze;LKS Lodz;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+21 Oct;Rakow Czest.;Slask Wroclaw;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+25 Oct;KS Cracovia;Pogon Szczecin;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+25 Oct;Lech Poznan;Zaglebie Lubin;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+26 Oct;Lechia Gdansk;Gornik Zabrze;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+26 Oct;LKS Lodz;Rakow Czest.;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+26 Oct;Piast Gliwice;Korona Kielce;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+27 Oct;Legia Warsaw;Wisla Krakow;7;0;Home win;+;+;+;7;-;+;-;3;0;L;0
+27 Oct;Slask Wroclaw;Arka Gdynia;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+27 Oct;Wisla Plock;Jagiellonia;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+02. Nov;Korona Kielce;Zaglebie Lubin;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+02. Nov;KS Cracovia;Lechia Gdansk;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+02. Nov;Pogon Szczecin;Lech Poznan;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+03. Nov;Arka Gdynia;Legia Warsaw;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+03. Nov;Gornik Zabrze;Piast Gliwice;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+03. Nov;Jagiellonia;LKS Lodz;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+04. Nov;Rakow Czest.;Wisla Krakow;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+04. Nov;Slask Wroclaw;Wisla Plock;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+08. Nov;LKS Lodz;Slask Wroclaw;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+08. Nov;Piast Gliwice;Jagiellonia;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+09. Nov;Legia Warsaw;Gornik Zabrze;5;1;Home win;+;+;+;6;+;-;-;1;0;L;0
+09. Nov;Wisla Krakow;Arka Gdynia;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+09. Nov;Wisla Plock;KS Cracovia;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+10. Nov;Lech Poznan;Korona Kielce;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+10. Nov;Lechia Gdansk;Pogon Szczecin;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+10. Nov;Zaglebie Lubin;Rakow Czest.;2;2;Draw;+;+;+;4;+;-;-;2;1;L;0
+22. Nov;Gornik Zabrze;Wisla Plock;2;2;Draw;+;+;+;4;+;-;-;1;2;L;0
+22. Nov;Lech Poznan;Piast Gliwice;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+23. Nov;Korona Kielce;Rakow Czest.;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+23. Nov;Lechia Gdansk;LKS Lodz;3;1;Home win;+;+;+;4;+;-;-;2;1;V;0
+23. Nov;Pogon Szczecin;Legia Warsaw;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+24. Nov;Jagiellonia;Arka Gdynia;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+24. Nov;Slask Wroclaw;Wisla Krakow;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+25. Nov;KS Cracovia;Zaglebie Lubin;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+29. Nov;Wisla Plock;Lech Poznan;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+29. Nov;Zaglebie Lubin;Gornik Zabrze;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+30. Nov;Arka Gdynia;Pogon Szczecin;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+30. Nov;Legia Warsaw;Korona Kielce;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+30. Nov;Piast Gliwice;Slask Wroclaw;0;3;Away win;+;+;-;3;-;-;+;0;0;V;0
+1 Dec;LKS Lodz;KS Cracovia;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+1 Dec;Rakow Czest.;Jagiellonia;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+1 Dec;Wisla Krakow;Lechia Gdansk;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+6 Dec;Gornik Zabrze;Wisla Krakow;4;2;Home win;+;+;+;6;+;-;-;0;1;V;0
+6 Dec;Korona Kielce;Arka Gdynia;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+7 Dec;Jagiellonia;Zaglebie Lubin;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+7 Dec;Lech Poznan;LKS Lodz;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+7 Dec;Lechia Gdansk;Wisla Plock;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+8 Dec;KS Cracovia;Rakow Czest.;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+8 Dec;Pogon Szczecin;Piast Gliwice;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+8 Dec;Slask Wroclaw;Legia Warsaw;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+13 Dec;Arka Gdynia;Zaglebie Lubin;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+13 Dec;Wisla Krakow;Pogon Szczecin;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+14 Dec;Legia Warsaw;Wisla Plock;3;1;Home win;+;+;+;4;+;-;-;2;1;L;0
+14 Dec;Rakow Czest.;Gornik Zabrze;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+14 Dec;Slask Wroclaw;Lech Poznan;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+15 Dec;Jagiellonia;Lechia Gdansk;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+15 Dec;Korona Kielce;KS Cracovia;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+15 Dec;Piast Gliwice;LKS Lodz;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+19 Dec;Lech Poznan;Arka Gdynia;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+19 Dec;LKS Lodz;Wisla Krakow;2;4;Away win;+;+;+;6;+;-;-;1;3;V;0
+20 Dec;KS Cracovia;Slask Wroclaw;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+20 Dec;Pogon Szczecin;Korona Kielce;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+20 Dec;Zaglebie Lubin;Legia Warsaw;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+21 Dec;Gornik Zabrze;Jagiellonia;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+21 Dec;Lechia Gdansk;Rakow Czest.;0;3;Away win;+;+;-;3;-;-;+;0;0;V;0
+21 Dec;Wisla Plock;Piast Gliwice;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+07. Feb;Arka Gdynia;KS Cracovia;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+07. Feb;Slask Wroclaw;Lechia Gdansk;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+08. Feb;Korona Kielce;Gornik Zabrze;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+08. Feb;Lech Poznan;Rakow Czest.;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+08. Feb;Wisla Krakow;Jagiellonia;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+09. Feb;Legia Warsaw;LKS Lodz;3;1;Home win;+;+;+;4;+;-;-;0;0;V;0
+09. Feb;Piast Gliwice;Zaglebie Lubin;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+09. Feb;Wisla Plock;Pogon Szczecin;2;3;Away win;+;+;+;5;+;-;-;1;0;L;0
+14. Feb;Gornik Zabrze;Arka Gdynia;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+14. Feb;Lechia Gdansk;Piast Gliwice;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+15. Feb;LKS Lodz;Wisla Plock;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+15. Feb;Pogon Szczecin;Slask Wroclaw;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+15. Feb;Rakow Czest.;Legia Warsaw;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+16. Feb;Jagiellonia;Korona Kielce;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+16. Feb;KS Cracovia;Lech Poznan;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+16. Feb;Zaglebie Lubin;Wisla Krakow;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+21. Feb;LKS Lodz;Pogon Szczecin;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+21. Feb;Slask Wroclaw;Gornik Zabrze;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+22. Feb;Arka Gdynia;Rakow Czest.;3;2;Home win;+;+;+;5;+;-;-;0;2;V;0
+22. Feb;Legia Warsaw;Jagiellonia;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+22. Feb;Piast Gliwice;KS Cracovia;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+23. Feb;Lech Poznan;Lechia Gdansk;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+23. Feb;Wisla Krakow;Korona Kielce;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+23. Feb;Wisla Plock;Zaglebie Lubin;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+28. Feb;Jagiellonia;Lech Poznan;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+28. Feb;Rakow Czest.;Piast Gliwice;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+29. Feb;Gornik Zabrze;Pogon Szczecin;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+29. Feb;Legia Warsaw;KS Cracovia;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+29. Feb;Wisla Krakow;Wisla Plock;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+1 Mar;Arka Gdynia;LKS Lodz;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+1 Mar;Korona Kielce;Lechia Gdansk;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+1 Mar;Zaglebie Lubin;Slask Wroclaw;3;1;Home win;+;+;+;4;+;-;-;0;0;L;0
+3 Mar;KS Cracovia;Wisla Krakow;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+3 Mar;Lech Poznan;Gornik Zabrze;4;1;Home win;+;+;+;5;+;-;-;1;1;L;0
+3 Mar;Pogon Szczecin;Jagiellonia;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+3 Mar;Wisla Plock;Rakow Czest.;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+4 Mar;Lechia Gdansk;Legia Warsaw;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+4 Mar;LKS Lodz;Zaglebie Lubin;3;2;Home win;+;+;+;5;+;-;-;2;1;L;0
+4 Mar;Piast Gliwice;Arka Gdynia;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+4 Mar;Slask Wroclaw;Korona Kielce;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+6 Mar;Gornik Zabrze;KS Cracovia;3;2;Home win;+;+;+;5;+;-;-;1;1;V;0
+7 Mar;Arka Gdynia;Wisla Plock;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+7 Mar;Jagiellonia;Slask Wroclaw;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+7 Mar;Zaglebie Lubin;Lechia Gdansk;4;4;Draw;+;+;+;8;+;-;-;2;3;V;0
+8 Mar;Legia Warsaw;Piast Gliwice;1;2;Away win;+;+;-;3;+;-;-;1;1;L;0
+8 Mar;Rakow Czest.;Pogon Szczecin;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+8 Mar;Wisla Krakow;Lech Poznan;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+9 Mar;Korona Kielce;LKS Lodz;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+29 May;Pogon Szczecin;Zaglebie Lubin;0;3;Away win;+;+;-;3;-;-;+;0;3;V;1
+29 May;Slask Wroclaw;Rakow Czest.;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+30 May;Lech Poznan;Legia Warsaw;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+30 May;LKS Lodz;Gornik Zabrze;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+30 May;Piast Gliwice;Wisla Krakow;4;0;Home win;+;+;+;4;-;+;-;2;0;L;1
+31 May;KS Cracovia;Jagiellonia;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+31 May;Lechia Gdansk;Arka Gdynia;4;3;Home win;+;+;+;7;+;-;-;0;0;L;1
+31 May;Wisla Plock;Korona Kielce;1;4;Away win;+;+;+;5;+;-;-;1;2;L;1
+05. Jun;Gornik Zabrze;Lechia Gdansk;2;2;Draw;+;+;+;4;+;-;-;1;0;L;1
+05. Jun;Korona Kielce;Piast Gliwice;1;2;Away win;+;+;-;3;+;-;-;1;0;L;1
+06. Jun;Jagiellonia;Wisla Plock;2;2;Draw;+;+;+;4;+;-;-;0;1;V;1
+06. Jun;Pogon Szczecin;KS Cracovia;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+06. Jun;Zaglebie Lubin;Lech Poznan;3;3;Draw;+;+;+;6;+;-;-;3;1;L;1
+07. Jun;Arka Gdynia;Slask Wroclaw;2;1;Home win;+;+;-;3;+;-;-;0;1;V;1
+07. Jun;Rakow Czest.;LKS Lodz;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+07. Jun;Wisla Krakow;Legia Warsaw;1;3;Away win;+;+;+;4;+;-;-;1;0;L;1
+09. Jun;Lech Poznan;Pogon Szczecin;4;0;Home win;+;+;+;4;-;+;-;2;0;L;1
+09. Jun;Lechia Gdansk;KS Cracovia;1;3;Away win;+;+;+;4;+;-;-;0;1;V;1
+09. Jun;Piast Gliwice;Gornik Zabrze;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+09. Jun;Zaglebie Lubin;Korona Kielce;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+10. Jun;Legia Warsaw;Arka Gdynia;5;1;Home win;+;+;+;6;+;-;-;1;1;V;1
+10. Jun;LKS Lodz;Jagiellonia;0;3;Away win;+;+;-;3;-;-;+;0;2;V;1
+10. Jun;Wisla Krakow;Rakow Czest.;3;2;Home win;+;+;+;5;+;-;-;1;0;L;1
+10. Jun;Wisla Plock;Slask Wroclaw;1;2;Away win;+;+;-;3;+;-;-;1;0;L;1
+14. Jun;Arka Gdynia;Wisla Krakow;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+14. Jun;Gornik Zabrze;Legia Warsaw;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+14. Jun;Jagiellonia;Piast Gliwice;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+14. Jun;Korona Kielce;Lech Poznan;0;3;Away win;+;+;-;3;-;-;+;0;0;V;1
+14. Jun;KS Cracovia;Wisla Plock;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+14. Jun;Pogon Szczecin;Lechia Gdansk;1;1;Draw;+;-;-;2;+;-;-;1;1;L;1
+14. Jun;Rakow Czest.;Zaglebie Lubin;2;1;Home win;+;+;-;3;+;-;-;0;0;L;1
+14. Jun;Slask Wroclaw;LKS Lodz;4;0;Home win;+;+;+;4;-;+;-;3;0;L;1
+19. Jun;Gornik Zabrze;Korona Kielce;3;2;Home win;+;+;+;5;+;-;-;1;0;L;1
+19. Jun;Zaglebie Lubin;LKS Lodz;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+20. Jun;Piast Gliwice;Lech Poznan;0;2;Away win;+;-;-;2;-;-;+;0;0;V;1
+20. Jun;Rakow Czest.;Wisla Krakow;3;1;Home win;+;+;+;4;+;-;-;1;0;L;1
+20. Jun;Wisla Plock;Arka Gdynia;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+21. Jun;KS Cracovia;Jagiellonia;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+21. Jun;Legia Warsaw;Slask Wroclaw;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+21. Jun;Pogon Szczecin;Lechia Gdansk;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+23. Jun;Arka Gdynia;Zaglebie Lubin;3;2;Home win;+;+;+;5;+;-;-;2;1;L;1
+23. Jun;Korona Kielce;Rakow Czest.;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+23. Jun;LKS Lodz;Gornik Zabrze;1;3;Away win;+;+;+;4;+;-;-;0;1;V;1
+23. Jun;Wisla Krakow;Wisla Plock;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+24. Jun;Jagiellonia;Legia Warsaw;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+24. Jun;Lech Poznan;Pogon Szczecin;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+24. Jun;Lechia Gdansk;Piast Gliwice;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+25. Jun;Slask Wroclaw;KS Cracovia;3;2;Home win;+;+;+;5;+;-;-;0;0;V;1
+26. Jun;Rakow Czest.;Arka Gdynia;3;2;Home win;+;+;+;5;+;-;-;2;0;L;1
+26. Jun;Zaglebie Lubin;Korona Kielce;2;1;Home win;+;+;-;3;+;-;-;1;1;L;1
+27. Jun;Gornik Zabrze;Wisla Krakow;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+27. Jun;Legia Warsaw;Piast Gliwice;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+27. Jun;Wisla Plock;LKS Lodz;2;0;Home win;+;-;-;2;-;+;-;2;0;L;1
+28. Jun;Jagiellonia;Lechia Gdansk;1;2;Away win;+;+;-;3;+;-;-;1;0;L;1
+28. Jun;Slask Wroclaw;Lech Poznan;2;2;Draw;+;+;+;4;+;-;-;0;1;V;1
+29. Jun;KS Cracovia;Pogon Szczecin;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+03. Jul;Korona Kielce;Arka Gdynia;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+03. Jul;LKS Lodz;Wisla Krakow;1;2;Away win;+;+;-;3;+;-;-;1;1;L;1
+04. Jul;Lech Poznan;Legia Warsaw;2;1;Home win;+;+;-;3;+;-;-;2;0;L;1
+04. Jul;Lechia Gdansk;KS Cracovia;0;3;Away win;+;+;-;3;-;-;+;0;0;V;1
+04. Jul;Rakow Czest.;Zaglebie Lubin;1;2;Away win;+;+;-;3;+;-;-;0;2;V;1
+05. Jul;Piast Gliwice;Slask Wroclaw;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+05. Jul;Pogon Szczecin;Jagiellonia;2;2;Draw;+;+;+;4;+;-;-;2;0;L;1
+06. Jul;Wisla Plock;Gornik Zabrze;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+10. Jul;Gornik Zabrze;Rakow Czest.;4;1;Home win;+;+;+;5;+;-;-;1;1;V;1
+10. Jul;Zaglebie Lubin;Wisla Plock;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+11. Jul;Arka Gdynia;LKS Lodz;3;2;Home win;+;+;+;5;+;-;-;3;0;L;1
+11. Jul;Legia Warsaw;KS Cracovia;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+11. Jul;Wisla Krakow;Korona Kielce;1;1;Draw;+;-;-;2;+;-;-;1;1;L;1
+12. Jul;Lech Poznan;Lechia Gdansk;3;2;Home win;+;+;+;5;+;-;-;3;1;L;1
+12. Jul;Piast Gliwice;Jagiellonia;2;0;Home win;+;-;-;2;-;+;-;2;0;L;1
+12. Jul;Slask Wroclaw;Pogon Szczecin;2;2;Draw;+;+;+;4;+;-;-;2;1;V;1
+14. Jul;Arka Gdynia;Gornik Zabrze;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+14. Jul;LKS Lodz;Rakow Czest.;3;2;Home win;+;+;+;5;+;-;-;1;2;V;1
+14. Jul;Wisla Plock;Korona Kielce;3;1;Home win;+;+;+;4;+;-;-;3;1;V;1
+14. Jul;Zaglebie Lubin;Wisla Krakow;3;1;Home win;+;+;+;4;+;-;-;2;1;V;1
+15. Jul;Jagiellonia;Slask Wroclaw;2;1;Home win;+;+;-;3;+;-;-;1;1;L;1
+15. Jul;KS Cracovia;Lech Poznan;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+15. Jul;Lechia Gdansk;Legia Warsaw;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+15. Jul;Pogon Szczecin;Piast Gliwice;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+18. Jul;Gornik Zabrze;Zaglebie Lubin;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+18. Jul;Korona Kielce;LKS Lodz;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+18. Jul;Rakow Czest.;Wisla Plock;2;1;Home win;+;+;-;3;+;-;-;0;1;V;1
+18. Jul;Wisla Krakow;Arka Gdynia;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+19. Jul;Lech Poznan;Jagiellonia;4;0;Home win;+;+;+;4;-;+;-;4;0;L;1
+19. Jul;Legia Warsaw;Pogon Szczecin;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+19. Jul;Piast Gliwice;KS Cracovia;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+19. Jul;Slask Wroclaw;Lechia Gdansk;1;2;Away win;+;+;-;3;+;-;-;1;1;V;1

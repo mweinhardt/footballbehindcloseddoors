@@ -1,0 +1,307 @@
+Date;Local;Visitor;HG;AG;Outcome;1.5+;2.5+;3.5+;TG;BTS;hCS;aCS;HTh;HTa;FG;sample
+16. Aug;Bayern Munich;Hertha Berlin;2;2;Draw;+;+;+;4;+;-;-;1;2;L;0
+17. Aug;Dortmund;FC Augsburg;5;1;Home win;+;+;+;6;+;-;-;1;1;V;0
+17. Aug;Freiburg;FSV Mainz;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+17. Aug;Leverkusen;Paderborn;3;2;Home win;+;+;+;5;+;-;-;2;2;L;0
+17. Aug;Monchengladbach;Schalke 04;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+17. Aug;Werder Bremen;Dusseldorf;1;3;Away win;+;+;+;4;+;-;-;0;1;V;0
+17. Aug;Wolfsburg;FC Koln;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+18. Aug;E. Frankfurt;Hoffenheim;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+18. Aug;Union Berlin;RB Leipzig;0;4;Away win;+;+;+;4;-;-;+;0;3;V;0
+23. Aug;FC Koln;Dortmund;1;3;Away win;+;+;+;4;+;-;-;1;0;L;0
+24. Aug;Dusseldorf;Leverkusen;1;3;Away win;+;+;+;4;+;-;-;0;3;V;0
+24. Aug;FC Augsburg;Union Berlin;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+24. Aug;FSV Mainz;Monchengladbach;1;3;Away win;+;+;+;4;+;-;-;1;1;L;0
+24. Aug;Hoffenheim;Werder Bremen;3;2;Home win;+;+;+;5;+;-;-;0;1;V;0
+24. Aug;Paderborn;Freiburg;1;3;Away win;+;+;+;4;+;-;-;1;2;L;0
+24. Aug;Schalke 04;Bayern Munich;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+25. Aug;Hertha Berlin;Wolfsburg;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+25. Aug;RB Leipzig;E. Frankfurt;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+30. Aug;Monchengladbach;RB Leipzig;1;3;Away win;+;+;+;4;+;-;-;0;1;V;0
+31. Aug;Bayern Munich;FSV Mainz;6;1;Home win;+;+;+;7;+;-;-;2;1;V;0
+31. Aug;Freiburg;FC Koln;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+31. Aug;Leverkusen;Hoffenheim;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+31. Aug;Schalke 04;Hertha Berlin;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+31. Aug;Union Berlin;Dortmund;3;1;Home win;+;+;+;4;+;-;-;1;1;L;0
+31. Aug;Wolfsburg;Paderborn;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+01. Sep;E. Frankfurt;Dusseldorf;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+01. Sep;Werder Bremen;FC Augsburg;3;2;Home win;+;+;+;5;+;-;-;2;1;L;0
+13. Sep;Dusseldorf;Wolfsburg;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+14. Sep;Dortmund;Leverkusen;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+14. Sep;FC Augsburg;E. Frankfurt;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+14. Sep;FC Koln;Monchengladbach;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+14. Sep;FSV Mainz;Hertha Berlin;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+14. Sep;RB Leipzig;Bayern Munich;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+14. Sep;Union Berlin;Werder Bremen;1;2;Away win;+;+;-;3;+;-;-;1;1;V;0
+15. Sep;Hoffenheim;Freiburg;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+15. Sep;Paderborn;Schalke 04;1;5;Away win;+;+;+;6;+;-;-;1;1;L;0
+20. Sep;Schalke 04;FSV Mainz;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+21. Sep;Bayern Munich;FC Koln;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+21. Sep;Freiburg;FC Augsburg;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+21. Sep;Hertha Berlin;Paderborn;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+21. Sep;Leverkusen;Union Berlin;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+21. Sep;Werder Bremen;RB Leipzig;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+22. Sep;E. Frankfurt;Dortmund;2;2;Draw;+;+;+;4;+;-;-;1;1;V;0
+22. Sep;Monchengladbach;Dusseldorf;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+23. Sep;Wolfsburg;Hoffenheim;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+27. Sep;Union Berlin;E. Frankfurt;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+28. Sep;Dortmund;Werder Bremen;2;2;Draw;+;+;+;4;+;-;-;2;1;V;0
+28. Sep;FC Augsburg;Leverkusen;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+28. Sep;FSV Mainz;Wolfsburg;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+28. Sep;Hoffenheim;Monchengladbach;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+28. Sep;Paderborn;Bayern Munich;2;3;Away win;+;+;+;5;+;-;-;0;1;V;0
+28. Sep;RB Leipzig;Schalke 04;1;3;Away win;+;+;+;4;+;-;-;0;2;V;0
+29. Sep;Dusseldorf;Freiburg;1;2;Away win;+;+;-;3;+;-;-;1;1;L;0
+29. Sep;FC Koln;Hertha Berlin;0;4;Away win;+;+;+;4;-;-;+;0;1;V;0
+4 Oct;Hertha Berlin;Dusseldorf;3;1;Home win;+;+;+;4;+;-;-;2;1;V;0
+5 Oct;Bayern Munich;Hoffenheim;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+5 Oct;Freiburg;Dortmund;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+5 Oct;Leverkusen;RB Leipzig;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+5 Oct;Paderborn;FSV Mainz;1;2;Away win;+;+;-;3;+;-;-;1;2;V;0
+5 Oct;Schalke 04;FC Koln;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+6 Oct;E. Frankfurt;Werder Bremen;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+6 Oct;Monchengladbach;FC Augsburg;5;1;Home win;+;+;+;6;+;-;-;4;0;L;0
+6 Oct;Wolfsburg;Union Berlin;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+18 Oct;E. Frankfurt;Leverkusen;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+19 Oct;Dortmund;Monchengladbach;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+19 Oct;Dusseldorf;FSV Mainz;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+19 Oct;FC Augsburg;Bayern Munich;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+19 Oct;RB Leipzig;Wolfsburg;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+19 Oct;Union Berlin;Freiburg;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+19 Oct;Werder Bremen;Hertha Berlin;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+20 Oct;FC Koln;Paderborn;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+20 Oct;Hoffenheim;Schalke 04;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+25 Oct;FSV Mainz;FC Koln;3;1;Home win;+;+;+;4;+;-;-;1;1;V;0
+26 Oct;Bayern Munich;Union Berlin;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+26 Oct;Freiburg;RB Leipzig;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+26 Oct;Hertha Berlin;Hoffenheim;2;3;Away win;+;+;+;5;+;-;-;0;2;V;0
+26 Oct;Leverkusen;Werder Bremen;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+26 Oct;Paderborn;Dusseldorf;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+26 Oct;Schalke 04;Dortmund;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+27 Oct;Monchengladbach;E. Frankfurt;4;2;Home win;+;+;+;6;+;-;-;2;0;L;0
+27 Oct;Wolfsburg;FC Augsburg;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+01. Nov;Hoffenheim;Paderborn;3;0;Home win;+;+;-;3;-;+;-;3;0;L;0
+02. Nov;Dortmund;Wolfsburg;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+02. Nov;E. Frankfurt;Bayern Munich;5;1;Home win;+;+;+;6;+;-;-;2;1;L;0
+02. Nov;Leverkusen;Monchengladbach;1;2;Away win;+;+;-;3;+;-;-;1;2;V;0
+02. Nov;RB Leipzig;FSV Mainz;8;0;Home win;+;+;+;8;-;+;-;5;0;L;0
+02. Nov;Union Berlin;Hertha Berlin;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+02. Nov;Werder Bremen;Freiburg;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+03. Nov;Dusseldorf;FC Koln;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+03. Nov;FC Augsburg;Schalke 04;2;3;Away win;+;+;+;5;+;-;-;1;1;L;0
+08. Nov;FC Koln;Hoffenheim;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+09. Nov;Bayern Munich;Dortmund;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+09. Nov;FSV Mainz;Union Berlin;2;3;Away win;+;+;+;5;+;-;-;0;2;V;0
+09. Nov;Hertha Berlin;RB Leipzig;2;4;Away win;+;+;+;6;+;-;-;1;2;L;0
+09. Nov;Paderborn;FC Augsburg;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+09. Nov;Schalke 04;Dusseldorf;3;3;Draw;+;+;+;6;+;-;-;1;0;L;0
+10. Nov;Freiburg;E. Frankfurt;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+10. Nov;Monchengladbach;Werder Bremen;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+10. Nov;Wolfsburg;Leverkusen;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+22. Nov;Dortmund;Paderborn;3;3;Draw;+;+;+;6;+;-;-;0;3;V;0
+23. Nov;Dusseldorf;Bayern Munich;0;4;Away win;+;+;+;4;-;-;+;0;3;V;0
+23. Nov;E. Frankfurt;Wolfsburg;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+23. Nov;Leverkusen;Freiburg;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+23. Nov;RB Leipzig;FC Koln;4;1;Home win;+;+;+;5;+;-;-;3;1;L;0
+23. Nov;Union Berlin;Monchengladbach;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+23. Nov;Werder Bremen;Schalke 04;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+24. Nov;FC Augsburg;Hertha Berlin;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+24. Nov;Hoffenheim;FSV Mainz;1;5;Away win;+;+;+;6;+;-;-;0;1;V;0
+29. Nov;Schalke 04;Union Berlin;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+30. Nov;Bayern Munich;Leverkusen;1;2;Away win;+;+;-;3;+;-;-;1;2;V;0
+30. Nov;FC Koln;FC Augsburg;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+30. Nov;Hertha Berlin;Dortmund;1;2;Away win;+;+;-;3;+;-;-;1;2;V;0
+30. Nov;Hoffenheim;Dusseldorf;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+30. Nov;Paderborn;RB Leipzig;2;3;Away win;+;+;+;5;+;-;-;0;3;V;0
+1 Dec;Monchengladbach;Freiburg;4;2;Home win;+;+;+;6;+;-;-;1;1;L;0
+1 Dec;Wolfsburg;Werder Bremen;2;3;Away win;+;+;+;5;+;-;-;1;2;V;0
+2 Dec;FSV Mainz;E. Frankfurt;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+6 Dec;E. Frankfurt;Hertha Berlin;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+7 Dec;Dortmund;Dusseldorf;5;0;Home win;+;+;+;5;-;+;-;1;0;L;0
+7 Dec;FC Augsburg;FSV Mainz;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+7 Dec;Freiburg;Wolfsburg;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+7 Dec;Leverkusen;Schalke 04;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+7 Dec;Monchengladbach;Bayern Munich;2;1;Home win;+;+;-;3;+;-;-;0;0;V;0
+7 Dec;RB Leipzig;Hoffenheim;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+8 Dec;Union Berlin;FC Koln;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+8 Dec;Werder Bremen;Paderborn;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+13 Dec;Hoffenheim;FC Augsburg;2;4;Away win;+;+;+;6;+;-;-;1;1;V;0
+14 Dec;Bayern Munich;Werder Bremen;6;1;Home win;+;+;+;7;+;-;-;2;1;V;0
+14 Dec;Dusseldorf;RB Leipzig;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+14 Dec;FC Koln;Leverkusen;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+14 Dec;FSV Mainz;Dortmund;0;4;Away win;+;+;+;4;-;-;+;0;1;V;0
+14 Dec;Hertha Berlin;Freiburg;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+14 Dec;Paderborn;Union Berlin;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+15 Dec;Schalke 04;E. Frankfurt;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+15 Dec;Wolfsburg;Monchengladbach;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+17 Dec;Dortmund;RB Leipzig;3;3;Draw;+;+;+;6;+;-;-;2;0;L;0
+17 Dec;FC Augsburg;Dusseldorf;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+17 Dec;Union Berlin;Hoffenheim;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+17 Dec;Werder Bremen;FSV Mainz;0;5;Away win;+;+;+;5;-;-;+;0;4;V;0
+18 Dec;E. Frankfurt;FC Koln;2;4;Away win;+;+;+;6;+;-;-;2;1;L;0
+18 Dec;Freiburg;Bayern Munich;1;3;Away win;+;+;+;4;+;-;-;0;1;V;0
+18 Dec;Leverkusen;Hertha Berlin;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+18 Dec;Monchengladbach;Paderborn;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+18 Dec;Wolfsburg;Schalke 04;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+20 Dec;Hoffenheim;Dortmund;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+21 Dec;Bayern Munich;Wolfsburg;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+21 Dec;FC Koln;Werder Bremen;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+21 Dec;FSV Mainz;Leverkusen;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+21 Dec;Hertha Berlin;Monchengladbach;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+21 Dec;RB Leipzig;FC Augsburg;3;1;Home win;+;+;+;4;+;-;-;0;1;V;0
+21 Dec;Schalke 04;Freiburg;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+22 Dec;Dusseldorf;Union Berlin;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+22 Dec;Paderborn;E. Frankfurt;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+17. Jan;Schalke 04;Monchengladbach;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+18. Jan;Dusseldorf;Werder Bremen;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+18. Jan;FC Augsburg;Dortmund;3;5;Away win;+;+;+;8;+;-;-;1;0;L;0
+18. Jan;FC Koln;Wolfsburg;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+18. Jan;FSV Mainz;Freiburg;1;2;Away win;+;+;-;3;+;-;-;0;2;V;0
+18. Jan;Hoffenheim;E. Frankfurt;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+18. Jan;RB Leipzig;Union Berlin;3;1;Home win;+;+;+;4;+;-;-;0;1;V;0
+19. Jan;Hertha Berlin;Bayern Munich;0;4;Away win;+;+;+;4;-;-;+;0;0;V;0
+19. Jan;Paderborn;Leverkusen;1;4;Away win;+;+;+;5;+;-;-;0;3;V;0
+24. Jan;Dortmund;FC Koln;5;1;Home win;+;+;+;6;+;-;-;2;0;L;0
+25. Jan;Bayern Munich;Schalke 04;5;0;Home win;+;+;+;5;-;+;-;2;0;L;0
+25. Jan;E. Frankfurt;RB Leipzig;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+25. Jan;Freiburg;Paderborn;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+25. Jan;Monchengladbach;FSV Mainz;3;1;Home win;+;+;+;4;+;-;-;1;1;V;0
+25. Jan;Union Berlin;FC Augsburg;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+25. Jan;Wolfsburg;Hertha Berlin;1;2;Away win;+;+;-;3;+;-;-;0;0;L;0
+26. Jan;Leverkusen;Dusseldorf;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+26. Jan;Werder Bremen;Hoffenheim;0;3;Away win;+;+;-;3;-;-;+;0;0;V;0
+31. Jan;Hertha Berlin;Schalke 04;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+01. Feb;Dortmund;Union Berlin;5;0;Home win;+;+;+;5;-;+;-;2;0;L;0
+01. Feb;Dusseldorf;E. Frankfurt;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+01. Feb;FC Augsburg;Werder Bremen;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+01. Feb;FSV Mainz;Bayern Munich;1;3;Away win;+;+;+;4;+;-;-;1;3;V;0
+01. Feb;Hoffenheim;Leverkusen;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+01. Feb;RB Leipzig;Monchengladbach;2;2;Draw;+;+;+;4;+;-;-;0;2;V;0
+02. Feb;FC Koln;Freiburg;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+02. Feb;Paderborn;Wolfsburg;2;4;Away win;+;+;+;6;+;-;-;1;2;L;0
+07. Feb;E. Frankfurt;FC Augsburg;5;0;Home win;+;+;+;5;-;+;-;1;0;L;0
+08. Feb;Freiburg;Hoffenheim;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+08. Feb;Hertha Berlin;FSV Mainz;1;3;Away win;+;+;+;4;+;-;-;0;1;V;0
+08. Feb;Leverkusen;Dortmund;4;3;Home win;+;+;+;7;+;-;-;2;2;L;0
+08. Feb;Schalke 04;Paderborn;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+08. Feb;Werder Bremen;Union Berlin;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+08. Feb;Wolfsburg;Dusseldorf;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+09. Feb;Bayern Munich;RB Leipzig;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+14. Feb;Dortmund;E. Frankfurt;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+15. Feb;Dusseldorf;Monchengladbach;1;4;Away win;+;+;+;5;+;-;-;1;1;V;0
+15. Feb;FC Augsburg;Freiburg;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+15. Feb;Hoffenheim;Wolfsburg;2;3;Away win;+;+;+;5;+;-;-;1;1;V;0
+15. Feb;Paderborn;Hertha Berlin;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+15. Feb;RB Leipzig;Werder Bremen;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+15. Feb;Union Berlin;Leverkusen;2;3;Away win;+;+;+;5;+;-;-;1;1;L;0
+16. Feb;FC Koln;Bayern Munich;1;4;Away win;+;+;+;5;+;-;-;0;3;V;0
+16. Feb;FSV Mainz;Schalke 04;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+21. Feb;Bayern Munich;Paderborn;3;2;Home win;+;+;+;5;+;-;-;1;1;L;0
+22. Feb;Freiburg;Dusseldorf;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+22. Feb;Hertha Berlin;FC Koln;0;5;Away win;+;+;+;5;-;-;+;0;3;V;0
+22. Feb;Monchengladbach;Hoffenheim;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+22. Feb;Schalke 04;RB Leipzig;0;5;Away win;+;+;+;5;-;-;+;0;1;V;0
+22. Feb;Werder Bremen;Dortmund;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+23. Feb;Leverkusen;FC Augsburg;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+23. Feb;Wolfsburg;FSV Mainz;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+24. Feb;E. Frankfurt;Union Berlin;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+28. Feb;Dusseldorf;Hertha Berlin;3;3;Draw;+;+;+;6;+;-;-;3;0;L;0
+29. Feb;Dortmund;Freiburg;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+29. Feb;FC Augsburg;Monchengladbach;2;3;Away win;+;+;+;5;+;-;-;0;0;V;0
+29. Feb;FC Koln;Schalke 04;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+29. Feb;FSV Mainz;Paderborn;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+29. Feb;Hoffenheim;Bayern Munich;0;6;Away win;+;+;+;6;-;-;+;0;4;V;0
+1 Mar;RB Leipzig;Leverkusen;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+1 Mar;Union Berlin;Wolfsburg;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+6 Mar;Paderborn;FC Koln;1;2;Away win;+;+;-;3;+;-;-;0;2;V;0
+7 Mar;Freiburg;Union Berlin;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+7 Mar;Hertha Berlin;Werder Bremen;2;2;Draw;+;+;+;4;+;-;-;1;2;V;0
+7 Mar;Leverkusen;E. Frankfurt;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+7 Mar;Monchengladbach;Dortmund;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+7 Mar;Schalke 04;Hoffenheim;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+7 Mar;Wolfsburg;RB Leipzig;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+8 Mar;Bayern Munich;FC Augsburg;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+8 Mar;FSV Mainz;Dusseldorf;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+11 Mar;Monchengladbach;FC Koln;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+16 May;Dortmund;Schalke 04;4;0;Home win;+;+;+;4;-;+;-;2;0;L;1
+16 May;Dusseldorf;Paderborn;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+16 May;E. Frankfurt;Monchengladbach;1;3;Away win;+;+;+;4;+;-;-;0;2;V;1
+16 May;FC Augsburg;Wolfsburg;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+16 May;Hoffenheim;Hertha Berlin;0;3;Away win;+;+;-;3;-;-;+;0;0;V;1
+16 May;RB Leipzig;Freiburg;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+17 May;FC Koln;FSV Mainz;2;2;Draw;+;+;+;4;+;-;-;1;0;L;1
+17 May;Union Berlin;Bayern Munich;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+18 May;Werder Bremen;Leverkusen;1;4;Away win;+;+;+;5;+;-;-;1;2;V;1
+22 May;Hertha Berlin;Union Berlin;4;0;Home win;+;+;+;4;-;+;-;0;0;L;1
+23 May;Bayern Munich;E. Frankfurt;5;2;Home win;+;+;+;7;+;-;-;2;0;L;1
+23 May;Freiburg;Werder Bremen;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+23 May;Monchengladbach;Leverkusen;1;3;Away win;+;+;+;4;+;-;-;0;1;V;1
+23 May;Paderborn;Hoffenheim;1;1;Draw;+;-;-;2;+;-;-;1;1;V;1
+23 May;Wolfsburg;Dortmund;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+24 May;FC Koln;Dusseldorf;2;2;Draw;+;+;+;4;+;-;-;0;1;V;1
+24 May;FSV Mainz;RB Leipzig;0;5;Away win;+;+;+;5;-;-;+;0;3;V;1
+24 May;Schalke 04;FC Augsburg;0;3;Away win;+;+;-;3;-;-;+;0;1;V;1
+26 May;Dortmund;Bayern Munich;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+26 May;E. Frankfurt;Freiburg;3;3;Draw;+;+;+;6;+;-;-;1;1;V;1
+26 May;Leverkusen;Wolfsburg;1;4;Away win;+;+;+;5;+;-;-;0;1;V;1
+26 May;Werder Bremen;Monchengladbach;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+27 May;Dusseldorf;Schalke 04;2;1;Home win;+;+;-;3;+;-;-;0;0;V;1
+27 May;FC Augsburg;Paderborn;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+27 May;Hoffenheim;FC Koln;3;1;Home win;+;+;+;4;+;-;-;1;0;L;1
+27 May;RB Leipzig;Hertha Berlin;2;2;Draw;+;+;+;4;+;-;-;1;1;V;1
+27 May;Union Berlin;FSV Mainz;1;1;Draw;+;-;-;2;+;-;-;1;1;V;1
+29 May;Freiburg;Leverkusen;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+30 May;Bayern Munich;Dusseldorf;5;0;Home win;+;+;+;5;-;+;-;3;0;L;1
+30 May;FSV Mainz;Hoffenheim;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+30 May;Hertha Berlin;FC Augsburg;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+30 May;Schalke 04;Werder Bremen;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+30 May;Wolfsburg;E. Frankfurt;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+31 May;Monchengladbach;Union Berlin;4;1;Home win;+;+;+;5;+;-;-;2;0;L;1
+31 May;Paderborn;Dortmund;1;6;Away win;+;+;+;7;+;-;-;0;0;V;1
+01. Jun;FC Koln;RB Leipzig;2;4;Away win;+;+;+;6;+;-;-;1;2;L;1
+03. Jun;Werder Bremen;E. Frankfurt;0;3;Away win;+;+;-;3;-;-;+;0;0;V;1
+05. Jun;Freiburg;Monchengladbach;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+06. Jun;Dortmund;Hertha Berlin;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+06. Jun;Dusseldorf;Hoffenheim;2;2;Draw;+;+;+;4;+;-;-;1;1;L;1
+06. Jun;E. Frankfurt;FSV Mainz;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+06. Jun;Leverkusen;Bayern Munich;2;4;Away win;+;+;+;6;+;-;-;1;3;L;1
+06. Jun;RB Leipzig;Paderborn;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+07. Jun;FC Augsburg;FC Koln;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+07. Jun;Union Berlin;Schalke 04;1;1;Draw;+;-;-;2;+;-;-;1;1;L;1
+07. Jun;Werder Bremen;Wolfsburg;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+12. Jun;Hoffenheim;RB Leipzig;0;2;Away win;+;-;-;2;-;-;+;0;2;V;1
+13. Jun;Bayern Munich;Monchengladbach;2;1;Home win;+;+;-;3;+;-;-;1;1;L;1
+13. Jun;Dusseldorf;Dortmund;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+13. Jun;FC Koln;Union Berlin;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+13. Jun;Hertha Berlin;E. Frankfurt;1;4;Away win;+;+;+;5;+;-;-;1;0;L;1
+13. Jun;Paderborn;Werder Bremen;1;5;Away win;+;+;+;6;+;-;-;0;3;V;1
+13. Jun;Wolfsburg;Freiburg;2;2;Draw;+;+;+;4;+;-;-;2;1;L;1
+14. Jun;FSV Mainz;FC Augsburg;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+14. Jun;Schalke 04;Leverkusen;1;1;Draw;+;-;-;2;+;-;-;0;0;L;1
+16. Jun;Freiburg;Hertha Berlin;2;1;Home win;+;+;-;3;+;-;-;0;0;L;1
+16. Jun;Monchengladbach;Wolfsburg;3;0;Home win;+;+;-;3;-;+;-;2;0;L;1
+16. Jun;Union Berlin;Paderborn;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+16. Jun;Werder Bremen;Bayern Munich;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+17. Jun;Dortmund;FSV Mainz;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+17. Jun;E. Frankfurt;Schalke 04;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+17. Jun;FC Augsburg;Hoffenheim;1;3;Away win;+;+;+;4;+;-;-;0;0;V;1
+17. Jun;Leverkusen;FC Koln;3;1;Home win;+;+;+;4;+;-;-;2;0;L;1
+17. Jun;RB Leipzig;Dusseldorf;2;2;Draw;+;+;+;4;+;-;-;0;0;L;1
+20. Jun;Bayern Munich;Freiburg;3;1;Home win;+;+;+;4;+;-;-;3;1;L;1
+20. Jun;Dusseldorf;FC Augsburg;1;1;Draw;+;-;-;2;+;-;-;1;1;V;1
+20. Jun;FC Koln;E. Frankfurt;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+20. Jun;FSV Mainz;Werder Bremen;3;1;Home win;+;+;+;4;+;-;-;2;0;L;1
+20. Jun;Hertha Berlin;Leverkusen;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+20. Jun;Hoffenheim;Union Berlin;4;0;Home win;+;+;+;4;-;+;-;3;0;L;1
+20. Jun;Paderborn;Monchengladbach;1;3;Away win;+;+;+;4;+;-;-;0;1;V;1
+20. Jun;RB Leipzig;Dortmund;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+20. Jun;Schalke 04;Wolfsburg;1;4;Away win;+;+;+;5;+;-;-;0;1;V;1
+27. Jun;Dortmund;Hoffenheim;0;4;Away win;+;+;+;4;-;-;+;0;2;V;1
+27. Jun;E. Frankfurt;Paderborn;3;2;Home win;+;+;+;5;+;-;-;2;0;L;1
+27. Jun;FC Augsburg;RB Leipzig;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+27. Jun;Freiburg;Schalke 04;4;0;Home win;+;+;+;4;-;+;-;2;0;L;1
+27. Jun;Leverkusen;FSV Mainz;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+27. Jun;Monchengladbach;Hertha Berlin;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+27. Jun;Union Berlin;Dusseldorf;3;0;Home win;+;+;-;3;-;+;-;1;0;L;1
+27. Jun;Werder Bremen;FC Koln;6;1;Home win;+;+;+;7;+;-;-;3;0;L;1
+27. Jun;Wolfsburg;Bayern Munich;0;4;Away win;+;+;+;4;-;-;+;0;2;V;1

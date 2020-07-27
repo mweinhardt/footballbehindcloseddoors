@@ -1,0 +1,307 @@
+Date;Local;Visitor;HG;AG;Outcome;1.5+;2.5+;3.5+;TG;BTS;hCS;aCS;HTh;HTa;FG;sample
+26. Jul;Stuttgart;Hannover 96;2;1;Home win;+;+;-;3;+;-;-;2;1;L;0
+27. Jul;Dynamo Dresden;FC Nurnberg;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+27. Jul;Holstein Kiel;Sandhausen;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+27. Jul;Osnabruck;Heidenheim;1;3;Away win;+;+;+;4;+;-;-;0;0;L;0
+28. Jul;Greuther Furth;Erzgebirge Aue;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+28. Jul;Hamburger SV;Darmstadt;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+28. Jul;Regensburg;Bochum;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+28. Jul;Wehen Wiesbaden;Karlsruher SC;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+29. Jul;Bielefeld;Sankt Pauli;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+02. Aug;Bochum;Bielefeld;3;3;Draw;+;+;+;6;+;-;-;0;0;V;0
+02. Aug;Sandhausen;Osnabruck;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+02. Aug;Sankt Pauli;Greuther Furth;1;3;Away win;+;+;+;4;+;-;-;1;2;V;0
+03. Aug;Hannover 96;Regensburg;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+03. Aug;Karlsruher SC;Dynamo Dresden;4;2;Home win;+;+;+;6;+;-;-;1;1;V;0
+04. Aug;Darmstadt;Holstein Kiel;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+04. Aug;Erzgebirge Aue;Wehen Wiesbaden;3;2;Home win;+;+;+;5;+;-;-;2;1;L;0
+04. Aug;Heidenheim;Stuttgart;2;2;Draw;+;+;+;4;+;-;-;0;0;V;0
+05. Aug;FC Nurnberg;Hamburger SV;0;4;Away win;+;+;+;4;-;-;+;0;2;V;0
+16. Aug;Hamburger SV;Bochum;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+16. Aug;Sandhausen;FC Nurnberg;3;2;Home win;+;+;+;5;+;-;-;2;1;L;0
+17. Aug;Bielefeld;Erzgebirge Aue;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+17. Aug;Stuttgart;Sankt Pauli;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+17. Aug;Wehen Wiesbaden;Hannover 96;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+18. Aug;Dynamo Dresden;Heidenheim;2;1;Home win;+;+;-;3;+;-;-;0;0;L;0
+18. Aug;Greuther Furth;Regensburg;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+18. Aug;Holstein Kiel;Karlsruher SC;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+19. Aug;Osnabruck;Darmstadt;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+23. Aug;Darmstadt;Dynamo Dresden;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+23. Aug;Erzgebirge Aue;Stuttgart;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+24. Aug;Bochum;Wehen Wiesbaden;3;3;Draw;+;+;+;6;+;-;-;0;3;V;0
+24. Aug;Hannover 96;Greuther Furth;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+24. Aug;Regensburg;Bielefeld;1;3;Away win;+;+;+;4;+;-;-;0;1;V;0
+25. Aug;FC Nurnberg;Osnabruck;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+25. Aug;Heidenheim;Sandhausen;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+25. Aug;Karlsruher SC;Hamburger SV;2;4;Away win;+;+;+;6;+;-;-;0;2;V;0
+26. Aug;Sankt Pauli;Holstein Kiel;2;1;Home win;+;+;-;3;+;-;-;0;0;L;0
+30. Aug;FC Nurnberg;Heidenheim;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+30. Aug;Sandhausen;Darmstadt;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+31. Aug;Bielefeld;Greuther Furth;2;2;Draw;+;+;+;4;+;-;-;1;2;V;0
+31. Aug;Dynamo Dresden;Sankt Pauli;3;3;Draw;+;+;+;6;+;-;-;1;3;V;0
+31. Aug;Wehen Wiesbaden;Regensburg;0;5;Away win;+;+;+;5;-;-;+;0;2;V;0
+01. Sep;Hamburger SV;Hannover 96;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+01. Sep;Holstein Kiel;Erzgebirge Aue;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+01. Sep;Osnabruck;Karlsruher SC;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+02. Sep;Stuttgart;Bochum;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+13. Sep;Greuther Furth;Wehen Wiesbaden;2;1;Home win;+;+;-;3;+;-;-;0;0;V;0
+13. Sep;Karlsruher SC;Sandhausen;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+14. Sep;Hannover 96;Bielefeld;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+14. Sep;Heidenheim;Holstein Kiel;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+14. Sep;Regensburg;Stuttgart;2;3;Away win;+;+;+;5;+;-;-;0;1;V;0
+15. Sep;Bochum;Dynamo Dresden;2;2;Draw;+;+;+;4;+;-;-;0;0;V;0
+15. Sep;Darmstadt;FC Nurnberg;3;3;Draw;+;+;+;6;+;-;-;1;2;L;0
+15. Sep;Erzgebirge Aue;Osnabruck;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+16. Sep;Sankt Pauli;Hamburger SV;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+20. Sep;Heidenheim;Darmstadt;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+20. Sep;Holstein Kiel;Hannover 96;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+21. Sep;FC Nurnberg;Karlsruher SC;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+21. Sep;Sandhausen;Bochum;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+21. Sep;Stuttgart;Greuther Furth;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+21. Sep;Wehen Wiesbaden;Bielefeld;2;5;Away win;+;+;+;7;+;-;-;1;3;L;0
+22. Sep;Dynamo Dresden;Regensburg;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+22. Sep;Hamburger SV;Erzgebirge Aue;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+22. Sep;Osnabruck;Sankt Pauli;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+27. Sep;Bielefeld;Stuttgart;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+27. Sep;Wehen Wiesbaden;Osnabruck;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+28. Sep;Bochum;Darmstadt;2;2;Draw;+;+;+;4;+;-;-;2;1;L;0
+28. Sep;Karlsruher SC;Heidenheim;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+28. Sep;Regensburg;Hamburger SV;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+29. Sep;Erzgebirge Aue;Dynamo Dresden;4;1;Home win;+;+;+;5;+;-;-;3;1;V;0
+29. Sep;Greuther Furth;Holstein Kiel;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+29. Sep;Sankt Pauli;Sandhausen;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+30. Sep;Hannover 96;FC Nurnberg;0;4;Away win;+;+;+;4;-;-;+;0;3;V;0
+4 Oct;Darmstadt;Karlsruher SC;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+4 Oct;Stuttgart;Wehen Wiesbaden;1;2;Away win;+;+;-;3;+;-;-;1;2;V;0
+5 Oct;Dynamo Dresden;Hannover 96;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+5 Oct;Hamburger SV;Greuther Furth;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+5 Oct;Sandhausen;Erzgebirge Aue;2;2;Draw;+;+;+;4;+;-;-;2;1;V;0
+6 Oct;FC Nurnberg;Sankt Pauli;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+6 Oct;Heidenheim;Bochum;2;3;Away win;+;+;+;5;+;-;-;1;2;V;0
+6 Oct;Holstein Kiel;Regensburg;1;2;Away win;+;+;-;3;+;-;-;1;1;L;0
+7 Oct;Osnabruck;Bielefeld;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+18 Oct;Erzgebirge Aue;FC Nurnberg;4;3;Home win;+;+;+;7;+;-;-;0;0;V;0
+18 Oct;Greuther Furth;Dynamo Dresden;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+19 Oct;Regensburg;Sandhausen;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+19 Oct;Sankt Pauli;Darmstadt;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+19 Oct;Wehen Wiesbaden;Heidenheim;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+20 Oct;Bochum;Karlsruher SC;3;3;Draw;+;+;+;6;+;-;-;3;2;V;0
+20 Oct;Hannover 96;Osnabruck;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+20 Oct;Stuttgart;Holstein Kiel;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+21 Oct;Bielefeld;Hamburger SV;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+25 Oct;Darmstadt;Erzgebirge Aue;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+25 Oct;Holstein Kiel;Bochum;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+26 Oct;Dynamo Dresden;Bielefeld;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+26 Oct;Hamburger SV;Stuttgart;6;2;Home win;+;+;+;8;+;-;-;3;1;L;0
+26 Oct;Karlsruher SC;Hannover 96;3;3;Draw;+;+;+;6;+;-;-;1;2;V;0
+27 Oct;FC Nurnberg;Regensburg;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+27 Oct;Heidenheim;Sankt Pauli;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+27 Oct;Osnabruck;Greuther Furth;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+28 Oct;Sandhausen;Wehen Wiesbaden;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+01. Nov;Hannover 96;Sandhausen;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+01. Nov;Regensburg;Osnabruck;3;3;Draw;+;+;+;6;+;-;-;2;0;L;0
+02. Nov;Erzgebirge Aue;Heidenheim;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+02. Nov;Greuther Furth;Darmstadt;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+02. Nov;Sankt Pauli;Karlsruher SC;2;2;Draw;+;+;+;4;+;-;-;0;0;L;0
+03. Nov;Bielefeld;Holstein Kiel;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+03. Nov;Stuttgart;Dynamo Dresden;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+03. Nov;Wehen Wiesbaden;Hamburger SV;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+04. Nov;Bochum;FC Nurnberg;3;1;Home win;+;+;+;4;+;-;-;3;0;L;0
+08. Nov;Dynamo Dresden;Wehen Wiesbaden;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+08. Nov;Sankt Pauli;Bochum;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+09. Nov;Holstein Kiel;Hamburger SV;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+09. Nov;Osnabruck;Stuttgart;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+09. Nov;Sandhausen;Greuther Furth;3;2;Home win;+;+;+;5;+;-;-;1;1;V;0
+10. Nov;Darmstadt;Regensburg;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+10. Nov;FC Nurnberg;Bielefeld;1;5;Away win;+;+;+;6;+;-;-;0;3;V;0
+10. Nov;Heidenheim;Hannover 96;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+11. Nov;Karlsruher SC;Erzgebirge Aue;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+22. Nov;Bochum;Osnabruck;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+22. Nov;Erzgebirge Aue;Sankt Pauli;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+23. Nov;Bielefeld;Sandhausen;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+23. Nov;Hamburger SV;Dynamo Dresden;2;1;Home win;+;+;-;3;+;-;-;0;0;V;0
+23. Nov;Wehen Wiesbaden;Holstein Kiel;3;6;Away win;+;+;+;9;+;-;-;2;4;L;0
+24. Nov;Greuther Furth;FC Nurnberg;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+24. Nov;Regensburg;Heidenheim;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+24. Nov;Stuttgart;Karlsruher SC;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+25. Nov;Hannover 96;Darmstadt;1;2;Away win;+;+;-;3;+;-;-;1;2;V;0
+29. Nov;Karlsruher SC;Regensburg;4;1;Home win;+;+;+;5;+;-;-;2;0;L;0
+29. Nov;Osnabruck;Hamburger SV;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+30. Nov;Bochum;Erzgebirge Aue;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+30. Nov;Dynamo Dresden;Holstein Kiel;1;2;Away win;+;+;-;3;+;-;-;0;2;V;0
+30. Nov;FC Nurnberg;Wehen Wiesbaden;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+30. Nov;Sankt Pauli;Hannover 96;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+1 Dec;Darmstadt;Bielefeld;1;3;Away win;+;+;+;4;+;-;-;0;0;V;0
+1 Dec;Heidenheim;Greuther Furth;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+1 Dec;Sandhausen;Stuttgart;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+6 Dec;Bielefeld;Karlsruher SC;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+6 Dec;Hamburger SV;Heidenheim;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+7 Dec;Greuther Furth;Bochum;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+7 Dec;Hannover 96;Erzgebirge Aue;3;2;Home win;+;+;+;5;+;-;-;1;1;V;0
+7 Dec;Holstein Kiel;Osnabruck;2;4;Away win;+;+;+;6;+;-;-;2;1;L;0
+8 Dec;Dynamo Dresden;Sandhausen;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+8 Dec;Regensburg;Sankt Pauli;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+8 Dec;Wehen Wiesbaden;Darmstadt;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+9 Dec;Stuttgart;FC Nurnberg;3;1;Home win;+;+;+;4;+;-;-;0;1;V;0
+13 Dec;Bochum;Hannover 96;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+13 Dec;Erzgebirge Aue;Regensburg;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+14 Dec;Heidenheim;Bielefeld;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+14 Dec;Karlsruher SC;Greuther Furth;1;5;Away win;+;+;+;6;+;-;-;1;2;V;0
+14 Dec;Sankt Pauli;Wehen Wiesbaden;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+15 Dec;FC Nurnberg;Holstein Kiel;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+15 Dec;Osnabruck;Dynamo Dresden;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+15 Dec;Sandhausen;Hamburger SV;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+16 Dec;Darmstadt;Stuttgart;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+20 Dec;FC Nurnberg;Dynamo Dresden;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+20 Dec;Karlsruher SC;Wehen Wiesbaden;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+21 Dec;Darmstadt;Hamburger SV;2;2;Draw;+;+;+;4;+;-;-;1;2;V;0
+21 Dec;Erzgebirge Aue;Greuther Furth;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+21 Dec;Hannover 96;Stuttgart;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+21 Dec;Sankt Pauli;Bielefeld;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+22 Dec;Bochum;Regensburg;2;3;Away win;+;+;+;5;+;-;-;1;2;V;0
+22 Dec;Heidenheim;Osnabruck;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+22 Dec;Sandhausen;Holstein Kiel;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+28. Jan;Bielefeld;Bochum;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+28. Jan;Greuther Furth;Sankt Pauli;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+28. Jan;Regensburg;Hannover 96;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+28. Jan;Wehen Wiesbaden;Erzgebirge Aue;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+29. Jan;Dynamo Dresden;Karlsruher SC;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+29. Jan;Holstein Kiel;Darmstadt;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+29. Jan;Osnabruck;Sandhausen;1;3;Away win;+;+;+;4;+;-;-;0;1;V;0
+29. Jan;Stuttgart;Heidenheim;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+30. Jan;Hamburger SV;FC Nurnberg;4;1;Home win;+;+;+;5;+;-;-;2;0;L;0
+31. Jan;Erzgebirge Aue;Bielefeld;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+31. Jan;Regensburg;Greuther Furth;0;2;Away win;+;-;-;2;-;-;+;0;2;V;0
+01. Feb;Hannover 96;Wehen Wiesbaden;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+01. Feb;Karlsruher SC;Holstein Kiel;0;2;Away win;+;-;-;2;-;-;+;0;2;V;0
+01. Feb;Sankt Pauli;Stuttgart;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+02. Feb;Darmstadt;Osnabruck;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+02. Feb;FC Nurnberg;Sandhausen;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+02. Feb;Heidenheim;Dynamo Dresden;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+03. Feb;Bochum;Hamburger SV;1;3;Away win;+;+;+;4;+;-;-;0;0;L;0
+07. Feb;Dynamo Dresden;Darmstadt;2;3;Away win;+;+;+;5;+;-;-;1;3;L;0
+07. Feb;Sandhausen;Heidenheim;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+08. Feb;Hamburger SV;Karlsruher SC;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+08. Feb;Osnabruck;FC Nurnberg;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+08. Feb;Stuttgart;Erzgebirge Aue;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+09. Feb;Bielefeld;Regensburg;6;0;Home win;+;+;+;6;-;+;-;2;0;L;0
+09. Feb;Greuther Furth;Hannover 96;1;3;Away win;+;+;+;4;+;-;-;0;1;V;0
+09. Feb;Wehen Wiesbaden;Bochum;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+10. Feb;Holstein Kiel;Sankt Pauli;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+14. Feb;Heidenheim;FC Nurnberg;2;2;Draw;+;+;+;4;+;-;-;1;1;V;0
+14. Feb;Sankt Pauli;Dynamo Dresden;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+15. Feb;Greuther Furth;Bielefeld;2;4;Away win;+;+;+;6;+;-;-;0;2;V;0
+15. Feb;Hannover 96;Hamburger SV;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+15. Feb;Regensburg;Wehen Wiesbaden;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+16. Feb;Darmstadt;Sandhausen;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+16. Feb;Erzgebirge Aue;Holstein Kiel;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+16. Feb;Karlsruher SC;Osnabruck;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+17. Feb;Bochum;Stuttgart;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+21. Feb;Osnabruck;Erzgebirge Aue;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+21. Feb;Wehen Wiesbaden;Greuther Furth;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+22. Feb;Dynamo Dresden;Bochum;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+22. Feb;Hamburger SV;Sankt Pauli;0;2;Away win;+;-;-;2;-;-;+;0;2;V;0
+22. Feb;Holstein Kiel;Heidenheim;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+22. Feb;Stuttgart;Regensburg;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+23. Feb;Bielefeld;Hannover 96;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+23. Feb;FC Nurnberg;Darmstadt;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+23. Feb;Sandhausen;Karlsruher SC;0;2;Away win;+;-;-;2;-;-;+;0;2;V;0
+28. Feb;Karlsruher SC;FC Nurnberg;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+28. Feb;Regensburg;Dynamo Dresden;1;2;Away win;+;+;-;3;+;-;-;0;0;L;0
+29. Feb;Darmstadt;Heidenheim;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+29. Feb;Erzgebirge Aue;Hamburger SV;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+29. Feb;Greuther Furth;Stuttgart;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+1 Mar;Bielefeld;Wehen Wiesbaden;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+1 Mar;Bochum;Sandhausen;4;4;Draw;+;+;+;8;+;-;-;2;2;L;0
+1 Mar;Sankt Pauli;Osnabruck;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+2 Mar;Hannover 96;Holstein Kiel;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+6 Mar;FC Nurnberg;Hannover 96;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+6 Mar;Osnabruck;Wehen Wiesbaden;2;6;Away win;+;+;+;8;+;-;-;2;5;L;0
+7 Mar;Darmstadt;Bochum;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+7 Mar;Hamburger SV;Regensburg;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+7 Mar;Heidenheim;Karlsruher SC;3;1;Home win;+;+;+;4;+;-;-;3;0;L;0
+8 Mar;Dynamo Dresden;Erzgebirge Aue;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+8 Mar;Holstein Kiel;Greuther Furth;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+8 Mar;Sandhausen;Sankt Pauli;2;2;Draw;+;+;+;4;+;-;-;1;1;V;0
+9 Mar;Stuttgart;Bielefeld;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+16 May;Bochum;Heidenheim;3;0;Home win;+;+;-;3;-;+;-;2;0;L;1
+16 May;Erzgebirge Aue;Sandhausen;3;1;Home win;+;+;+;4;+;-;-;1;0;L;1
+16 May;Karlsruher SC;Darmstadt;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+16 May;Regensburg;Holstein Kiel;2;2;Draw;+;+;+;4;+;-;-;0;1;V;1
+17 May;Bielefeld;Osnabruck;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+17 May;Greuther Furth;Hamburger SV;2;2;Draw;+;+;+;4;+;-;-;1;1;L;1
+17 May;Sankt Pauli;FC Nurnberg;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+17 May;Wehen Wiesbaden;Stuttgart;2;1;Home win;+;+;-;3;+;-;-;0;0;L;1
+22 May;FC Nurnberg;Erzgebirge Aue;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+22 May;Heidenheim;Wehen Wiesbaden;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+23 May;Darmstadt;Sankt Pauli;4;0;Home win;+;+;+;4;-;+;-;1;0;L;1
+23 May;Osnabruck;Hannover 96;2;4;Away win;+;+;+;6;+;-;-;1;1;L;1
+23 May;Sandhausen;Regensburg;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+24 May;Hamburger SV;Bielefeld;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+24 May;Holstein Kiel;Stuttgart;3;2;Home win;+;+;+;5;+;-;-;1;0;L;1
+24 May;Karlsruher SC;Bochum;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+26 May;Erzgebirge Aue;Darmstadt;1;3;Away win;+;+;+;4;+;-;-;1;1;L;1
+26 May;Greuther Furth;Osnabruck;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+26 May;Regensburg;FC Nurnberg;2;2;Draw;+;+;+;4;+;-;-;1;1;V;1
+26 May;Wehen Wiesbaden;Sandhausen;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+27 May;Bochum;Holstein Kiel;2;1;Home win;+;+;-;3;+;-;-;0;0;L;1
+27 May;Hannover 96;Karlsruher SC;1;1;Draw;+;-;-;2;+;-;-;0;0;L;1
+27 May;Sankt Pauli;Heidenheim;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+28 May;Stuttgart;Hamburger SV;3;2;Home win;+;+;+;5;+;-;-;0;2;V;1
+29 May;Darmstadt;Greuther Furth;1;1;Draw;+;-;-;2;+;-;-;0;0;L;1
+29 May;Osnabruck;Regensburg;2;2;Draw;+;+;+;4;+;-;-;0;2;V;1
+30 May;FC Nurnberg;Bochum;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+30 May;Holstein Kiel;Bielefeld;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+30 May;Karlsruher SC;Sankt Pauli;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+30 May;Sandhausen;Hannover 96;3;1;Home win;+;+;+;4;+;-;-;0;0;L;1
+31 May;Dynamo Dresden;Stuttgart;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+31 May;Hamburger SV;Wehen Wiesbaden;3;2;Home win;+;+;+;5;+;-;-;2;1;V;1
+31 May;Heidenheim;Erzgebirge Aue;3;0;Home win;+;+;-;3;-;+;-;0;0;L;1
+03. Jun;Hannover 96;Dynamo Dresden;3;0;Home win;+;+;-;3;-;+;-;3;0;L;1
+05. Jun;Bochum;Sankt Pauli;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+05. Jun;Greuther Furth;Sandhausen;1;2;Away win;+;+;-;3;+;-;-;0;2;V;1
+06. Jun;Bielefeld;FC Nurnberg;1;1;Draw;+;-;-;2;+;-;-;1;1;L;1
+06. Jun;Regensburg;Darmstadt;3;0;Home win;+;+;-;3;-;+;-;1;0;L;1
+06. Jun;Wehen Wiesbaden;Dynamo Dresden;2;3;Away win;+;+;+;5;+;-;-;2;2;V;1
+07. Jun;Erzgebirge Aue;Karlsruher SC;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+07. Jun;Hannover 96;Heidenheim;2;1;Home win;+;+;-;3;+;-;-;2;0;L;1
+07. Jun;Stuttgart;Osnabruck;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+08. Jun;Hamburger SV;Holstein Kiel;3;3;Draw;+;+;+;6;+;-;-;2;1;V;1
+09. Jun;Dynamo Dresden;Greuther Furth;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+12. Jun;Dynamo Dresden;Hamburger SV;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+12. Jun;Sandhausen;Bielefeld;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+13. Jun;FC Nurnberg;Greuther Furth;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+13. Jun;Heidenheim;Regensburg;4;1;Home win;+;+;+;5;+;-;-;1;0;L;1
+13. Jun;Holstein Kiel;Wehen Wiesbaden;1;2;Away win;+;+;-;3;+;-;-;1;1;L;1
+13. Jun;Osnabruck;Bochum;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+14. Jun;Darmstadt;Hannover 96;3;2;Home win;+;+;+;5;+;-;-;1;0;L;1
+14. Jun;Karlsruher SC;Stuttgart;2;1;Home win;+;+;-;3;+;-;-;1;1;L;1
+14. Jun;Sankt Pauli;Erzgebirge Aue;2;1;Home win;+;+;-;3;+;-;-;2;0;L;1
+15. Jun;Bielefeld;Dynamo Dresden;4;0;Home win;+;+;+;4;-;+;-;1;0;L;1
+16. Jun;Greuther Furth;Heidenheim;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+16. Jun;Hamburger SV;Osnabruck;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+16. Jun;Wehen Wiesbaden;FC Nurnberg;0;6;Away win;+;+;+;6;-;-;+;0;3;V;1
+17. Jun;Erzgebirge Aue;Bochum;1;2;Away win;+;+;-;3;+;-;-;0;2;V;1
+17. Jun;Hannover 96;Sankt Pauli;4;0;Home win;+;+;+;4;-;+;-;2;0;L;1
+17. Jun;Regensburg;Karlsruher SC;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+17. Jun;Stuttgart;Sandhausen;5;1;Home win;+;+;+;6;+;-;-;4;0;L;1
+18. Jun;Bielefeld;Darmstadt;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+18. Jun;Holstein Kiel;Dynamo Dresden;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+21. Jun;Bochum;Greuther Furth;2;2;Draw;+;+;+;4;+;-;-;1;1;V;1
+21. Jun;Darmstadt;Wehen Wiesbaden;3;1;Home win;+;+;+;4;+;-;-;0;1;V;1
+21. Jun;Erzgebirge Aue;Hannover 96;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+21. Jun;FC Nurnberg;Stuttgart;0;6;Away win;+;+;+;6;-;-;+;0;3;V;1
+21. Jun;Heidenheim;Hamburger SV;2;1;Home win;+;+;-;3;+;-;-;0;0;V;1
+21. Jun;Karlsruher SC;Bielefeld;3;3;Draw;+;+;+;6;+;-;-;1;3;V;1
+21. Jun;Osnabruck;Holstein Kiel;4;1;Home win;+;+;+;5;+;-;-;2;0;L;1
+21. Jun;Sandhausen;Dynamo Dresden;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+21. Jun;Sankt Pauli;Regensburg;1;1;Draw;+;-;-;2;+;-;-;1;1;L;1
+28. Jun;Bielefeld;Heidenheim;3;0;Home win;+;+;-;3;-;+;-;2;0;L;1
+28. Jun;Dynamo Dresden;Osnabruck;2;2;Draw;+;+;+;4;+;-;-;1;0;L;1
+28. Jun;Greuther Furth;Karlsruher SC;1;2;Away win;+;+;-;3;+;-;-;1;1;L;1
+28. Jun;Hamburger SV;Sandhausen;1;5;Away win;+;+;+;6;+;-;-;0;2;V;1
+28. Jun;Hannover 96;Bochum;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+28. Jun;Holstein Kiel;FC Nurnberg;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+28. Jun;Regensburg;Erzgebirge Aue;1;2;Away win;+;+;-;3;+;-;-;1;1;L;1
+28. Jun;Stuttgart;Darmstadt;1;3;Away win;+;+;+;4;+;-;-;1;1;V;1
+28. Jun;Wehen Wiesbaden;Sankt Pauli;5;3;Home win;+;+;+;8;+;-;-;3;2;L;1

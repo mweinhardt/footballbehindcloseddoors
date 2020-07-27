@@ -1,0 +1,381 @@
+Date;Local;Visitor;HG;AG;Outcome;1.5+;2.5+;3.5+;TG;BTS;hCS;aCS;HTh;HTa;FG;sample
+19. Jul;1860 Munchen;Pr. Munster;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+20. Jul;Hansa Rostock;Viktoria Koln;3;3;Draw;+;+;+;6;+;-;-;3;1;L;0
+20. Jul;Kaiserslautern;Unterhaching;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+20. Jul;Magdeburg;Braunschweig;2;4;Away win;+;+;+;6;+;-;-;1;3;V;0
+20. Jul;Meppen;Zwickau;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+20. Jul;MSV Duisburg;Sonnenhof;4;1;Home win;+;+;+;5;+;-;-;1;1;L;0
+20. Jul;Wurzburger K.;Bayern Munich B;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+21. Jul;Chemnitzer;Mannheim;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+21. Jul;KFC Uerdingen;Hallescher FC;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+22. Jul;Carl Zeiss Jena;FC Ingolstadt;1;2;Away win;+;+;-;3;+;-;-;0;0;L;0
+26. Jul;Bayern Munich B;KFC Uerdingen;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+27. Jul;Braunschweig;1860 Munchen;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+27. Jul;FC Ingolstadt;MSV Duisburg;3;2;Home win;+;+;+;5;+;-;-;1;0;L;0
+27. Jul;Hallescher FC;Hansa Rostock;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+27. Jul;Mannheim;Meppen;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+27. Jul;Pr. Munster;Carl Zeiss Jena;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+27. Jul;Sonnenhof;Kaiserslautern;1;3;Away win;+;+;+;4;+;-;-;0;2;V;0
+27. Jul;Unterhaching;Wurzburger K.;5;4;Home win;+;+;+;9;+;-;-;2;3;V;0
+28. Jul;Viktoria Koln;Chemnitzer;3;2;Home win;+;+;+;5;+;-;-;2;0;L;0
+28. Jul;Zwickau;Magdeburg;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+30. Jul;Carl Zeiss Jena;Braunschweig;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+30. Jul;Hansa Rostock;Bayern Munich B;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+30. Jul;Kaiserslautern;FC Ingolstadt;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+30. Jul;KFC Uerdingen;Unterhaching;2;2;Draw;+;+;+;4;+;-;-;2;2;V;0
+30. Jul;Wurzburger K.;Sonnenhof;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+31. Jul;1860 Munchen;Zwickau;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+31. Jul;Chemnitzer;Meppen;2;4;Away win;+;+;+;6;+;-;-;1;0;L;0
+31. Jul;Magdeburg;Mannheim;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+31. Jul;MSV Duisburg;Pr. Munster;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+31. Jul;Viktoria Koln;Hallescher FC;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+02. Aug;FC Ingolstadt;Wurzburger K.;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+03. Aug;Bayern Munich B;Viktoria Koln;2;5;Away win;+;+;+;7;+;-;-;0;3;V;0
+03. Aug;Hallescher FC;Chemnitzer;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+03. Aug;Meppen;Magdeburg;1;3;Away win;+;+;+;4;+;-;-;1;0;L;0
+03. Aug;Pr. Munster;Kaiserslautern;3;2;Home win;+;+;+;5;+;-;-;0;1;V;0
+03. Aug;Sonnenhof;KFC Uerdingen;2;2;Draw;+;+;+;4;+;-;-;1;1;V;0
+03. Aug;Unterhaching;Hansa Rostock;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+04. Aug;Braunschweig;MSV Duisburg;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+04. Aug;Zwickau;Carl Zeiss Jena;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+05. Aug;Mannheim;1860 Munchen;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+16. Aug;Chemnitzer;Magdeburg;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+17. Aug;1860 Munchen;Meppen;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+17. Aug;Hansa Rostock;Sonnenhof;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+17. Aug;KFC Uerdingen;FC Ingolstadt;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+17. Aug;MSV Duisburg;Zwickau;3;1;Home win;+;+;+;4;+;-;-;0;0;V;0
+17. Aug;Viktoria Koln;Unterhaching;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+17. Aug;Wurzburger K.;Pr. Munster;3;2;Home win;+;+;+;5;+;-;-;2;1;L;0
+18. Aug;Carl Zeiss Jena;Mannheim;1;2;Away win;+;+;-;3;+;-;-;1;1;V;0
+18. Aug;Kaiserslautern;Braunschweig;0;3;Away win;+;+;-;3;-;-;+;0;0;V;0
+19. Aug;Hallescher FC;Bayern Munich B;1;2;Away win;+;+;-;3;+;-;-;1;1;V;0
+23. Aug;FC Ingolstadt;Hansa Rostock;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+24. Aug;Bayern Munich B;Chemnitzer;2;2;Draw;+;+;+;4;+;-;-;0;0;V;0
+24. Aug;Braunschweig;Wurzburger K.;5;2;Home win;+;+;+;7;+;-;-;2;2;L;0
+24. Aug;Magdeburg;1860 Munchen;5;1;Home win;+;+;+;6;+;-;-;4;0;L;0
+24. Aug;Meppen;Carl Zeiss Jena;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+24. Aug;Pr. Munster;KFC Uerdingen;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+24. Aug;Sonnenhof;Viktoria Koln;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+25. Aug;Mannheim;MSV Duisburg;4;3;Home win;+;+;+;7;+;-;-;2;2;L;0
+25. Aug;Unterhaching;Hallescher FC;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+26. Aug;Zwickau;Kaiserslautern;3;5;Away win;+;+;+;8;+;-;-;0;2;V;0
+30. Aug;Chemnitzer;1860 Munchen;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+31. Aug;Bayern Munich B;Unterhaching;1;2;Away win;+;+;-;3;+;-;-;1;1;V;0
+31. Aug;Hallescher FC;Sonnenhof;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+31. Aug;Hansa Rostock;Pr. Munster;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+31. Aug;Viktoria Koln;FC Ingolstadt;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+31. Aug;Wurzburger K.;Zwickau;0;2;Away win;+;-;-;2;-;-;+;0;2;V;0
+01. Sep;Kaiserslautern;Mannheim;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+01. Sep;KFC Uerdingen;Braunschweig;1;2;Away win;+;+;-;3;+;-;-;0;0;L;0
+02. Sep;Carl Zeiss Jena;Magdeburg;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+13. Sep;Magdeburg;MSV Duisburg;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+14. Sep;1860 Munchen;Carl Zeiss Jena;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+14. Sep;Mannheim;Wurzburger K.;1;2;Away win;+;+;-;3;+;-;-;1;1;L;0
+14. Sep;Meppen;Kaiserslautern;6;1;Home win;+;+;+;7;+;-;-;3;1;L;0
+14. Sep;Pr. Munster;Viktoria Koln;2;3;Away win;+;+;+;5;+;-;-;0;2;V;0
+14. Sep;Sonnenhof;Bayern Munich B;2;2;Draw;+;+;+;4;+;-;-;0;2;V;0
+14. Sep;Zwickau;KFC Uerdingen;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+15. Sep;Braunschweig;Hansa Rostock;1;2;Away win;+;+;-;3;+;-;-;1;2;V;0
+15. Sep;FC Ingolstadt;Hallescher FC;2;3;Away win;+;+;+;5;+;-;-;0;0;L;0
+16. Sep;Unterhaching;Chemnitzer;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+20. Sep;Wurzburger K.;Meppen;3;2;Home win;+;+;+;5;+;-;-;3;1;L;0
+21. Sep;Chemnitzer;Carl Zeiss Jena;3;2;Home win;+;+;+;5;+;-;-;1;1;V;0
+21. Sep;Hallescher FC;Pr. Munster;2;2;Draw;+;+;+;4;+;-;-;0;0;V;0
+21. Sep;Kaiserslautern;Magdeburg;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+21. Sep;MSV Duisburg;1860 Munchen;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+21. Sep;Unterhaching;Sonnenhof;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+21. Sep;Viktoria Koln;Braunschweig;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+22. Sep;Bayern Munich B;FC Ingolstadt;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+22. Sep;Hansa Rostock;Zwickau;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+23. Sep;KFC Uerdingen;Mannheim;0;3;Away win;+;+;-;3;-;-;+;0;0;V;0
+27. Sep;Magdeburg;Wurzburger K.;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+28. Sep;1860 Munchen;Kaiserslautern;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+28. Sep;Braunschweig;Hallescher FC;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+28. Sep;Carl Zeiss Jena;MSV Duisburg;1;2;Away win;+;+;-;3;+;-;-;0;0;L;0
+28. Sep;Pr. Munster;Bayern Munich B;1;4;Away win;+;+;+;5;+;-;-;0;4;V;0
+28. Sep;Sonnenhof;Chemnitzer;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+28. Sep;Zwickau;Viktoria Koln;4;0;Home win;+;+;+;4;-;+;-;3;0;L;0
+29. Sep;Mannheim;Hansa Rostock;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+29. Sep;Meppen;KFC Uerdingen;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+30. Sep;FC Ingolstadt;Unterhaching;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+2 Oct;MSV Duisburg;Meppen;1;3;Away win;+;+;+;4;+;-;-;1;3;L;0
+4 Oct;KFC Uerdingen;Magdeburg;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+5 Oct;Hallescher FC;Zwickau;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+5 Oct;Hansa Rostock;Meppen;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+5 Oct;Kaiserslautern;Carl Zeiss Jena;3;1;Home win;+;+;+;4;+;-;-;1;1;V;0
+5 Oct;Sonnenhof;FC Ingolstadt;1;5;Away win;+;+;+;6;+;-;-;1;3;L;0
+5 Oct;Unterhaching;Pr. Munster;2;2;Draw;+;+;+;4;+;-;-;2;0;L;0
+5 Oct;Viktoria Koln;Mannheim;2;2;Draw;+;+;+;4;+;-;-;2;2;V;0
+6 Oct;Bayern Munich B;Braunschweig;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+6 Oct;Chemnitzer;MSV Duisburg;3;1;Home win;+;+;+;4;+;-;-;0;0;L;0
+7 Oct;Wurzburger K.;1860 Munchen;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+18 Oct;MSV Duisburg;Kaiserslautern;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+19 Oct;1860 Munchen;KFC Uerdingen;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+19 Oct;Braunschweig;Unterhaching;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+19 Oct;FC Ingolstadt;Chemnitzer;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+19 Oct;Magdeburg;Hansa Rostock;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+19 Oct;Mannheim;Hallescher FC;0;4;Away win;+;+;+;4;-;-;+;0;2;V;0
+19 Oct;Pr. Munster;Sonnenhof;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+20 Oct;Carl Zeiss Jena;Wurzburger K.;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+20 Oct;Zwickau;Bayern Munich B;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+21 Oct;Meppen;Viktoria Koln;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+25 Oct;Viktoria Koln;Magdeburg;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+26 Oct;FC Ingolstadt;Pr. Munster;3;2;Home win;+;+;+;5;+;-;-;1;2;V;0
+26 Oct;Hallescher FC;Meppen;3;3;Draw;+;+;+;6;+;-;-;2;2;L;0
+26 Oct;Hansa Rostock;1860 Munchen;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+26 Oct;KFC Uerdingen;Carl Zeiss Jena;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+26 Oct;Unterhaching;Zwickau;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+26 Oct;Wurzburger K.;MSV Duisburg;0;2;Away win;+;-;-;2;-;-;+;0;2;V;0
+27 Oct;Chemnitzer;Kaiserslautern;3;1;Home win;+;+;+;4;+;-;-;3;1;L;0
+27 Oct;Sonnenhof;Braunschweig;1;3;Away win;+;+;+;4;+;-;-;1;2;V;0
+28 Oct;Bayern Munich B;Mannheim;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+01. Nov;Zwickau;Sonnenhof;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+02. Nov;1860 Munchen;Viktoria Koln;4;2;Home win;+;+;+;6;+;-;-;2;0;L;0
+02. Nov;Braunschweig;FC Ingolstadt;0;3;Away win;+;+;-;3;-;-;+;0;3;V;0
+02. Nov;Kaiserslautern;Wurzburger K.;2;3;Away win;+;+;+;5;+;-;-;1;1;V;0
+02. Nov;Magdeburg;Hallescher FC;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+02. Nov;Mannheim;Unterhaching;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+02. Nov;Pr. Munster;Chemnitzer;3;3;Draw;+;+;+;6;+;-;-;2;2;V;0
+03. Nov;Carl Zeiss Jena;Hansa Rostock;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+03. Nov;Meppen;Bayern Munich B;5;3;Home win;+;+;+;8;+;-;-;1;1;V;0
+04. Nov;MSV Duisburg;KFC Uerdingen;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+08. Nov;Viktoria Koln;Carl Zeiss Jena;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+09. Nov;FC Ingolstadt;Zwickau;4;2;Home win;+;+;+;6;+;-;-;3;2;L;0
+09. Nov;Hallescher FC;1860 Munchen;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+09. Nov;Hansa Rostock;MSV Duisburg;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+09. Nov;KFC Uerdingen;Kaiserslautern;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+09. Nov;Sonnenhof;Mannheim;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+09. Nov;Unterhaching;Meppen;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+10. Nov;Bayern Munich B;Magdeburg;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+10. Nov;Chemnitzer;Wurzburger K.;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+11. Nov;Pr. Munster;Braunschweig;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+22. Nov;Carl Zeiss Jena;Hallescher FC;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+23. Nov;Braunschweig;Chemnitzer;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+23. Nov;Magdeburg;Unterhaching;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+23. Nov;Mannheim;FC Ingolstadt;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+23. Nov;Meppen;Sonnenhof;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+23. Nov;Wurzburger K.;KFC Uerdingen;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+23. Nov;Zwickau;Pr. Munster;4;2;Home win;+;+;+;6;+;-;-;2;1;L;0
+24. Nov;1860 Munchen;Bayern Munich B;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+24. Nov;Kaiserslautern;Hansa Rostock;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+25. Nov;MSV Duisburg;Viktoria Koln;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+29. Nov;Bayern Munich B;Carl Zeiss Jena;2;3;Away win;+;+;+;5;+;-;-;1;2;L;0
+30. Nov;Chemnitzer;KFC Uerdingen;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+30. Nov;Hallescher FC;MSV Duisburg;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+30. Nov;Hansa Rostock;Wurzburger K.;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+30. Nov;Pr. Munster;Mannheim;1;3;Away win;+;+;+;4;+;-;-;1;0;L;0
+30. Nov;Sonnenhof;Magdeburg;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+30. Nov;Viktoria Koln;Kaiserslautern;2;4;Away win;+;+;+;6;+;-;-;0;2;V;0
+1 Dec;FC Ingolstadt;Meppen;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+1 Dec;Unterhaching;1860 Munchen;2;3;Away win;+;+;+;5;+;-;-;1;1;L;0
+2 Dec;Braunschweig;Zwickau;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+6 Dec;Chemnitzer;Zwickau;2;2;Draw;+;+;+;4;+;-;-;2;2;V;0
+7 Dec;1860 Munchen;Sonnenhof;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+7 Dec;Carl Zeiss Jena;Unterhaching;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+7 Dec;Kaiserslautern;Hallescher FC;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+7 Dec;KFC Uerdingen;Hansa Rostock;4;1;Home win;+;+;+;5;+;-;-;2;1;V;0
+7 Dec;Magdeburg;FC Ingolstadt;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+7 Dec;Wurzburger K.;Viktoria Koln;3;1;Home win;+;+;+;4;+;-;-;0;0;V;0
+8 Dec;Mannheim;Braunschweig;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+8 Dec;MSV Duisburg;Bayern Munich B;3;2;Home win;+;+;+;5;+;-;-;2;0;L;0
+9 Dec;Meppen;Pr. Munster;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+13 Dec;Pr. Munster;Magdeburg;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+14 Dec;Bayern Munich B;Kaiserslautern;1;3;Away win;+;+;+;4;+;-;-;1;1;V;0
+14 Dec;Braunschweig;Meppen;1;2;Away win;+;+;-;3;+;-;-;1;2;V;0
+14 Dec;Hallescher FC;Wurzburger K.;2;5;Away win;+;+;+;7;+;-;-;1;3;V;0
+14 Dec;Hansa Rostock;Chemnitzer;1;2;Away win;+;+;-;3;+;-;-;1;1;L;0
+14 Dec;Viktoria Koln;KFC Uerdingen;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+14 Dec;Zwickau;Mannheim;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+15 Dec;Sonnenhof;Carl Zeiss Jena;1;2;Away win;+;+;-;3;+;-;-;0;2;V;0
+15 Dec;Unterhaching;MSV Duisburg;2;2;Draw;+;+;+;4;+;-;-;2;2;V;0
+16 Dec;FC Ingolstadt;1860 Munchen;2;2;Draw;+;+;+;4;+;-;-;1;2;L;0
+20 Dec;Viktoria Koln;Hansa Rostock;1;5;Away win;+;+;+;6;+;-;-;0;3;V;0
+21 Dec;Braunschweig;Magdeburg;2;2;Draw;+;+;+;4;+;-;-;0;0;L;0
+21 Dec;Mannheim;Chemnitzer;4;3;Home win;+;+;+;7;+;-;-;2;3;L;0
+21 Dec;Pr. Munster;1860 Munchen;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+21 Dec;Sonnenhof;MSV Duisburg;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+21 Dec;Unterhaching;Kaiserslautern;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+21 Dec;Zwickau;Meppen;2;2;Draw;+;+;+;4;+;-;-;2;0;L;0
+22 Dec;Bayern Munich B;Wurzburger K.;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+22 Dec;FC Ingolstadt;Carl Zeiss Jena;5;1;Home win;+;+;+;6;+;-;-;2;0;L;0
+22 Dec;Hallescher FC;KFC Uerdingen;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+24. Jan;Hansa Rostock;Hallescher FC;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+25. Jan;Carl Zeiss Jena;Pr. Munster;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+25. Jan;Chemnitzer;Viktoria Koln;2;2;Draw;+;+;+;4;+;-;-;2;2;L;0
+25. Jan;Magdeburg;Zwickau;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+25. Jan;Meppen;Mannheim;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+25. Jan;MSV Duisburg;FC Ingolstadt;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+25. Jan;Wurzburger K.;Unterhaching;1;2;Away win;+;+;-;3;+;-;-;0;0;L;0
+26. Jan;1860 Munchen;Braunschweig;4;1;Home win;+;+;+;5;+;-;-;2;1;L;0
+26. Jan;KFC Uerdingen;Bayern Munich B;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+27. Jan;Kaiserslautern;Sonnenhof;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+31. Jan;Hallescher FC;Viktoria Koln;3;4;Away win;+;+;+;7;+;-;-;0;1;V;0
+01. Feb;Bayern Munich B;Hansa Rostock;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+01. Feb;Braunschweig;Carl Zeiss Jena;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+01. Feb;FC Ingolstadt;Kaiserslautern;2;1;Home win;+;+;-;3;+;-;-;0;0;L;0
+01. Feb;Meppen;Chemnitzer;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+01. Feb;Pr. Munster;MSV Duisburg;1;4;Away win;+;+;+;5;+;-;-;1;2;V;0
+01. Feb;Unterhaching;KFC Uerdingen;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+02. Feb;Mannheim;Magdeburg;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+02. Feb;Zwickau;1860 Munchen;2;2;Draw;+;+;+;4;+;-;-;1;1;V;0
+03. Feb;Sonnenhof;Wurzburger K.;0;6;Away win;+;+;+;6;-;-;+;0;2;V;0
+07. Feb;MSV Duisburg;Braunschweig;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+08. Feb;1860 Munchen;Mannheim;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+08. Feb;Hansa Rostock;Unterhaching;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+08. Feb;Kaiserslautern;Pr. Munster;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+08. Feb;KFC Uerdingen;Sonnenhof;2;1;Home win;+;+;-;3;+;-;-;0;0;L;0
+08. Feb;Magdeburg;Meppen;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+08. Feb;Viktoria Koln;Bayern Munich B;2;4;Away win;+;+;+;6;+;-;-;0;1;V;0
+09. Feb;Chemnitzer;Hallescher FC;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+09. Feb;Wurzburger K.;FC Ingolstadt;3;1;Home win;+;+;+;4;+;-;-;0;1;V;0
+10. Feb;Carl Zeiss Jena;Zwickau;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+14. Feb;Pr. Munster;Wurzburger K.;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+15. Feb;Braunschweig;Kaiserslautern;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+15. Feb;FC Ingolstadt;KFC Uerdingen;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+15. Feb;Magdeburg;Chemnitzer;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+15. Feb;Meppen;1860 Munchen;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+15. Feb;Sonnenhof;Hansa Rostock;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+15. Feb;Unterhaching;Viktoria Koln;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+16. Feb;Mannheim;Carl Zeiss Jena;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+16. Feb;Zwickau;MSV Duisburg;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+17. Feb;Bayern Munich B;Hallescher FC;6;1;Home win;+;+;+;7;+;-;-;2;1;L;0
+21. Feb;Viktoria Koln;Sonnenhof;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+22. Feb;Carl Zeiss Jena;Meppen;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+22. Feb;Hansa Rostock;FC Ingolstadt;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+22. Feb;Kaiserslautern;Zwickau;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+22. Feb;KFC Uerdingen;Pr. Munster;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+22. Feb;MSV Duisburg;Mannheim;2;3;Away win;+;+;+;5;+;-;-;2;0;L;0
+22. Feb;Wurzburger K.;Braunschweig;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+23. Feb;1860 Munchen;Magdeburg;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+23. Feb;Hallescher FC;Unterhaching;3;5;Away win;+;+;+;8;+;-;-;1;2;V;0
+24. Feb;Chemnitzer;Bayern Munich B;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+28. Feb;Unterhaching;Bayern Munich B;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+29. Feb;1860 Munchen;Chemnitzer;4;3;Home win;+;+;+;7;+;-;-;1;2;V;0
+29. Feb;Braunschweig;KFC Uerdingen;4;1;Home win;+;+;+;5;+;-;-;3;0;L;0
+29. Feb;Magdeburg;Carl Zeiss Jena;6;2;Home win;+;+;+;8;+;-;-;2;1;V;0
+29. Feb;Mannheim;Kaiserslautern;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+29. Feb;Sonnenhof;Hallescher FC;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+29. Feb;Zwickau;Wurzburger K.;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+1 Mar;FC Ingolstadt;Viktoria Koln;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+1 Mar;Meppen;MSV Duisburg;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+2 Mar;Pr. Munster;Hansa Rostock;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+6 Mar;MSV Duisburg;Magdeburg;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+7 Mar;Bayern Munich B;Sonnenhof;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+7 Mar;Carl Zeiss Jena;1860 Munchen;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+7 Mar;Chemnitzer;Unterhaching;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+7 Mar;Kaiserslautern;Meppen;3;3;Draw;+;+;+;6;+;-;-;1;1;L;0
+7 Mar;Viktoria Koln;Pr. Munster;2;1;Home win;+;+;-;3;+;-;-;0;0;V;0
+7 Mar;Wurzburger K.;Mannheim;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+8 Mar;Hallescher FC;FC Ingolstadt;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+8 Mar;KFC Uerdingen;Zwickau;4;2;Home win;+;+;+;6;+;-;-;2;1;V;0
+9 Mar;Hansa Rostock;Braunschweig;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+30 May;Braunschweig;Viktoria Koln;4;2;Home win;+;+;+;6;+;-;-;2;1;V;1
+30 May;FC Ingolstadt;Bayern Munich B;1;2;Away win;+;+;-;3;+;-;-;1;1;V;1
+30 May;Magdeburg;Kaiserslautern;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+30 May;Mannheim;KFC Uerdingen;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+30 May;Meppen;Wurzburger K.;1;3;Away win;+;+;+;4;+;-;-;0;0;V;1
+30 May;Sonnenhof;Unterhaching;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+30 May;Zwickau;Hansa Rostock;2;2;Draw;+;+;+;4;+;-;-;0;2;V;1
+31 May;1860 Munchen;MSV Duisburg;3;2;Home win;+;+;+;5;+;-;-;0;1;V;1
+31 May;Carl Zeiss Jena;Chemnitzer;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+31 May;Pr. Munster;Hallescher FC;4;2;Home win;+;+;+;6;+;-;-;3;0;L;1
+02. Jun;Hansa Rostock;Mannheim;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+02. Jun;KFC Uerdingen;Meppen;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+02. Jun;Unterhaching;FC Ingolstadt;1;2;Away win;+;+;-;3;+;-;-;1;1;L;1
+02. Jun;Viktoria Koln;Zwickau;3;0;Home win;+;+;-;3;-;+;-;0;0;L;1
+02. Jun;Wurzburger K.;Magdeburg;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+03. Jun;Bayern Munich B;Pr. Munster;3;2;Home win;+;+;+;5;+;-;-;2;2;V;1
+03. Jun;Chemnitzer;Sonnenhof;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+03. Jun;Hallescher FC;Braunschweig;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+03. Jun;Kaiserslautern;1860 Munchen;1;1;Draw;+;-;-;2;+;-;-;1;1;L;1
+03. Jun;MSV Duisburg;Carl Zeiss Jena;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+05. Jun;Magdeburg;KFC Uerdingen;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+06. Jun;1860 Munchen;Wurzburger K.;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+06. Jun;Braunschweig;Bayern Munich B;1;1;Draw;+;-;-;2;+;-;-;1;1;V;1
+06. Jun;Mannheim;Viktoria Koln;2;1;Home win;+;+;-;3;+;-;-;0;1;V;1
+06. Jun;Meppen;Hansa Rostock;0;3;Away win;+;+;-;3;-;-;+;0;2;V;1
+06. Jun;MSV Duisburg;Chemnitzer;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+06. Jun;Zwickau;Hallescher FC;5;1;Home win;+;+;+;6;+;-;-;1;0;L;1
+07. Jun;Carl Zeiss Jena;Kaiserslautern;1;2;Away win;+;+;-;3;+;-;-;0;2;V;1
+07. Jun;FC Ingolstadt;Sonnenhof;1;1;Draw;+;-;-;2;+;-;-;1;1;V;1
+07. Jun;Pr. Munster;Unterhaching;2;1;Home win;+;+;-;3;+;-;-;2;0;L;1
+09. Jun;Bayern Munich B;Zwickau;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+09. Jun;Hallescher FC;Mannheim;3;0;Home win;+;+;-;3;-;+;-;1;0;L;1
+09. Jun;Hansa Rostock;Magdeburg;3;1;Home win;+;+;+;4;+;-;-;1;0;L;1
+09. Jun;KFC Uerdingen;1860 Munchen;1;3;Away win;+;+;+;4;+;-;-;1;0;L;1
+09. Jun;Viktoria Koln;Meppen;1;3;Away win;+;+;+;4;+;-;-;1;2;V;1
+10. Jun;Chemnitzer;FC Ingolstadt;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+10. Jun;Kaiserslautern;MSV Duisburg;1;3;Away win;+;+;+;4;+;-;-;1;2;V;1
+10. Jun;Sonnenhof;Pr. Munster;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+10. Jun;Unterhaching;Braunschweig;1;3;Away win;+;+;+;4;+;-;-;1;3;L;1
+10. Jun;Wurzburger K.;Carl Zeiss Jena;4;2;Home win;+;+;+;6;+;-;-;0;1;V;1
+12. Jun;Meppen;Hallescher FC;2;3;Away win;+;+;+;5;+;-;-;0;1;V;1
+13. Jun;1860 Munchen;Hansa Rostock;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+13. Jun;Braunschweig;Sonnenhof;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+13. Jun;Kaiserslautern;Chemnitzer;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+13. Jun;Magdeburg;Viktoria Koln;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+13. Jun;MSV Duisburg;Wurzburger K.;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+13. Jun;Pr. Munster;FC Ingolstadt;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+14. Jun;Carl Zeiss Jena;KFC Uerdingen;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+14. Jun;Mannheim;Bayern Munich B;2;3;Away win;+;+;+;5;+;-;-;1;3;L;1
+14. Jun;Zwickau;Unterhaching;3;3;Draw;+;+;+;6;+;-;-;2;2;V;1
+16. Jun;Chemnitzer;Pr. Munster;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+16. Jun;FC Ingolstadt;Braunschweig;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+16. Jun;Hallescher FC;Magdeburg;1;1;Draw;+;-;-;2;+;-;-;0;0;L;1
+16. Jun;Viktoria Koln;1860 Munchen;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+16. Jun;Wurzburger K.;Kaiserslautern;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+17. Jun;Bayern Munich B;Meppen;5;1;Home win;+;+;+;6;+;-;-;2;0;L;1
+17. Jun;Hansa Rostock;Carl Zeiss Jena;4;0;Home win;+;+;+;4;-;+;-;3;0;L;1
+17. Jun;KFC Uerdingen;MSV Duisburg;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+17. Jun;Sonnenhof;Zwickau;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+17. Jun;Unterhaching;Mannheim;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+19. Jun;Wurzburger K.;Chemnitzer;3;0;Home win;+;+;-;3;-;+;-;0;0;L;1
+20. Jun;Braunschweig;Pr. Munster;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+20. Jun;Carl Zeiss Jena;Viktoria Koln;2;3;Away win;+;+;+;5;+;-;-;1;1;V;1
+20. Jun;Kaiserslautern;KFC Uerdingen;4;0;Home win;+;+;+;4;-;+;-;2;0;L;1
+20. Jun;Magdeburg;Bayern Munich B;2;2;Draw;+;+;+;4;+;-;-;2;0;L;1
+20. Jun;Mannheim;Sonnenhof;3;2;Home win;+;+;+;5;+;-;-;2;0;L;1
+20. Jun;MSV Duisburg;Hansa Rostock;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+21. Jun;1860 Munchen;Hallescher FC;2;1;Home win;+;+;-;3;+;-;-;1;1;L;1
+21. Jun;Meppen;Unterhaching;3;0;Home win;+;+;-;3;-;+;-;1;0;L;1
+21. Jun;Zwickau;FC Ingolstadt;0;3;Away win;+;+;-;3;-;-;+;0;2;V;1
+23. Jun;Chemnitzer;Braunschweig;1;2;Away win;+;+;-;3;+;-;-;0;2;V;1
+23. Jun;Hansa Rostock;Kaiserslautern;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+23. Jun;KFC Uerdingen;Wurzburger K.;1;2;Away win;+;+;-;3;+;-;-;1;1;L;1
+23. Jun;Viktoria Koln;MSV Duisburg;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+24. Jun;Bayern Munich B;1860 Munchen;2;1;Home win;+;+;-;3;+;-;-;1;1;V;1
+24. Jun;FC Ingolstadt;Mannheim;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+24. Jun;Hallescher FC;Carl Zeiss Jena;5;3;Home win;+;+;+;8;+;-;-;2;2;L;1
+24. Jun;Pr. Munster;Zwickau;2;1;Home win;+;+;-;3;+;-;-;0;0;V;1
+24. Jun;Sonnenhof;Meppen;1;2;Away win;+;+;-;3;+;-;-;1;0;L;1
+24. Jun;Unterhaching;Magdeburg;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+26. Jun;KFC Uerdingen;Chemnitzer;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+27. Jun;1860 Munchen;Unterhaching;3;0;Home win;+;+;-;3;-;+;-;1;0;L;1
+27. Jun;Carl Zeiss Jena;Bayern Munich B;1;2;Away win;+;+;-;3;+;-;-;1;1;V;1
+27. Jun;Kaiserslautern;Viktoria Koln;3;0;Home win;+;+;-;3;-;+;-;1;0;L;1
+27. Jun;Mannheim;Pr. Munster;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+27. Jun;MSV Duisburg;Hallescher FC;2;2;Draw;+;+;+;4;+;-;-;1;2;V;1
+27. Jun;Wurzburger K.;Hansa Rostock;3;1;Home win;+;+;+;4;+;-;-;2;0;L;1
+27. Jun;Zwickau;Braunschweig;3;2;Home win;+;+;+;5;+;-;-;0;1;V;1
+28. Jun;Magdeburg;Sonnenhof;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+28. Jun;Meppen;FC Ingolstadt;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+01. Jul;Bayern Munich B;MSV Duisburg;2;2;Draw;+;+;+;4;+;-;-;0;1;V;1
+01. Jul;Braunschweig;Mannheim;3;2;Home win;+;+;+;5;+;-;-;2;1;L;1
+01. Jul;FC Ingolstadt;Magdeburg;0;2;Away win;+;-;-;2;-;-;+;0;0;V;1
+01. Jul;Hallescher FC;Kaiserslautern;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+01. Jul;Hansa Rostock;KFC Uerdingen;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+01. Jul;Pr. Munster;Meppen;0;3;Away win;+;+;-;3;-;-;+;0;1;V;1
+01. Jul;Sonnenhof;1860 Munchen;2;4;Away win;+;+;+;6;+;-;-;2;2;V;1
+01. Jul;Unterhaching;Carl Zeiss Jena;2;2;Draw;+;+;+;4;+;-;-;0;0;V;1
+01. Jul;Viktoria Koln;Wurzburger K.;5;1;Home win;+;+;+;6;+;-;-;0;0;L;1
+01. Jul;Zwickau;Chemnitzer;2;1;Home win;+;+;-;3;+;-;-;0;0;L;1
+04. Jul;1860 Munchen;FC Ingolstadt;0;2;Away win;+;-;-;2;-;-;+;0;0;V;1
+04. Jul;Carl Zeiss Jena;Sonnenhof;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+04. Jul;Chemnitzer;Hansa Rostock;4;2;Home win;+;+;+;6;+;-;-;0;0;L;1
+04. Jul;Kaiserslautern;Bayern Munich B;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+04. Jul;KFC Uerdingen;Viktoria Koln;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+04. Jul;Magdeburg;Pr. Munster;2;2;Draw;+;+;+;4;+;-;-;0;0;L;1
+04. Jul;Mannheim;Zwickau;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+04. Jul;Meppen;Braunschweig;4;3;Home win;+;+;+;7;+;-;-;3;1;L;1
+04. Jul;MSV Duisburg;Unterhaching;4;0;Home win;+;+;+;4;-;+;-;1;0;L;1
+04. Jul;Wurzburger K.;Hallescher FC;2;2;Draw;+;+;+;4;+;-;-;1;1;V;1

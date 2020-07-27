@@ -1,0 +1,553 @@
+Date;Local;Visitor;HG;AG;Outcome;1.5+;2.5+;3.5+;TG;BTS;hCS;aCS;HTh;HTa;FG;sample
+09. Aug;Portimonense;Belenenses;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+10. Aug;Benfica;Pacos Ferreira;5;0;Home win;+;+;+;5;-;+;-;2;0;L;0
+10. Aug;Gil Vicente;FC Porto;2;1;Home win;+;+;-;3;+;-;-;0;0;L;0
+10. Aug;Santa Clara;Famalicao;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+11. Aug;Boavista;Aves;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+11. Aug;Maritimo;Sporting CP;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+11. Aug;Sporting Braga;Moreirense;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+12. Aug;Vitoria Setubal;Tondela;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+16. Aug;Famalicao;Rio Ave;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+17. Aug;Belenenses;Benfica;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+17. Aug;FC Porto;Vitoria Setubal;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+17. Aug;Moreirense;Gil Vicente;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+18. Aug;Aves;Maritimo;3;1;Home win;+;+;+;4;+;-;-;2;1;L;0
+18. Aug;Guimaraes;Boavista;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+18. Aug;Pacos Ferreira;Santa Clara;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+18. Aug;Sporting CP;Sporting Braga;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+19. Aug;Tondela;Portimonense;1;2;Away win;+;+;-;3;+;-;-;0;2;V;0
+23. Aug;Rio Ave;Aves;5;1;Home win;+;+;+;6;+;-;-;2;0;L;0
+23. Aug;Vitoria Setubal;Moreirense;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+24. Aug;Benfica;FC Porto;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+24. Aug;Boavista;Pacos Ferreira;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+25. Aug;Gil Vicente;Sporting Braga;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+25. Aug;Guimaraes;Famalicao;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+25. Aug;Maritimo;Tondela;2;3;Away win;+;+;+;5;+;-;-;0;1;V;0
+25. Aug;Portimonense;Sporting CP;1;3;Away win;+;+;+;4;+;-;-;1;2;V;0
+25. Aug;Santa Clara;Belenenses;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+30. Aug;Belenenses;Boavista;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+30. Aug;Moreirense;Portimonense;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+31. Aug;Aves;Famalicao;2;3;Away win;+;+;+;5;+;-;-;1;1;V;0
+31. Aug;Gil Vicente;Vitoria Setubal;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+31. Aug;Pacos Ferreira;Maritimo;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+31. Aug;Sporting CP;Rio Ave;2;3;Away win;+;+;+;5;+;-;-;1;1;V;0
+01. Sep;FC Porto;Guimaraes;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+01. Sep;Sporting Braga;Benfica;0;4;Away win;+;+;+;4;-;-;+;0;1;V;0
+01. Sep;Tondela;Santa Clara;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+08. Sep;Rio Ave;Guimaraes;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+13. Sep;Vitoria Setubal;Sporting Braga;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+14. Sep;Benfica;Gil Vicente;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+14. Sep;Famalicao;Pacos Ferreira;4;2;Home win;+;+;+;6;+;-;-;1;0;L;0
+14. Sep;Guimaraes;Aves;5;1;Home win;+;+;+;6;+;-;-;2;1;L;0
+15. Sep;Boavista;Sporting CP;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+15. Sep;Maritimo;Belenenses;1;3;Away win;+;+;+;4;+;-;-;0;2;V;0
+15. Sep;Portimonense;FC Porto;2;3;Away win;+;+;+;5;+;-;-;0;2;V;0
+15. Sep;Rio Ave;Tondela;2;4;Away win;+;+;+;6;+;-;-;1;2;V;0
+15. Sep;Santa Clara;Moreirense;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+20. Sep;Pacos Ferreira;Aves;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+21. Sep;Belenenses;Rio Ave;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+21. Sep;Moreirense;Benfica;1;2;Away win;+;+;-;3;+;-;-;0;0;L;0
+22. Sep;FC Porto;Santa Clara;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+22. Sep;Gil Vicente;Boavista;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+22. Sep;Tondela;Guimaraes;1;3;Away win;+;+;+;4;+;-;-;1;3;V;0
+22. Sep;Vitoria Setubal;Portimonense;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+23. Sep;Sporting Braga;Maritimo;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+23. Sep;Sporting CP;Famalicao;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+27. Sep;Boavista;Tondela;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+28. Sep;Benfica;Vitoria Setubal;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+28. Sep;Famalicao;Belenenses;3;1;Home win;+;+;+;4;+;-;-;0;1;V;0
+28. Sep;Maritimo;Moreirense;2;1;Home win;+;+;-;3;+;-;-;0;0;V;0
+29. Sep;Guimaraes;Pacos Ferreira;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+29. Sep;Portimonense;Sporting Braga;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+29. Sep;Rio Ave;FC Porto;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+29. Sep;Santa Clara;Gil Vicente;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+30. Sep;Aves;Sporting CP;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+5 Oct;Aves;Tondela;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+25 Oct;Pacos Ferreira;Rio Ave;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+26 Oct;Belenenses;Aves;3;2;Home win;+;+;+;5;+;-;-;2;2;V;0
+26 Oct;Gil Vicente;Portimonense;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+26 Oct;Moreirense;Boavista;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+26 Oct;Vitoria Setubal;Maritimo;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+27 Oct;FC Porto;Famalicao;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+27 Oct;Sporting CP;Guimaraes;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+27 Oct;Tondela;Benfica;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+28 Oct;Sporting Braga;Santa Clara;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+30 Oct;Benfica;Portimonense;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+30 Oct;Famalicao;Gil Vicente;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+30 Oct;Guimaraes;Belenenses;5;0;Home win;+;+;+;5;-;+;-;2;0;L;0
+30 Oct;Maritimo;FC Porto;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+30 Oct;Rio Ave;Moreirense;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+31 Oct;Boavista;Sporting Braga;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+31 Oct;Pacos Ferreira;Sporting CP;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+31 Oct;Santa Clara;Vitoria Setubal;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+02. Nov;Benfica;Rio Ave;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+02. Nov;Moreirense;Guimaraes;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+03. Nov;FC Porto;Aves;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+03. Nov;Gil Vicente;Maritimo;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+03. Nov;Sporting Braga;Famalicao;2;2;Draw;+;+;+;4;+;-;-;0;0;V;0
+03. Nov;Tondela;Sporting CP;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+04. Nov;Belenenses;Pacos Ferreira;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+04. Nov;Portimonense;Santa Clara;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+04. Nov;Vitoria Setubal;Boavista;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+08. Nov;Aves;Gil Vicente;1;2;Away win;+;+;-;3;+;-;-;1;2;V;0
+09. Nov;Famalicao;Moreirense;3;3;Draw;+;+;+;6;+;-;-;2;0;L;0
+09. Nov;Rio Ave;Vitoria Setubal;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+09. Nov;Santa Clara;Benfica;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+10. Nov;Boavista;FC Porto;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+10. Nov;Guimaraes;Sporting Braga;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+10. Nov;Maritimo;Portimonense;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+10. Nov;Pacos Ferreira;Tondela;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+10. Nov;Sporting CP;Belenenses;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+29. Nov;Santa Clara;Boavista;1;2;Away win;+;+;-;3;+;-;-;0;2;V;0
+30. Nov;Benfica;Maritimo;4;0;Home win;+;+;+;4;-;+;-;3;0;L;0
+30. Nov;Moreirense;Aves;3;2;Home win;+;+;+;5;+;-;-;2;1;V;0
+30. Nov;Portimonense;Famalicao;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+1 Dec;Gil Vicente;Sporting CP;3;1;Home win;+;+;+;4;+;-;-;1;1;L;0
+1 Dec;Tondela;Belenenses;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+1 Dec;Vitoria Setubal;Guimaraes;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+2 Dec;FC Porto;Pacos Ferreira;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+2 Dec;Sporting Braga;Rio Ave;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+6 Dec;Boavista;Benfica;1;4;Away win;+;+;+;5;+;-;-;1;1;V;0
+7 Dec;Aves;Sporting Braga;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+7 Dec;Famalicao;Tondela;2;3;Away win;+;+;+;5;+;-;-;1;2;V;0
+7 Dec;Maritimo;Santa Clara;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+8 Dec;Belenenses;FC Porto;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+8 Dec;Guimaraes;Portimonense;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+8 Dec;Pacos Ferreira;Vitoria Setubal;2;3;Away win;+;+;+;5;+;-;-;0;1;V;0
+8 Dec;Sporting CP;Moreirense;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+9 Dec;Rio Ave;Gil Vicente;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+13 Dec;Portimonense;Rio Ave;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+14 Dec;Benfica;Famalicao;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+14 Dec;Maritimo;Boavista;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+14 Dec;Vitoria Setubal;Aves;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+15 Dec;Gil Vicente;Guimaraes;2;2;Draw;+;+;+;4;+;-;-;2;0;L;0
+15 Dec;Moreirense;Belenenses;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+15 Dec;Sporting Braga;Pacos Ferreira;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+16 Dec;FC Porto;Tondela;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+16 Dec;Santa Clara;Sporting CP;0;4;Away win;+;+;+;4;-;-;+;0;1;V;0
+04. Jan;Aves;Santa Clara;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+04. Jan;Belenenses;Sporting Braga;1;7;Away win;+;+;+;8;+;-;-;1;4;V;0
+04. Jan;Boavista;Portimonense;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+04. Jan;Guimaraes;Benfica;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+05. Jan;Famalicao;Vitoria Setubal;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+05. Jan;Pacos Ferreira;Moreirense;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+05. Jan;Rio Ave;Maritimo;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+05. Jan;Sporting CP;FC Porto;1;2;Away win;+;+;-;3;+;-;-;1;1;V;0
+05. Jan;Tondela;Gil Vicente;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+10. Jan;Benfica;Aves;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+10. Jan;Moreirense;FC Porto;2;4;Away win;+;+;+;6;+;-;-;2;2;L;0
+10. Jan;Santa Clara;Rio Ave;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+11. Jan;Boavista;Famalicao;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+11. Jan;Portimonense;Pacos Ferreira;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+11. Jan;Vitoria Setubal;Sporting CP;1;3;Away win;+;+;+;4;+;-;-;0;2;V;0
+12. Jan;Gil Vicente;Belenenses;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+12. Jan;Maritimo;Guimaraes;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+12. Jan;Sporting Braga;Tondela;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+17. Jan;FC Porto;Sporting Braga;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+17. Jan;Sporting CP;Benfica;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+18. Jan;Aves;Portimonense;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+18. Jan;Belenenses;Vitoria Setubal;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+18. Jan;Guimaraes;Santa Clara;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+18. Jan;Tondela;Moreirense;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+19. Jan;Famalicao;Maritimo;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+19. Jan;Pacos Ferreira;Gil Vicente;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+19. Jan;Rio Ave;Boavista;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+26. Jan;Aves;Boavista;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+26. Jan;Belenenses;Portimonense;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+26. Jan;Famalicao;Santa Clara;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+26. Jan;Pacos Ferreira;Benfica;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+26. Jan;Tondela;Vitoria Setubal;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+27. Jan;Guimaraes;Rio Ave;1;2;Away win;+;+;-;3;+;-;-;0;2;V;0
+27. Jan;Sporting CP;Maritimo;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+28. Jan;FC Porto;Gil Vicente;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+29. Jan;Moreirense;Sporting Braga;1;2;Away win;+;+;-;3;+;-;-;0;2;V;0
+31. Jan;Benfica;Belenenses;3;2;Home win;+;+;+;5;+;-;-;2;0;L;0
+31. Jan;Rio Ave;Famalicao;2;2;Draw;+;+;+;4;+;-;-;0;2;V;0
+01. Feb;Portimonense;Tondela;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+01. Feb;Vitoria Setubal;FC Porto;0;4;Away win;+;+;+;4;-;-;+;0;2;V;0
+02. Feb;Boavista;Guimaraes;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+02. Feb;Gil Vicente;Moreirense;1;5;Away win;+;+;+;6;+;-;-;0;2;V;0
+02. Feb;Maritimo;Aves;1;2;Away win;+;+;-;3;+;-;-;1;1;V;0
+02. Feb;Santa Clara;Pacos Ferreira;2;1;Home win;+;+;-;3;+;-;-;0;0;L;0
+02. Feb;Sporting Braga;Sporting CP;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+07. Feb;Pacos Ferreira;Boavista;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+08. Feb;Belenenses;Santa Clara;0;2;Away win;+;-;-;2;-;-;+;0;2;V;0
+08. Feb;Famalicao;Guimaraes;0;7;Away win;+;+;+;7;-;-;+;0;2;V;0
+08. Feb;FC Porto;Benfica;3;2;Home win;+;+;+;5;+;-;-;3;1;L;0
+08. Feb;Sporting Braga;Gil Vicente;2;2;Draw;+;+;+;4;+;-;-;2;0;L;0
+09. Feb;Aves;Rio Ave;0;4;Away win;+;+;+;4;-;-;+;0;1;V;0
+09. Feb;Moreirense;Vitoria Setubal;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+09. Feb;Sporting CP;Portimonense;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+09. Feb;Tondela;Maritimo;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+14. Feb;Vitoria Setubal;Gil Vicente;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+15. Feb;Benfica;Sporting Braga;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+15. Feb;Portimonense;Moreirense;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+15. Feb;Rio Ave;Sporting CP;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+15. Feb;Santa Clara;Tondela;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+16. Feb;Boavista;Belenenses;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+16. Feb;Famalicao;Aves;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+16. Feb;Guimaraes;FC Porto;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+16. Feb;Maritimo;Pacos Ferreira;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+21. Feb;Aves;Guimaraes;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+22. Feb;Belenenses;Maritimo;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+22. Feb;Tondela;Rio Ave;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+23. Feb;FC Porto;Portimonense;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+23. Feb;Moreirense;Santa Clara;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+23. Feb;Pacos Ferreira;Famalicao;2;1;Home win;+;+;-;3;+;-;-;0;0;L;0
+23. Feb;Sporting Braga;Vitoria Setubal;3;1;Home win;+;+;+;4;+;-;-;0;0;L;0
+23. Feb;Sporting CP;Boavista;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+24. Feb;Gil Vicente;Benfica;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+28. Feb;Portimonense;Vitoria Setubal;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+29. Feb;Boavista;Gil Vicente;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+29. Feb;Rio Ave;Belenenses;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+1 Mar;Aves;Pacos Ferreira;1;3;Away win;+;+;+;4;+;-;-;1;1;V;0
+1 Mar;Guimaraes;Tondela;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+1 Mar;Maritimo;Sporting Braga;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+2 Mar;Benfica;Moreirense;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+2 Mar;Santa Clara;FC Porto;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+3 Mar;Famalicao;Sporting CP;3;1;Home win;+;+;+;4;+;-;-;2;1;L;0
+6 Mar;Sporting Braga;Portimonense;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+7 Mar;FC Porto;Rio Ave;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+7 Mar;Tondela;Boavista;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+7 Mar;Vitoria Setubal;Benfica;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+8 Mar;Belenenses;Famalicao;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+8 Mar;Gil Vicente;Santa Clara;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+8 Mar;Moreirense;Maritimo;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+8 Mar;Pacos Ferreira;Guimaraes;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+8 Mar;Sporting CP;Aves;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+03. Jun;Famalicao;FC Porto;2;1;Home win;+;+;-;3;+;-;-;0;0;L;1
+03. Jun;Portimonense;Gil Vicente;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+04. Jun;Benfica;Tondela;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+04. Jun;Guimaraes;Sporting CP;2;2;Draw;+;+;+;4;+;-;-;1;1;V;1
+04. Jun;Maritimo;Vitoria Setubal;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+05. Jun;Aves;Belenenses;0;2;Away win;+;-;-;2;-;-;+;0;2;V;1
+05. Jun;Santa Clara;Sporting Braga;3;2;Home win;+;+;+;5;+;-;-;1;1;V;1
+06. Jun;Boavista;Moreirense;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+07. Jun;Rio Ave;Pacos Ferreira;2;3;Away win;+;+;+;5;+;-;-;1;2;V;1
+09. Jun;Gil Vicente;Famalicao;1;3;Away win;+;+;+;4;+;-;-;0;2;V;1
+10. Jun;FC Porto;Maritimo;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+10. Jun;Portimonense;Benfica;2;2;Draw;+;+;+;4;+;-;-;0;2;V;1
+10. Jun;Vitoria Setubal;Santa Clara;2;2;Draw;+;+;+;4;+;-;-;1;1;V;1
+11. Jun;Belenenses;Guimaraes;1;1;Draw;+;-;-;2;+;-;-;1;1;L;1
+11. Jun;Tondela;Aves;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+12. Jun;Moreirense;Rio Ave;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+12. Jun;Sporting CP;Pacos Ferreira;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+13. Jun;Sporting Braga;Boavista;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+15. Jun;Maritimo;Gil Vicente;2;1;Home win;+;+;-;3;+;-;-;2;1;V;1
+16. Jun;Aves;FC Porto;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+16. Jun;Santa Clara;Portimonense;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+17. Jun;Pacos Ferreira;Belenenses;2;1;Home win;+;+;-;3;+;-;-;0;1;V;1
+17. Jun;Rio Ave;Benfica;1;2;Away win;+;+;-;3;+;-;-;1;0;L;1
+18. Jun;Boavista;Vitoria Setubal;3;1;Home win;+;+;+;4;+;-;-;2;0;L;1
+18. Jun;Sporting CP;Tondela;2;0;Home win;+;-;-;2;-;+;-;2;0;L;1
+19. Jun;Famalicao;Sporting Braga;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+19. Jun;Guimaraes;Moreirense;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+21. Jun;Gil Vicente;Aves;3;0;Home win;+;+;-;3;-;+;-;2;0;L;1
+22. Jun;Portimonense;Maritimo;3;2;Home win;+;+;+;5;+;-;-;2;0;L;1
+23. Jun;Benfica;Santa Clara;3;4;Away win;+;+;+;7;+;-;-;0;1;V;1
+23. Jun;FC Porto;Boavista;4;0;Home win;+;+;+;4;-;+;-;0;0;L;1
+23. Jun;Vitoria Setubal;Rio Ave;1;2;Away win;+;+;-;3;+;-;-;1;1;L;1
+24. Jun;Moreirense;Famalicao;1;1;Draw;+;-;-;2;+;-;-;0;0;L;1
+24. Jun;Tondela;Pacos Ferreira;1;3;Away win;+;+;+;4;+;-;-;0;2;V;1
+25. Jun;Sporting Braga;Guimaraes;3;2;Home win;+;+;+;5;+;-;-;2;2;L;1
+26. Jun;Belenenses;Sporting CP;1;3;Away win;+;+;+;4;+;-;-;1;3;L;1
+28. Jun;Boavista;Santa Clara;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+29. Jun;Aves;Moreirense;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+29. Jun;Maritimo;Benfica;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+29. Jun;Pacos Ferreira;FC Porto;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+30. Jun;Famalicao;Portimonense;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+30. Jun;Guimaraes;Vitoria Setubal;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+30. Jun;Rio Ave;Sporting Braga;4;3;Home win;+;+;+;7;+;-;-;3;2;V;1
+01. Jul;Belenenses;Tondela;1;1;Draw;+;-;-;2;+;-;-;1;1;V;1
+01. Jul;Sporting CP;Gil Vicente;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+03. Jul;Santa Clara;Maritimo;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+04. Jul;Benfica;Boavista;3;1;Home win;+;+;+;4;+;-;-;3;0;L;1
+04. Jul;Portimonense;Guimaraes;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+04. Jul;Sporting Braga;Aves;4;0;Home win;+;+;+;4;-;+;-;0;0;L;1
+04. Jul;Vitoria Setubal;Pacos Ferreira;2;3;Away win;+;+;+;5;+;-;-;2;0;L;1
+05. Jul;FC Porto;Belenenses;5;0;Home win;+;+;+;5;-;+;-;1;0;L;1
+05. Jul;Gil Vicente;Rio Ave;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+05. Jul;Tondela;Famalicao;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+06. Jul;Moreirense;Sporting CP;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+08. Jul;Aves;Vitoria Setubal;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+08. Jul;Boavista;Maritimo;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+09. Jul;Famalicao;Benfica;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+09. Jul;Rio Ave;Portimonense;2;1;Home win;+;+;-;3;+;-;-;1;1;V;1
+09. Jul;Tondela;FC Porto;1;3;Away win;+;+;+;4;+;-;-;0;0;V;1
+10. Jul;Guimaraes;Gil Vicente;1;2;Away win;+;+;-;3;+;-;-;0;0;L;1
+10. Jul;Pacos Ferreira;Sporting Braga;1;5;Away win;+;+;+;6;+;-;-;0;3;V;1
+10. Jul;Sporting CP;Santa Clara;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+11. Jul;Belenenses;Moreirense;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+13. Jul;Maritimo;Rio Ave;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+13. Jul;Vitoria Setubal;Famalicao;1;2;Away win;+;+;-;3;+;-;-;1;1;V;1
+14. Jul;Benfica;Guimaraes;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+14. Jul;Gil Vicente;Tondela;3;2;Home win;+;+;+;5;+;-;-;1;0;L;1
+14. Jul;Portimonense;Boavista;2;1;Home win;+;+;-;3;+;-;-;2;0;L;1
+14. Jul;Santa Clara;Aves;3;0;Home win;+;+;-;3;-;+;-;2;0;L;1
+15. Jul;FC Porto;Sporting CP;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+15. Jul;Moreirense;Pacos Ferreira;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+15. Jul;Sporting Braga;Belenenses;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+18. Jul;Famalicao;Boavista;2;2;Draw;+;+;+;4;+;-;-;2;0;L;1
+18. Jul;Rio Ave;Santa Clara;2;2;Draw;+;+;+;4;+;-;-;1;1;L;1
+19. Jul;Belenenses;Gil Vicente;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+19. Jul;Guimaraes;Maritimo;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+20. Jul;FC Porto;Moreirense;6;1;Home win;+;+;+;7;+;-;-;1;1;L;1
+20. Jul;Pacos Ferreira;Portimonense;2;1;Home win;+;+;-;3;+;-;-;2;1;L;1
+20. Jul;Tondela;Sporting Braga;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+21. Jul;Aves;Benfica;0;4;Away win;+;+;+;4;-;-;+;0;1;V;1
+21. Jul;Sporting CP;Vitoria Setubal;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+24. Jul;Gil Vicente;Pacos Ferreira;3;3;Draw;+;+;+;6;+;-;-;2;2;V;1
+24. Jul;Santa Clara;Guimaraes;2;2;Draw;+;+;+;4;+;-;-;2;1;L;1
+25. Jul;Benfica;Sporting CP;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+25. Jul;Boavista;Rio Ave;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+25. Jul;Maritimo;Famalicao;3;3;Draw;+;+;+;6;+;-;-;1;1;L;1
+25. Jul;Sporting Braga;FC Porto;2;1;Home win;+;+;-;3;+;-;-;0;1;V;1
+26. Jul;Moreirense;Tondela;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+26. Jul;Portimonense;Aves;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+26. Jul;Vitoria Setubal;Belenenses;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;

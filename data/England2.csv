@@ -1,0 +1,553 @@
+Dateÿ?;Local;Visitor;HG;AG;Outcome;1.5+;2.5+;3.5+;TG;BTS;hCS;aCS;HTh;HTa;FG;sample
+02. Aug;Luton Town;Middlesbrough;3;3;Draw;+;+;+;6;+;-;-;2;2;V;0
+03. Aug;Barnsley;Fulham;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+03. Aug;Blackburn;Charlton;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+03. Aug;Brentford;Birmingham City;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+03. Aug;Millwall;Preston;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+03. Aug;Nottm Forest;West Brom;1;2;Away win;+;+;-;3;+;-;-;1;2;L;0
+03. Aug;Reading;Sheffield Wed;1;3;Away win;+;+;+;4;+;-;-;0;1;V;0
+03. Aug;Stoke City;QP Rangers;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+03. Aug;Swansea City;Hull City;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+03. Aug;Wigan Athletic;Cardiff City;3;2;Home win;+;+;+;5;+;-;-;0;1;V;0
+04. Aug;Bristol City;Leeds Utd;1;3;Away win;+;+;+;4;+;-;-;0;1;V;0
+05. Aug;Huddersfield;Derby County;1;2;Away win;+;+;-;3;+;-;-;1;2;V;0
+10. Aug;Birmingham City;Bristol City;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+10. Aug;Cardiff City;Luton Town;2;1;Home win;+;+;-;3;+;-;-;0;0;L;0
+10. Aug;Charlton;Stoke City;3;1;Home win;+;+;+;4;+;-;-;1;1;L;0
+10. Aug;Derby County;Swansea City;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+10. Aug;Fulham;Blackburn;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+10. Aug;Hull City;Reading;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+10. Aug;Leeds Utd;Nottm Forest;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+10. Aug;Middlesbrough;Brentford;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+10. Aug;Preston;Wigan Athletic;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+10. Aug;QP Rangers;Huddersfield;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+10. Aug;Sheffield Wed;Barnsley;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+10. Aug;West Brom;Millwall;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+16. Aug;Huddersfield;Fulham;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+17. Aug;Barnsley;Charlton;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+17. Aug;Blackburn;Middlesbrough;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+17. Aug;Brentford;Hull City;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+17. Aug;Bristol City;QP Rangers;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+17. Aug;Luton Town;West Brom;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+17. Aug;Millwall;Sheffield Wed;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+17. Aug;Nottm Forest;Birmingham City;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+17. Aug;Stoke City;Derby County;2;2;Draw;+;+;+;4;+;-;-;1;1;V;0
+17. Aug;Swansea City;Preston;3;2;Home win;+;+;+;5;+;-;-;1;1;V;0
+17. Aug;Wigan Athletic;Leeds Utd;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+18. Aug;Reading;Cardiff City;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+20. Aug;Birmingham City;Barnsley;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+20. Aug;Derby County;Bristol City;1;2;Away win;+;+;-;3;+;-;-;0;2;V;0
+20. Aug;Hull City;Blackburn;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+20. Aug;Middlesbrough;Wigan Athletic;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+20. Aug;Sheffield Wed;Luton Town;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+21. Aug;Cardiff City;Huddersfield;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+21. Aug;Charlton;Nottm Forest;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+21. Aug;Fulham;Millwall;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+21. Aug;Leeds Utd;Brentford;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+21. Aug;Preston;Stoke City;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+21. Aug;QP Rangers;Swansea City;1;3;Away win;+;+;+;4;+;-;-;0;1;V;0
+21. Aug;West Brom;Reading;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+24. Aug;Barnsley;Luton Town;1;3;Away win;+;+;+;4;+;-;-;0;3;V;0
+24. Aug;Blackburn;Cardiff City;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+24. Aug;Charlton;Brentford;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+24. Aug;Derby County;West Brom;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+24. Aug;Fulham;Nottm Forest;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+24. Aug;Huddersfield;Reading;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+24. Aug;Hull City;Bristol City;1;3;Away win;+;+;+;4;+;-;-;1;1;V;0
+24. Aug;Middlesbrough;Millwall;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+24. Aug;Preston;Sheffield Wed;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+24. Aug;QP Rangers;Wigan Athletic;3;1;Home win;+;+;+;4;+;-;-;0;1;V;0
+24. Aug;Stoke City;Leeds Utd;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+25. Aug;Swansea City;Birmingham City;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+30. Aug;Cardiff City;Fulham;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+31. Aug;Birmingham City;Stoke City;2;1;Home win;+;+;-;3;+;-;-;0;0;V;0
+31. Aug;Brentford;Derby County;3;0;Home win;+;+;-;3;-;+;-;3;0;L;0
+31. Aug;Bristol City;Middlesbrough;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+31. Aug;Leeds Utd;Swansea City;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+31. Aug;Luton Town;Huddersfield;2;1;Home win;+;+;-;3;+;-;-;0;0;V;0
+31. Aug;Millwall;Hull City;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+31. Aug;Nottm Forest;Preston;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+31. Aug;Reading;Charlton;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+31. Aug;Sheffield Wed;QP Rangers;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+31. Aug;West Brom;Blackburn;3;2;Home win;+;+;+;5;+;-;-;3;2;V;0
+31. Aug;Wigan Athletic;Barnsley;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+13. Sep;Derby County;Cardiff City;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+14. Sep;Blackburn;Millwall;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+14. Sep;Charlton;Birmingham City;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+14. Sep;Fulham;West Brom;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+14. Sep;Hull City;Wigan Athletic;2;2;Draw;+;+;+;4;+;-;-;2;1;V;0
+14. Sep;Middlesbrough;Reading;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+14. Sep;Preston;Brentford;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+14. Sep;QP Rangers;Luton Town;3;2;Home win;+;+;+;5;+;-;-;3;1;L;0
+14. Sep;Stoke City;Bristol City;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+14. Sep;Swansea City;Nottm Forest;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+15. Sep;Barnsley;Leeds Utd;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+15. Sep;Huddersfield;Sheffield Wed;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+21. Sep;Birmingham City;Preston;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+21. Sep;Brentford;Stoke City;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+21. Sep;Bristol City;Swansea City;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+21. Sep;Cardiff City;Middlesbrough;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+21. Sep;Leeds Utd;Derby County;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+21. Sep;Luton Town;Hull City;0;3;Away win;+;+;-;3;-;-;+;0;0;V;0
+21. Sep;Millwall;QP Rangers;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+21. Sep;Nottm Forest;Barnsley;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+21. Sep;Reading;Blackburn;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+21. Sep;Sheffield Wed;Fulham;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+21. Sep;Wigan Athletic;Charlton;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+22. Sep;West Brom;Huddersfield;4;2;Home win;+;+;+;6;+;-;-;1;2;V;0
+27. Sep;Fulham;Wigan Athletic;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+27. Sep;Stoke City;Nottm Forest;2;3;Away win;+;+;+;5;+;-;-;1;1;L;0
+28. Sep;Blackburn;Luton Town;1;2;Away win;+;+;-;3;+;-;-;1;1;V;0
+28. Sep;Charlton;Leeds Utd;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+28. Sep;Derby County;Birmingham City;3;2;Home win;+;+;+;5;+;-;-;1;0;L;0
+28. Sep;Huddersfield;Millwall;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+28. Sep;Hull City;Cardiff City;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+28. Sep;Middlesbrough;Sheffield Wed;1;4;Away win;+;+;+;5;+;-;-;1;4;V;0
+28. Sep;Preston;Bristol City;3;3;Draw;+;+;+;6;+;-;-;1;2;V;0
+28. Sep;QP Rangers;West Brom;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+28. Sep;Swansea City;Reading;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+29. Sep;Barnsley;Brentford;1;3;Away win;+;+;+;4;+;-;-;1;1;L;0
+1 Oct;Blackburn;Nottm Forest;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+1 Oct;Hull City;Sheffield Wed;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+1 Oct;Leeds Utd;West Brom;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+1 Oct;Middlesbrough;Preston;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+1 Oct;Reading;Fulham;1;4;Away win;+;+;+;5;+;-;-;0;3;V;0
+1 Oct;Stoke City;Huddersfield;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+1 Oct;Wigan Athletic;Birmingham City;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+2 Oct;Barnsley;Derby County;2;2;Draw;+;+;+;4;+;-;-;1;2;L;0
+2 Oct;Brentford;Bristol City;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+2 Oct;Cardiff City;QP Rangers;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+2 Oct;Charlton;Swansea City;1;2;Away win;+;+;-;3;+;-;-;1;1;L;0
+2 Oct;Luton Town;Millwall;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+4 Oct;Birmingham City;Middlesbrough;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+5 Oct;Bristol City;Reading;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+5 Oct;Derby County;Luton Town;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+5 Oct;Fulham;Charlton;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+5 Oct;Huddersfield;Hull City;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+5 Oct;Millwall;Leeds Utd;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+5 Oct;Nottm Forest;Brentford;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+5 Oct;Preston;Barnsley;5;1;Home win;+;+;+;6;+;-;-;1;1;L;0
+5 Oct;QP Rangers;Blackburn;4;2;Home win;+;+;+;6;+;-;-;1;0;L;0
+5 Oct;Sheffield Wed;Wigan Athletic;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+5 Oct;Swansea City;Stoke City;1;2;Away win;+;+;-;3;+;-;-;1;1;L;0
+5 Oct;West Brom;Cardiff City;4;2;Home win;+;+;+;6;+;-;-;2;0;L;0
+18 Oct;Cardiff City;Sheffield Wed;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+19 Oct;Barnsley;Swansea City;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+19 Oct;Blackburn;Huddersfield;2;2;Draw;+;+;+;4;+;-;-;2;1;V;0
+19 Oct;Brentford;Millwall;3;2;Home win;+;+;+;5;+;-;-;0;1;V;0
+19 Oct;Charlton;Derby County;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+19 Oct;Hull City;QP Rangers;2;3;Away win;+;+;+;5;+;-;-;1;1;L;0
+19 Oct;Leeds Utd;Birmingham City;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+19 Oct;Luton Town;Bristol City;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+19 Oct;Middlesbrough;West Brom;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+19 Oct;Reading;Preston;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+19 Oct;Stoke City;Fulham;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+20 Oct;Wigan Athletic;Nottm Forest;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+22 Oct;Birmingham City;Blackburn;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+22 Oct;Millwall;Cardiff City;2;2;Draw;+;+;+;4;+;-;-;1;1;V;0
+22 Oct;Preston;Leeds Utd;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+22 Oct;QP Rangers;Reading;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+22 Oct;Sheffield Wed;Stoke City;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+22 Oct;Swansea City;Brentford;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+22 Oct;West Brom;Barnsley;2;2;Draw;+;+;+;4;+;-;-;0;2;V;0
+23 Oct;Bristol City;Charlton;2;1;Home win;+;+;-;3;+;-;-;0;0;V;0
+23 Oct;Derby County;Wigan Athletic;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+23 Oct;Fulham;Luton Town;3;2;Home win;+;+;+;5;+;-;-;1;0;L;0
+23 Oct;Huddersfield;Middlesbrough;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+23 Oct;Nottm Forest;Hull City;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+26 Oct;Birmingham City;Luton Town;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+26 Oct;Huddersfield;Barnsley;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+26 Oct;Hull City;Derby County;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+26 Oct;Middlesbrough;Fulham;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+26 Oct;Millwall;Stoke City;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+26 Oct;Preston;Blackburn;3;2;Home win;+;+;+;5;+;-;-;0;2;V;0
+26 Oct;Sheffield Wed;Leeds Utd;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+26 Oct;West Brom;Charlton;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+27 Oct;Bristol City;Wigan Athletic;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+27 Oct;Swansea City;Cardiff City;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+28 Oct;QP Rangers;Brentford;1;3;Away win;+;+;+;4;+;-;-;0;1;V;0
+01. Nov;Barnsley;Bristol City;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+02. Nov;Blackburn;Sheffield Wed;2;1;Home win;+;+;-;3;+;-;-;0;0;V;0
+02. Nov;Brentford;Huddersfield;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+02. Nov;Cardiff City;Birmingham City;4;2;Home win;+;+;+;6;+;-;-;2;1;V;0
+02. Nov;Derby County;Middlesbrough;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+02. Nov;Fulham;Hull City;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+02. Nov;Leeds Utd;QP Rangers;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+02. Nov;Luton Town;Nottm Forest;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+02. Nov;Reading;Millwall;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+02. Nov;Wigan Athletic;Swansea City;1;2;Away win;+;+;-;3;+;-;-;1;1;V;0
+03. Nov;Charlton;Preston;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+04. Nov;Stoke City;West Brom;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+09. Nov;Barnsley;Stoke City;2;4;Away win;+;+;+;6;+;-;-;0;2;V;0
+09. Nov;Birmingham City;Fulham;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+09. Nov;Hull City;West Brom;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+09. Nov;Leeds Utd;Blackburn;2;1;Home win;+;+;-;3;+;-;-;2;1;L;0
+09. Nov;Millwall;Charlton;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+09. Nov;Nottm Forest;Derby County;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+09. Nov;Preston;Huddersfield;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+09. Nov;QP Rangers;Middlesbrough;2;2;Draw;+;+;+;4;+;-;-;2;1;V;0
+09. Nov;Reading;Luton Town;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+09. Nov;Sheffield Wed;Swansea City;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+09. Nov;Wigan Athletic;Brentford;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+10. Nov;Cardiff City;Bristol City;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+22. Nov;Fulham;QP Rangers;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+23. Nov;Blackburn;Barnsley;3;2;Home win;+;+;+;5;+;-;-;1;0;L;0
+23. Nov;Brentford;Reading;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+23. Nov;Bristol City;Nottm Forest;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+23. Nov;Charlton;Cardiff City;2;2;Draw;+;+;+;4;+;-;-;2;0;L;0
+23. Nov;Derby County;Preston;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+23. Nov;Huddersfield;Birmingham City;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+23. Nov;Luton Town;Leeds Utd;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+23. Nov;Stoke City;Wigan Athletic;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+23. Nov;Swansea City;Millwall;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+23. Nov;West Brom;Sheffield Wed;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+24. Nov;Middlesbrough;Hull City;2;2;Draw;+;+;+;4;+;-;-;2;0;L;0
+26. Nov;Cardiff City;Stoke City;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+26. Nov;Fulham;Derby County;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+26. Nov;Huddersfield;Swansea City;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+26. Nov;Luton Town;Charlton;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+26. Nov;Millwall;Wigan Athletic;2;2;Draw;+;+;+;4;+;-;-;1;1;V;0
+26. Nov;Reading;Leeds Utd;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+27. Nov;Blackburn;Brentford;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+27. Nov;Hull City;Preston;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+27. Nov;Middlesbrough;Barnsley;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+27. Nov;QP Rangers;Nottm Forest;0;4;Away win;+;+;+;4;-;-;+;0;1;V;0
+27. Nov;Sheffield Wed;Birmingham City;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+27. Nov;West Brom;Bristol City;4;1;Home win;+;+;+;5;+;-;-;2;0;L;0
+29. Nov;Swansea City;Fulham;1;2;Away win;+;+;-;3;+;-;-;0;2;V;0
+30. Nov;Barnsley;Hull City;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+30. Nov;Birmingham City;Millwall;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+30. Nov;Brentford;Luton Town;7;0;Home win;+;+;+;7;-;+;-;5;0;L;0
+30. Nov;Bristol City;Huddersfield;5;2;Home win;+;+;+;7;+;-;-;4;1;L;0
+30. Nov;Charlton;Sheffield Wed;1;3;Away win;+;+;+;4;+;-;-;1;1;V;0
+30. Nov;Derby County;QP Rangers;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+30. Nov;Leeds Utd;Middlesbrough;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+30. Nov;Nottm Forest;Cardiff City;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+30. Nov;Stoke City;Blackburn;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+30. Nov;Wigan Athletic;Reading;1;3;Away win;+;+;+;4;+;-;-;1;0;L;0
+2 Dec;Preston;West Brom;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+6 Dec;Millwall;Nottm Forest;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+7 Dec;Blackburn;Derby County;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+7 Dec;Cardiff City;Barnsley;3;2;Home win;+;+;+;5;+;-;-;1;1;V;0
+7 Dec;Fulham;Bristol City;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+7 Dec;Huddersfield;Leeds Utd;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+7 Dec;Hull City;Stoke City;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+7 Dec;Luton Town;Wigan Athletic;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+7 Dec;Middlesbrough;Charlton;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+7 Dec;QP Rangers;Preston;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+7 Dec;Reading;Birmingham City;2;3;Away win;+;+;+;5;+;-;-;1;1;V;0
+7 Dec;Sheffield Wed;Brentford;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+8 Dec;West Brom;Swansea City;5;1;Home win;+;+;+;6;+;-;-;3;1;L;0
+10 Dec;Bristol City;Millwall;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+10 Dec;Charlton;Huddersfield;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+10 Dec;Leeds Utd;Hull City;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+10 Dec;Nottm Forest;Middlesbrough;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+10 Dec;Preston;Fulham;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+10 Dec;Stoke City;Luton Town;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+11 Dec;Barnsley;Reading;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+11 Dec;Birmingham City;QP Rangers;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+11 Dec;Brentford;Cardiff City;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+11 Dec;Derby County;Sheffield Wed;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+11 Dec;Swansea City;Blackburn;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+11 Dec;Wigan Athletic;West Brom;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+13 Dec;Charlton;Hull City;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+14 Dec;Barnsley;QP Rangers;5;3;Home win;+;+;+;8;+;-;-;2;1;L;0
+14 Dec;Birmingham City;West Brom;2;3;Away win;+;+;+;5;+;-;-;1;1;L;0
+14 Dec;Brentford;Fulham;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+14 Dec;Bristol City;Blackburn;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+14 Dec;Derby County;Millwall;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+14 Dec;Leeds Utd;Cardiff City;3;3;Draw;+;+;+;6;+;-;-;2;0;L;0
+14 Dec;Nottm Forest;Sheffield Wed;0;4;Away win;+;+;+;4;-;-;+;0;4;V;0
+14 Dec;Preston;Luton Town;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+14 Dec;Stoke City;Reading;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+14 Dec;Swansea City;Middlesbrough;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+14 Dec;Wigan Athletic;Huddersfield;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+20 Dec;Middlesbrough;Stoke City;2;1;Home win;+;+;-;3;+;-;-;0;0;V;0
+21 Dec;Cardiff City;Preston;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+21 Dec;Fulham;Leeds Utd;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+21 Dec;Huddersfield;Nottm Forest;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+21 Dec;Hull City;Birmingham City;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+21 Dec;Luton Town;Swansea City;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+21 Dec;Millwall;Barnsley;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+21 Dec;QP Rangers;Charlton;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+21 Dec;Reading;Derby County;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+21 Dec;West Brom;Brentford;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+22 Dec;Sheffield Wed;Bristol City;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+23 Dec;Blackburn;Wigan Athletic;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+26 Dec;Barnsley;West Brom;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+26 Dec;Blackburn;Birmingham City;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+26 Dec;Brentford;Swansea City;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+26 Dec;Cardiff City;Millwall;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+26 Dec;Charlton;Bristol City;3;2;Home win;+;+;+;5;+;-;-;1;0;L;0
+26 Dec;Hull City;Nottm Forest;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+26 Dec;Leeds Utd;Preston;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+26 Dec;Luton Town;Fulham;3;3;Draw;+;+;+;6;+;-;-;2;1;L;0
+26 Dec;Middlesbrough;Huddersfield;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+26 Dec;Reading;QP Rangers;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+26 Dec;Stoke City;Sheffield Wed;3;2;Home win;+;+;+;5;+;-;-;1;0;L;0
+26 Dec;Wigan Athletic;Derby County;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+29 Dec;Birmingham City;Leeds Utd;4;5;Away win;+;+;+;9;+;-;-;1;2;V;0
+29 Dec;Bristol City;Luton Town;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+29 Dec;Fulham;Stoke City;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+29 Dec;Huddersfield;Blackburn;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+29 Dec;Millwall;Brentford;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+29 Dec;Nottm Forest;Wigan Athletic;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+29 Dec;Preston;Reading;0;2;Away win;+;-;-;2;-;-;+;0;2;V;0
+29 Dec;QP Rangers;Hull City;1;2;Away win;+;+;-;3;+;-;-;1;1;L;0
+29 Dec;Sheffield Wed;Cardiff City;1;2;Away win;+;+;-;3;+;-;-;1;2;V;0
+29 Dec;Swansea City;Barnsley;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+29 Dec;West Brom;Middlesbrough;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+30 Dec;Derby County;Charlton;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+01. Jan;Birmingham City;Wigan Athletic;2;3;Away win;+;+;+;5;+;-;-;1;1;V;0
+01. Jan;Bristol City;Brentford;0;4;Away win;+;+;+;4;-;-;+;0;2;V;0
+01. Jan;Fulham;Reading;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+01. Jan;Huddersfield;Stoke City;2;5;Away win;+;+;+;7;+;-;-;0;1;V;0
+01. Jan;Millwall;Luton Town;3;1;Home win;+;+;+;4;+;-;-;0;1;V;0
+01. Jan;Nottm Forest;Blackburn;3;2;Home win;+;+;+;5;+;-;-;2;1;L;0
+01. Jan;Preston;Middlesbrough;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+01. Jan;QP Rangers;Cardiff City;6;1;Home win;+;+;+;7;+;-;-;3;0;L;0
+01. Jan;Sheffield Wed;Hull City;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+01. Jan;West Brom;Leeds Utd;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+02. Jan;Derby County;Barnsley;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+02. Jan;Swansea City;Charlton;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+11. Jan;Barnsley;Huddersfield;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+11. Jan;Blackburn;Preston;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+11. Jan;Brentford;QP Rangers;3;1;Home win;+;+;+;4;+;-;-;3;0;L;0
+11. Jan;Charlton;West Brom;2;2;Draw;+;+;+;4;+;-;-;1;1;V;0
+11. Jan;Hull City;Fulham;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+11. Jan;Leeds Utd;Sheffield Wed;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+11. Jan;Luton Town;Birmingham City;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+11. Jan;Middlesbrough;Derby County;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+11. Jan;Reading;Nottm Forest;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+11. Jan;Stoke City;Millwall;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+11. Jan;Wigan Athletic;Bristol City;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+12. Jan;Cardiff City;Swansea City;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+17. Jan;Fulham;Middlesbrough;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+18. Jan;Birmingham City;Cardiff City;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+18. Jan;Bristol City;Barnsley;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+18. Jan;Derby County;Hull City;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+18. Jan;Huddersfield;Brentford;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+18. Jan;Millwall;Reading;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+18. Jan;Preston;Charlton;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+18. Jan;QP Rangers;Leeds Utd;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+18. Jan;Sheffield Wed;Blackburn;0;5;Away win;+;+;+;5;-;-;+;0;3;V;0
+18. Jan;Swansea City;Wigan Athletic;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+19. Jan;Nottm Forest;Luton Town;3;1;Home win;+;+;+;4;+;-;-;1;1;V;0
+20. Jan;West Brom;Stoke City;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+21. Jan;Barnsley;Preston;0;3;Away win;+;+;-;3;-;-;+;0;3;V;0
+21. Jan;Middlesbrough;Birmingham City;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+22. Jan;Charlton;Fulham;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+22. Jan;Nottm Forest;Reading;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+25. Jan;Stoke City;Swansea City;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+28. Jan;Blackburn;QP Rangers;2;1;Home win;+;+;-;3;+;-;-;2;1;L;0
+28. Jan;Brentford;Nottm Forest;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+28. Jan;Cardiff City;West Brom;2;1;Home win;+;+;-;3;+;-;-;0;0;L;0
+28. Jan;Hull City;Huddersfield;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+28. Jan;Leeds Utd;Millwall;3;2;Home win;+;+;+;5;+;-;-;0;2;V;0
+28. Jan;Luton Town;Derby County;3;2;Home win;+;+;+;5;+;-;-;0;0;V;0
+28. Jan;Reading;Bristol City;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+28. Jan;Wigan Athletic;Sheffield Wed;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+31. Jan;Cardiff City;Reading;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+31. Jan;Derby County;Stoke City;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+01. Feb;Birmingham City;Nottm Forest;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+01. Feb;Charlton;Barnsley;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+01. Feb;Fulham;Huddersfield;3;2;Home win;+;+;+;5;+;-;-;3;2;L;0
+01. Feb;Hull City;Brentford;1;5;Away win;+;+;+;6;+;-;-;1;2;V;0
+01. Feb;Leeds Utd;Wigan Athletic;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+01. Feb;Middlesbrough;Blackburn;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+01. Feb;Preston;Swansea City;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+01. Feb;QP Rangers;Bristol City;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+01. Feb;Sheffield Wed;Millwall;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+01. Feb;West Brom;Luton Town;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+07. Feb;Bristol City;Birmingham City;1;3;Away win;+;+;+;4;+;-;-;1;2;L;0
+08. Feb;Barnsley;Sheffield Wed;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+08. Feb;Blackburn;Fulham;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+08. Feb;Brentford;Middlesbrough;3;2;Home win;+;+;+;5;+;-;-;1;0;L;0
+08. Feb;Huddersfield;QP Rangers;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+08. Feb;Luton Town;Cardiff City;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+08. Feb;Nottm Forest;Leeds Utd;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+08. Feb;Reading;Hull City;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+08. Feb;Stoke City;Charlton;3;1;Home win;+;+;+;4;+;-;-;1;1;L;0
+08. Feb;Swansea City;Derby County;2;3;Away win;+;+;+;5;+;-;-;0;1;V;0
+08. Feb;Wigan Athletic;Preston;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+09. Feb;Millwall;West Brom;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+11. Feb;Barnsley;Birmingham City;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+11. Feb;Blackburn;Hull City;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+11. Feb;Brentford;Leeds Utd;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+11. Feb;Nottm Forest;Charlton;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+11. Feb;Swansea City;QP Rangers;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+11. Feb;Wigan Athletic;Middlesbrough;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+12. Feb;Bristol City;Derby County;3;2;Home win;+;+;+;5;+;-;-;2;0;L;0
+12. Feb;Huddersfield;Cardiff City;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+12. Feb;Luton Town;Sheffield Wed;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+12. Feb;Millwall;Fulham;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+12. Feb;Reading;West Brom;1;2;Away win;+;+;-;3;+;-;-;1;1;L;0
+12. Feb;Stoke City;Preston;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+14. Feb;Hull City;Swansea City;4;4;Draw;+;+;+;8;+;-;-;1;1;L;0
+15. Feb;Birmingham City;Brentford;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+15. Feb;Cardiff City;Wigan Athletic;2;2;Draw;+;+;+;4;+;-;-;1;2;V;0
+15. Feb;Charlton;Blackburn;0;2;Away win;+;-;-;2;-;-;+;0;2;V;0
+15. Feb;Derby County;Huddersfield;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+15. Feb;Fulham;Barnsley;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+15. Feb;Leeds Utd;Bristol City;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+15. Feb;Middlesbrough;Luton Town;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+15. Feb;Preston;Millwall;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+15. Feb;QP Rangers;Stoke City;4;2;Home win;+;+;+;6;+;-;-;2;2;V;0
+15. Feb;Sheffield Wed;Reading;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+15. Feb;West Brom;Nottm Forest;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+21. Feb;Derby County;Fulham;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+22. Feb;Barnsley;Middlesbrough;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+22. Feb;Birmingham City;Sheffield Wed;3;3;Draw;+;+;+;6;+;-;-;2;2;L;0
+22. Feb;Brentford;Blackburn;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+22. Feb;Bristol City;West Brom;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+22. Feb;Charlton;Luton Town;3;1;Home win;+;+;+;4;+;-;-;1;1;L;0
+22. Feb;Leeds Utd;Reading;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+22. Feb;Nottm Forest;QP Rangers;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+22. Feb;Preston;Hull City;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+22. Feb;Stoke City;Cardiff City;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+22. Feb;Swansea City;Huddersfield;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+22. Feb;Wigan Athletic;Millwall;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+25. Feb;Cardiff City;Nottm Forest;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+25. Feb;Huddersfield;Bristol City;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+25. Feb;Luton Town;Brentford;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+25. Feb;QP Rangers;Derby County;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+25. Feb;West Brom;Preston;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+26. Feb;Blackburn;Stoke City;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+26. Feb;Fulham;Swansea City;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+26. Feb;Hull City;Barnsley;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+26. Feb;Middlesbrough;Leeds Utd;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+26. Feb;Millwall;Birmingham City;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+26. Feb;Reading;Wigan Athletic;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+26. Feb;Sheffield Wed;Charlton;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+29. Feb;Blackburn;Swansea City;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+29. Feb;Cardiff City;Brentford;2;2;Draw;+;+;+;4;+;-;-;2;2;V;0
+29. Feb;Fulham;Preston;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+29. Feb;Huddersfield;Charlton;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+29. Feb;Hull City;Leeds Utd;0;4;Away win;+;+;+;4;-;-;+;0;1;V;0
+29. Feb;Luton Town;Stoke City;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+29. Feb;Millwall;Bristol City;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+29. Feb;QP Rangers;Birmingham City;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+29. Feb;Reading;Barnsley;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+29. Feb;Sheffield Wed;Derby County;1;3;Away win;+;+;+;4;+;-;-;0;3;V;0
+29. Feb;West Brom;Wigan Athletic;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+2 Mar;Middlesbrough;Nottm Forest;2;2;Draw;+;+;+;4;+;-;-;2;1;V;0
+6 Mar;Nottm Forest;Millwall;0;3;Away win;+;+;-;3;-;-;+;0;3;V;0
+7 Mar;Barnsley;Cardiff City;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+7 Mar;Birmingham City;Reading;1;3;Away win;+;+;+;4;+;-;-;1;0;L;0
+7 Mar;Brentford;Sheffield Wed;5;0;Home win;+;+;+;5;-;+;-;3;0;L;0
+7 Mar;Bristol City;Fulham;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+7 Mar;Charlton;Middlesbrough;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+7 Mar;Leeds Utd;Huddersfield;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+7 Mar;Preston;QP Rangers;1;3;Away win;+;+;+;4;+;-;-;1;0;L;0
+7 Mar;Stoke City;Hull City;5;1;Home win;+;+;+;6;+;-;-;3;0;L;0
+7 Mar;Swansea City;West Brom;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+7 Mar;Wigan Athletic;Luton Town;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+8 Mar;Derby County;Blackburn;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+20. Jun;Blackburn;Bristol City;3;1;Home win;+;+;+;4;+;-;-;1;1;V;1
+20. Jun;Fulham;Brentford;0;2;Away win;+;-;-;2;-;-;+;0;0;V;1
+20. Jun;Huddersfield;Wigan Athletic;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+20. Jun;Hull City;Charlton;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+20. Jun;Luton Town;Preston;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+20. Jun;Middlesbrough;Swansea City;0;3;Away win;+;+;-;3;-;-;+;0;3;V;1
+20. Jun;Millwall;Derby County;2;3;Away win;+;+;+;5;+;-;-;1;1;L;1
+20. Jun;QP Rangers;Barnsley;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+20. Jun;Reading;Stoke City;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+20. Jun;Sheffield Wed;Nottm Forest;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+20. Jun;West Brom;Birmingham City;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+21. Jun;Cardiff City;Leeds Utd;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+26. Jun;Brentford;West Brom;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+27. Jun;Barnsley;Millwall;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+27. Jun;Birmingham City;Hull City;3;3;Draw;+;+;+;6;+;-;-;0;2;V;1
+27. Jun;Charlton;QP Rangers;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+27. Jun;Derby County;Reading;2;1;Home win;+;+;-;3;+;-;-;2;0;L;1
+27. Jun;Leeds Utd;Fulham;3;0;Home win;+;+;-;3;-;+;-;1;0;L;1
+27. Jun;Preston;Cardiff City;1;3;Away win;+;+;+;4;+;-;-;0;0;V;1
+27. Jun;Stoke City;Middlesbrough;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+27. Jun;Swansea City;Luton Town;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+27. Jun;Wigan Athletic;Blackburn;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+28. Jun;Bristol City;Sheffield Wed;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+28. Jun;Nottm Forest;Huddersfield;3;1;Home win;+;+;+;4;+;-;-;1;0;L;1
+30. Jun;Barnsley;Blackburn;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+30. Jun;Cardiff City;Charlton;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+30. Jun;Leeds Utd;Luton Town;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+30. Jun;Millwall;Swansea City;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+30. Jun;QP Rangers;Fulham;1;2;Away win;+;+;-;3;+;-;-;1;1;L;1
+30. Jun;Reading;Brentford;0;3;Away win;+;+;-;3;-;-;+;0;1;V;1
+30. Jun;Wigan Athletic;Stoke City;3;0;Home win;+;+;-;3;-;+;-;1;0;L;1
+01. Jul;Birmingham City;Huddersfield;0;3;Away win;+;+;-;3;-;-;+;0;1;V;1
+01. Jul;Nottm Forest;Bristol City;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+01. Jul;Preston;Derby County;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+01. Jul;Sheffield Wed;West Brom;0;3;Away win;+;+;-;3;-;-;+;0;1;V;1
+02. Jul;Hull City;Middlesbrough;2;1;Home win;+;+;-;3;+;-;-;1;1;V;1
+03. Jul;Charlton;Millwall;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+04. Jul;Blackburn;Leeds Utd;1;3;Away win;+;+;+;4;+;-;-;0;2;V;1
+04. Jul;Brentford;Wigan Athletic;3;0;Home win;+;+;-;3;-;+;-;1;0;L;1
+04. Jul;Bristol City;Cardiff City;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+04. Jul;Derby County;Nottm Forest;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+04. Jul;Fulham;Birmingham City;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+04. Jul;Huddersfield;Preston;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+04. Jul;Luton Town;Reading;0;5;Away win;+;+;+;5;-;-;+;0;3;V;1
+04. Jul;Stoke City;Barnsley;4;0;Home win;+;+;+;4;-;+;-;3;0;L;1
+05. Jul;Middlesbrough;QP Rangers;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+05. Jul;Swansea City;Sheffield Wed;2;1;Home win;+;+;-;3;+;-;-;0;0;L;1
+05. Jul;West Brom;Hull City;4;2;Home win;+;+;+;6;+;-;-;2;1;L;1
+07. Jul;Brentford;Charlton;2;1;Home win;+;+;-;3;+;-;-;0;1;V;1
+07. Jul;Cardiff City;Blackburn;2;3;Away win;+;+;+;5;+;-;-;2;1;L;1
+07. Jul;Luton Town;Barnsley;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+07. Jul;Nottm Forest;Fulham;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+07. Jul;Reading;Huddersfield;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+08. Jul;Birmingham City;Swansea City;1;3;Away win;+;+;+;4;+;-;-;1;2;L;1
+08. Jul;Bristol City;Hull City;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+08. Jul;Millwall;Middlesbrough;0;2;Away win;+;-;-;2;-;-;+;0;0;V;1
+08. Jul;Sheffield Wed;Preston;1;3;Away win;+;+;+;4;+;-;-;0;0;L;1
+08. Jul;West Brom;Derby County;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+08. Jul;Wigan Athletic;QP Rangers;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+09. Jul;Leeds Utd;Stoke City;5;0;Home win;+;+;+;5;-;+;-;1;0;L;1
+10. Jul;Fulham;Cardiff City;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+10. Jul;Huddersfield;Luton Town;0;2;Away win;+;-;-;2;-;-;+;0;0;V;1
+11. Jul;Barnsley;Wigan Athletic;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+11. Jul;Blackburn;West Brom;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+11. Jul;Charlton;Reading;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+11. Jul;Derby County;Brentford;1;3;Away win;+;+;+;4;+;-;-;1;1;V;1
+11. Jul;Hull City;Millwall;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+11. Jul;Middlesbrough;Bristol City;1;3;Away win;+;+;+;4;+;-;-;0;2;V;1
+11. Jul;Preston;Nottm Forest;1;1;Draw;+;-;-;2;+;-;-;1;1;V;1
+11. Jul;QP Rangers;Sheffield Wed;0;3;Away win;+;+;-;3;-;-;+;0;2;V;1
+12. Jul;Stoke City;Birmingham City;2;0;Home win;+;-;-;2;-;+;-;2;0;L;1
+12. Jul;Swansea City;Leeds Utd;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+14. Jul;Cardiff City;Derby County;2;1;Home win;+;+;-;3;+;-;-;1;1;L;1
+14. Jul;Luton Town;QP Rangers;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+14. Jul;Millwall;Blackburn;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+14. Jul;Reading;Middlesbrough;1;2;Away win;+;+;-;3;+;-;-;1;1;L;1
+14. Jul;Sheffield Wed;Huddersfield;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+14. Jul;West Brom;Fulham;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+14. Jul;Wigan Athletic;Hull City;8;0;Home win;+;+;+;8;-;+;-;7;0;L;1
+15. Jul;Birmingham City;Charlton;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+15. Jul;Brentford;Preston;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+15. Jul;Bristol City;Stoke City;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+15. Jul;Nottm Forest;Swansea City;2;2;Draw;+;+;+;4;+;-;-;1;2;V;1
+16. Jul;Leeds Utd;Barnsley;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+17. Jul;Huddersfield;West Brom;2;1;Home win;+;+;-;3;+;-;-;1;1;L;1
+18. Jul;Blackburn;Reading;4;3;Home win;+;+;+;7;+;-;-;2;1;L;1
+18. Jul;Charlton;Wigan Athletic;2;2;Draw;+;+;+;4;+;-;-;1;2;V;1
+18. Jul;Fulham;Sheffield Wed;5;3;Home win;+;+;+;8;+;-;-;3;0;L;1
+18. Jul;Hull City;Luton Town;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+18. Jul;Middlesbrough;Cardiff City;1;3;Away win;+;+;+;4;+;-;-;0;1;V;1
+18. Jul;Preston;Birmingham City;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+18. Jul;QP Rangers;Millwall;4;3;Home win;+;+;+;7;+;-;-;1;0;L;1
+18. Jul;Stoke City;Brentford;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+18. Jul;Swansea City;Bristol City;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+19. Jul;Barnsley;Nottm Forest;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+19. Jul;Derby County;Leeds Utd;1;3;Away win;+;+;+;4;+;-;-;0;0;L;1
+22. Jul;Birmingham City;Derby County;1;3;Away win;+;+;+;4;+;-;-;0;1;V;1
+22. Jul;Brentford;Barnsley;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+22. Jul;Bristol City;Preston;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+22. Jul;Cardiff City;Hull City;3;0;Home win;+;+;-;3;-;+;-;2;0;L;1
+22. Jul;Leeds Utd;Charlton;4;0;Home win;+;+;+;4;-;+;-;2;0;L;1
+22. Jul;Luton Town;Blackburn;3;2;Home win;+;+;+;5;+;-;-;2;1;V;1
+22. Jul;Millwall;Huddersfield;4;1;Home win;+;+;+;5;+;-;-;1;1;L;1
+22. Jul;Nottm Forest;Stoke City;1;4;Away win;+;+;+;5;+;-;-;0;1;V;1
+22. Jul;Reading;Swansea City;1;4;Away win;+;+;+;5;+;-;-;1;1;V;1
+22. Jul;Sheffield Wed;Middlesbrough;1;2;Away win;+;+;-;3;+;-;-;1;1;L;1
+22. Jul;West Brom;QP Rangers;2;2;Draw;+;+;+;4;+;-;-;1;1;V;1
+22. Jul;Wigan Athletic;Fulham;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
