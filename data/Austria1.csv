@@ -1,0 +1,193 @@
+Date;Local;Visitor;HG;AG;Outcome;1.5+;2.5+;3.5+;TG;BTS;hCS;aCS;HTh;HTa;FG;sample
+26. Jul;Rapid Wien;Salzburg;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+27. Jul;Admira;Wolfsberger AC;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+27. Jul;WSG Tirol;Austria Wien;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+28. Jul;LASK Linz;Altach;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+28. Jul;Mattersburg;Hartberg;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+28. Jul;Sturm Graz;St. Poelten;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+03. Aug;Altach;WSG Tirol;3;2;Home win;+;+;+;5;+;-;-;2;2;V;0
+03. Aug;Austria Wien;LASK Linz;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+03. Aug;Hartberg;Admira;4;1;Home win;+;+;+;5;+;-;-;2;0;L;0
+04. Aug;Salzburg;Mattersburg;4;1;Home win;+;+;+;5;+;-;-;3;0;L;0
+04. Aug;St. Poelten;Rapid Wien;2;2;Draw;+;+;+;4;+;-;-;1;1;V;0
+04. Aug;Wolfsberger AC;Sturm Graz;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+10. Aug;Admira;LASK Linz;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+10. Aug;Rapid Wien;Altach;2;1;Home win;+;+;-;3;+;-;-;2;1;L;0
+10. Aug;Salzburg;Wolfsberger AC;5;2;Home win;+;+;+;7;+;-;-;2;1;V;0
+11. Aug;Hartberg;Sturm Graz;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+11. Aug;Mattersburg;Austria Wien;1;5;Away win;+;+;+;6;+;-;-;0;2;V;0
+11. Aug;WSG Tirol;St. Poelten;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+17. Aug;LASK Linz;WSG Tirol;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+17. Aug;St. Poelten;Salzburg;0;6;Away win;+;+;+;6;-;-;+;0;2;V;0
+17. Aug;Wolfsberger AC;Mattersburg;5;0;Home win;+;+;+;5;-;+;-;2;0;L;0
+18. Aug;Altach;Hartberg;3;3;Draw;+;+;+;6;+;-;-;0;3;V;0
+18. Aug;Austria Wien;Admira;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+18. Aug;Sturm Graz;Rapid Wien;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+24. Aug;Mattersburg;St. Poelten;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+24. Aug;Rapid Wien;LASK Linz;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+24. Aug;Wolfsberger AC;Altach;5;2;Home win;+;+;+;7;+;-;-;3;1;L;0
+25. Aug;Hartberg;Austria Wien;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+25. Aug;Salzburg;Admira;5;0;Home win;+;+;+;5;-;+;-;3;0;L;0
+25. Aug;Sturm Graz;WSG Tirol;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+31. Aug;Admira;Mattersburg;1;3;Away win;+;+;+;4;+;-;-;1;2;V;0
+31. Aug;LASK Linz;Wolfsberger AC;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+31. Aug;WSG Tirol;Salzburg;1;5;Away win;+;+;+;6;+;-;-;0;3;V;0
+01. Sep;Altach;Sturm Graz;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+01. Sep;Austria Wien;Rapid Wien;1;3;Away win;+;+;+;4;+;-;-;1;1;V;0
+01. Sep;St. Poelten;Hartberg;1;3;Away win;+;+;+;4;+;-;-;0;2;V;0
+14. Sep;Mattersburg;WSG Tirol;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+14. Sep;Salzburg;Hartberg;7;2;Home win;+;+;+;9;+;-;-;2;1;L;0
+14. Sep;Sturm Graz;LASK Linz;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+15. Sep;Altach;St. Poelten;6;0;Home win;+;+;+;6;-;+;-;3;0;L;0
+15. Sep;Rapid Wien;Admira;5;0;Home win;+;+;+;5;-;+;-;1;0;L;0
+15. Sep;Wolfsberger AC;Austria Wien;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+21. Sep;Admira;St. Poelten;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+21. Sep;Mattersburg;Sturm Graz;3;3;Draw;+;+;+;6;+;-;-;1;2;L;0
+21. Sep;WSG Tirol;Rapid Wien;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+22. Sep;Austria Wien;Altach;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+22. Sep;Hartberg;Wolfsberger AC;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+22. Sep;LASK Linz;Salzburg;2;2;Draw;+;+;+;4;+;-;-;2;1;L;0
+28. Sep;Salzburg;Austria Wien;4;1;Home win;+;+;+;5;+;-;-;2;1;V;0
+28. Sep;St. Poelten;LASK Linz;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+28. Sep;Wolfsberger AC;WSG Tirol;2;2;Draw;+;+;+;4;+;-;-;0;0;L;0
+29. Sep;Altach;Mattersburg;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+29. Sep;Rapid Wien;Hartberg;3;3;Draw;+;+;+;6;+;-;-;1;1;L;0
+29. Sep;Sturm Graz;Admira;4;1;Home win;+;+;+;5;+;-;-;1;0;L;0
+5 Oct;Admira;WSG Tirol;3;1;Home win;+;+;+;4;+;-;-;3;1;V;0
+5 Oct;Mattersburg;Rapid Wien;2;3;Away win;+;+;+;5;+;-;-;1;1;L;0
+5 Oct;Salzburg;Altach;6;0;Home win;+;+;+;6;-;+;-;3;0;L;0
+6 Oct;Austria Wien;Sturm Graz;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+6 Oct;Hartberg;LASK Linz;1;2;Away win;+;+;-;3;+;-;-;0;0;L;0
+6 Oct;Wolfsberger AC;St. Poelten;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+19 Oct;Altach;Admira;1;4;Away win;+;+;+;5;+;-;-;0;3;V;0
+19 Oct;LASK Linz;Mattersburg;7;2;Home win;+;+;+;9;+;-;-;3;2;V;0
+19 Oct;Sturm Graz;Salzburg;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+20 Oct;Rapid Wien;Wolfsberger AC;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+20 Oct;St. Poelten;Austria Wien;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+20 Oct;WSG Tirol;Hartberg;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+26 Oct;Austria Wien;WSG Tirol;2;3;Away win;+;+;+;5;+;-;-;0;2;V;0
+26 Oct;Hartberg;Mattersburg;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+26 Oct;St. Poelten;Sturm Graz;0;4;Away win;+;+;+;4;-;-;+;0;0;V;0
+27 Oct;Altach;LASK Linz;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+27 Oct;Salzburg;Rapid Wien;3;2;Home win;+;+;+;5;+;-;-;2;1;L;0
+27 Oct;Wolfsberger AC;Admira;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+02. Nov;Mattersburg;Salzburg;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+02. Nov;Rapid Wien;St. Poelten;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+02. Nov;Sturm Graz;Wolfsberger AC;0;4;Away win;+;+;+;4;-;-;+;0;3;V;0
+03. Nov;Admira;Hartberg;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+03. Nov;LASK Linz;Austria Wien;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+03. Nov;WSG Tirol;Altach;0;4;Away win;+;+;+;4;-;-;+;0;1;V;0
+09. Nov;Altach;Rapid Wien;0;3;Away win;+;+;-;3;-;-;+;0;3;V;0
+09. Nov;St. Poelten;WSG Tirol;5;1;Home win;+;+;+;6;+;-;-;3;1;L;0
+09. Nov;Sturm Graz;Hartberg;3;1;Home win;+;+;+;4;+;-;-;0;0;L;0
+10. Nov;Austria Wien;Mattersburg;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+10. Nov;LASK Linz;Admira;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+10. Nov;Wolfsberger AC;Salzburg;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+23. Nov;Mattersburg;Wolfsberger AC;1;4;Away win;+;+;+;5;+;-;-;0;2;V;0
+23. Nov;Salzburg;St. Poelten;2;2;Draw;+;+;+;4;+;-;-;2;1;L;0
+23. Nov;WSG Tirol;LASK Linz;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+24. Nov;Admira;Austria Wien;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+24. Nov;Hartberg;Altach;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+24. Nov;Rapid Wien;Sturm Graz;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+30. Nov;Austria Wien;Hartberg;5;0;Home win;+;+;+;5;-;+;-;3;0;L;0
+30. Nov;St. Poelten;Mattersburg;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+30. Nov;WSG Tirol;Sturm Graz;1;5;Away win;+;+;+;6;+;-;-;0;2;V;0
+1 Dec;Admira;Salzburg;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+1 Dec;Altach;Wolfsberger AC;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+1 Dec;LASK Linz;Rapid Wien;0;4;Away win;+;+;+;4;-;-;+;0;1;V;0
+7 Dec;Hartberg;St. Poelten;3;2;Home win;+;+;+;5;+;-;-;2;0;L;0
+7 Dec;Salzburg;WSG Tirol;5;1;Home win;+;+;+;6;+;-;-;3;0;L;0
+7 Dec;Wolfsberger AC;LASK Linz;1;3;Away win;+;+;+;4;+;-;-;0;2;V;0
+8 Dec;Mattersburg;Admira;1;2;Away win;+;+;-;3;+;-;-;0;0;L;0
+8 Dec;Rapid Wien;Austria Wien;2;2;Draw;+;+;+;4;+;-;-;1;2;V;0
+8 Dec;Sturm Graz;Altach;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+14 Dec;Admira;Rapid Wien;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+14 Dec;Hartberg;Salzburg;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+14 Dec;St. Poelten;Altach;0;3;Away win;+;+;-;3;-;-;+;0;0;V;0
+15 Dec;Austria Wien;Wolfsberger AC;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+15 Dec;LASK Linz;Sturm Graz;3;3;Draw;+;+;+;6;+;-;-;2;3;V;0
+15 Dec;WSG Tirol;Mattersburg;1;3;Away win;+;+;+;4;+;-;-;0;1;V;0
+14. Feb;Salzburg;LASK Linz;2;3;Away win;+;+;+;5;+;-;-;1;2;V;0
+15. Feb;Altach;Austria Wien;2;2;Draw;+;+;+;4;+;-;-;2;1;L;0
+15. Feb;Wolfsberger AC;Hartberg;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+16. Feb;Rapid Wien;WSG Tirol;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+16. Feb;St. Poelten;Admira;2;2;Draw;+;+;+;4;+;-;-;0;0;L;0
+16. Feb;Sturm Graz;Mattersburg;1;2;Away win;+;+;-;3;+;-;-;0;2;V;0
+22. Feb;Admira;Sturm Graz;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+22. Feb;Mattersburg;Altach;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+22. Feb;WSG Tirol;Wolfsberger AC;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+23. Feb;Austria Wien;Salzburg;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+23. Feb;Hartberg;Rapid Wien;2;2;Draw;+;+;+;4;+;-;-;1;1;V;0
+23. Feb;LASK Linz;St. Poelten;4;1;Home win;+;+;+;5;+;-;-;3;1;L;0
+1 Mar;LASK Linz;Hartberg;5;1;Home win;+;+;+;6;+;-;-;0;1;V;0
+1 Mar;Rapid Wien;Mattersburg;3;1;Home win;+;+;+;4;+;-;-;1;1;L;0
+1 Mar;St. Poelten;Wolfsberger AC;0;4;Away win;+;+;+;4;-;-;+;0;1;V;0
+1 Mar;Sturm Graz;Austria Wien;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+1 Mar;WSG Tirol;Admira;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+2 Mar;Altach;Salzburg;3;2;Home win;+;+;+;5;+;-;-;1;0;L;0
+7 Mar;Admira;Altach;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+7 Mar;Austria Wien;St. Poelten;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+7 Mar;Hartberg;WSG Tirol;0;3;Away win;+;+;-;3;-;-;+;0;0;V;0
+7 Mar;Wolfsberger AC;Rapid Wien;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+8 Mar;Mattersburg;LASK Linz;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+8 Mar;Salzburg;Sturm Graz;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+02. Jun;Austria Wien;Admira;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+02. Jun;Mattersburg;Altach;1;1;Draw;+;-;-;2;+;-;-;1;1;V;1
+02. Jun;WSG Tirol;St. Poelten;0;5;Away win;+;+;+;5;-;-;+;0;3;V;1
+03. Jun;LASK Linz;Hartberg;1;2;Away win;+;+;-;3;+;-;-;1;1;L;1
+03. Jun;Salzburg;Rapid Wien;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+03. Jun;Sturm Graz;Wolfsberger AC;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+06. Jun;Admira;Mattersburg;0;2;Away win;+;-;-;2;-;-;+;0;2;V;1
+06. Jun;Altach;WSG Tirol;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+06. Jun;St. Poelten;Austria Wien;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+07. Jun;Hartberg;Salzburg;0;6;Away win;+;+;+;6;-;-;+;0;4;V;1
+07. Jun;Rapid Wien;Sturm Graz;4;0;Home win;+;+;+;4;-;+;-;2;0;L;1
+07. Jun;Wolfsberger AC;LASK Linz;3;3;Draw;+;+;+;6;+;-;-;0;1;V;1
+09. Jun;Austria Wien;Altach;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+09. Jun;St. Poelten;Admira;0;3;Away win;+;+;-;3;-;-;+;0;1;V;1
+09. Jun;WSG Tirol;Mattersburg;1;1;Draw;+;-;-;2;+;-;-;1;1;V;1
+10. Jun;LASK Linz;Rapid Wien;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+10. Jun;Sturm Graz;Salzburg;1;5;Away win;+;+;+;6;+;-;-;1;4;V;1
+10. Jun;Wolfsberger AC;Hartberg;2;4;Away win;+;+;+;6;+;-;-;2;1;L;1
+13. Jun;Admira;WSG Tirol;0;3;Away win;+;+;-;3;-;-;+;0;1;V;1
+13. Jun;Altach;St. Poelten;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+13. Jun;Mattersburg;Austria Wien;1;4;Away win;+;+;+;5;+;-;-;1;2;V;1
+14. Jun;Hartberg;Sturm Graz;1;2;Away win;+;+;-;3;+;-;-;1;0;L;1
+14. Jun;Rapid Wien;Wolfsberger AC;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+14. Jun;Salzburg;LASK Linz;3;1;Home win;+;+;+;4;+;-;-;2;0;L;1
+16. Jun;Admira;Altach;1;1;Draw;+;-;-;2;+;-;-;1;1;V;1
+16. Jun;Austria Wien;WSG Tirol;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+16. Jun;St. Poelten;Mattersburg;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+17. Jun;Hartberg;Rapid Wien;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+17. Jun;LASK Linz;Sturm Graz;4;0;Home win;+;+;+;4;-;+;-;3;0;L;1
+17. Jun;Wolfsberger AC;Salzburg;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+20. Jun;Altach;Admira;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+20. Jun;Mattersburg;St. Poelten;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+20. Jun;WSG Tirol;Austria Wien;1;2;Away win;+;+;-;3;+;-;-;1;1;V;1
+21. Jun;Rapid Wien;Hartberg;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+21. Jun;Salzburg;Wolfsberger AC;2;2;Draw;+;+;+;4;+;-;-;1;0;L;1
+21. Jun;Sturm Graz;LASK Linz;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+23. Jun;Admira;Austria Wien;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+23. Jun;Altach;Mattersburg;1;1;Draw;+;-;-;2;+;-;-;1;1;L;1
+23. Jun;St. Poelten;WSG Tirol;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+24. Jun;Hartberg;LASK Linz;1;5;Away win;+;+;+;6;+;-;-;0;0;V;1
+24. Jun;Rapid Wien;Salzburg;2;7;Away win;+;+;+;9;+;-;-;1;4;L;1
+24. Jun;Wolfsberger AC;Sturm Graz;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+27. Jun;Austria Wien;St. Poelten;2;5;Away win;+;+;+;7;+;-;-;2;2;L;1
+27. Jun;Mattersburg;Admira;1;2;Away win;+;+;-;3;+;-;-;1;0;L;1
+27. Jun;WSG Tirol;Altach;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+28. Jun;LASK Linz;Wolfsberger AC;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+28. Jun;Salzburg;Hartberg;3;0;Home win;+;+;-;3;-;+;-;1;0;L;1
+28. Jun;Sturm Graz;Rapid Wien;2;3;Away win;+;+;+;5;+;-;-;2;0;L;1
+30. Jun;Admira;St. Poelten;0;3;Away win;+;+;-;3;-;-;+;0;0;V;1
+30. Jun;Altach;Austria Wien;1;2;Away win;+;+;-;3;+;-;-;1;0;L;1
+30. Jun;Mattersburg;WSG Tirol;4;1;Home win;+;+;+;5;+;-;-;2;0;L;1
+01. Jul;Rapid Wien;LASK Linz;3;1;Home win;+;+;+;4;+;-;-;2;0;L;1
+01. Jul;Salzburg;Sturm Graz;5;2;Home win;+;+;+;7;+;-;-;1;0;L;1
+02. Jul;Hartberg;Wolfsberger AC;3;3;Draw;+;+;+;6;+;-;-;1;0;L;1
+04. Jul;Austria Wien;Mattersburg;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+04. Jul;St. Poelten;Altach;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+04. Jul;WSG Tirol;Admira;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+05. Jul;LASK Linz;Salzburg;0;3;Away win;+;+;-;3;-;-;+;0;0;V;1
+05. Jul;Sturm Graz;Hartberg;1;4;Away win;+;+;+;5;+;-;-;1;3;L;1
+05. Jul;Wolfsberger AC;Rapid Wien;3;1;Home win;+;+;+;4;+;-;-;2;0;L;1

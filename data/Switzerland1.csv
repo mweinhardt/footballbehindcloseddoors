@@ -1,0 +1,193 @@
+Date;Local;Visitor;HG;AG;Outcome;1.5+;2.5+;3.5+;TG;BTS;hCS;aCS;HTh;HTa;FG;sample
+19. Jul;Sion;FC Basel;1;4;Away win;+;+;+;5;+;-;-;1;1;V;0
+20. Jul;FC Thun;Neuchatel Xamax;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+20. Jul;St. Gallen;Luzern;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+21. Jul;BSC Young Boys;Servette;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+21. Jul;FC Zurich;Lugano;0;4;Away win;+;+;+;4;-;-;+;0;3;V;0
+27. Jul;FC Basel;St. Gallen;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+27. Jul;Servette;Sion;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+28. Jul;Lugano;FC Thun;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+28. Jul;Luzern;FC Zurich;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+28. Jul;Neuchatel Xamax;BSC Young Boys;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+03. Aug;FC Thun;FC Basel;2;3;Away win;+;+;+;5;+;-;-;1;1;L;0
+03. Aug;Sion;FC Zurich;3;1;Home win;+;+;+;4;+;-;-;1;1;L;0
+04. Aug;BSC Young Boys;Lugano;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+04. Aug;Neuchatel Xamax;St. Gallen;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+04. Aug;Servette;Luzern;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+10. Aug;FC Basel;Servette;3;1;Home win;+;+;+;4;+;-;-;2;1;L;0
+10. Aug;St. Gallen;BSC Young Boys;2;3;Away win;+;+;+;5;+;-;-;1;2;V;0
+11. Aug;FC Zurich;Neuchatel Xamax;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+11. Aug;Lugano;Sion;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+11. Aug;Luzern;FC Thun;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+14. Aug;FC Zurich;St. Gallen;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+24. Aug;BSC Young Boys;FC Zurich;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+24. Aug;Neuchatel Xamax;FC Basel;0;3;Away win;+;+;-;3;-;-;+;0;0;V;0
+25. Aug;FC Thun;Servette;0;4;Away win;+;+;+;4;-;-;+;0;2;V;0
+25. Aug;Sion;Luzern;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+25. Aug;St. Gallen;Lugano;3;2;Home win;+;+;+;5;+;-;-;0;1;V;0
+31. Aug;Servette;Neuchatel Xamax;2;2;Draw;+;+;+;4;+;-;-;0;2;V;0
+01. Sep;FC Basel;Lugano;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+01. Sep;FC Thun;Sion;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+01. Sep;Luzern;BSC Young Boys;2;2;Draw;+;+;+;4;+;-;-;1;2;L;0
+21. Sep;Neuchatel Xamax;Sion;1;3;Away win;+;+;+;4;+;-;-;1;1;V;0
+21. Sep;St. Gallen;Servette;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+22. Sep;BSC Young Boys;FC Basel;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+22. Sep;FC Zurich;FC Thun;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+22. Sep;Lugano;Luzern;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+25. Sep;FC Basel;FC Zurich;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+25. Sep;FC Thun;BSC Young Boys;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+25. Sep;Sion;St. Gallen;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+26. Sep;Luzern;Neuchatel Xamax;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+26. Sep;Servette;Lugano;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+28. Sep;BSC Young Boys;Sion;3;2;Home win;+;+;+;5;+;-;-;2;1;V;0
+28. Sep;St. Gallen;FC Thun;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+29. Sep;FC Basel;Luzern;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+29. Sep;Lugano;Neuchatel Xamax;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+29. Sep;Servette;FC Zurich;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+5 Oct;FC Thun;Luzern;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+5 Oct;Neuchatel Xamax;Servette;2;2;Draw;+;+;+;4;+;-;-;0;2;V;0
+6 Oct;FC Zurich;BSC Young Boys;0;4;Away win;+;+;+;4;-;-;+;0;1;V;0
+6 Oct;Sion;Lugano;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+6 Oct;St. Gallen;FC Basel;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+19 Oct;BSC Young Boys;Neuchatel Xamax;4;1;Home win;+;+;+;5;+;-;-;1;0;L;0
+19 Oct;FC Basel;FC Thun;3;1;Home win;+;+;+;4;+;-;-;0;0;L;0
+20 Oct;Lugano;FC Zurich;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+20 Oct;Luzern;Sion;3;1;Home win;+;+;+;4;+;-;-;0;1;V;0
+20 Oct;Servette;St. Gallen;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+26 Oct;Neuchatel Xamax;Luzern;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+26 Oct;Sion;Servette;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+27 Oct;BSC Young Boys;FC Thun;4;2;Home win;+;+;+;6;+;-;-;2;1;V;0
+27 Oct;FC Zurich;FC Basel;3;2;Home win;+;+;+;5;+;-;-;2;1;V;0
+27 Oct;Lugano;St. Gallen;1;3;Away win;+;+;+;4;+;-;-;0;2;V;0
+02. Nov;FC Thun;FC Zurich;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+02. Nov;St. Gallen;Sion;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+03. Nov;FC Basel;Neuchatel Xamax;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+03. Nov;Luzern;Lugano;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+03. Nov;Servette;BSC Young Boys;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+09. Nov;Luzern;Servette;1;2;Away win;+;+;-;3;+;-;-;0;2;V;0
+09. Nov;Neuchatel Xamax;FC Thun;2;3;Away win;+;+;+;5;+;-;-;0;0;V;0
+10. Nov;BSC Young Boys;St. Gallen;4;3;Home win;+;+;+;7;+;-;-;2;2;V;0
+10. Nov;FC Zurich;Sion;4;2;Home win;+;+;+;6;+;-;-;2;2;L;0
+10. Nov;Lugano;FC Basel;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+23. Nov;FC Zurich;Luzern;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+23. Nov;Servette;FC Basel;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+24. Nov;FC Thun;Lugano;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+24. Nov;Sion;BSC Young Boys;3;4;Away win;+;+;+;7;+;-;-;2;3;V;0
+24. Nov;St. Gallen;Neuchatel Xamax;4;1;Home win;+;+;+;5;+;-;-;2;0;L;0
+30. Nov;Neuchatel Xamax;FC Zurich;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+30. Nov;Sion;FC Thun;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+1 Dec;FC Basel;BSC Young Boys;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+1 Dec;Lugano;Servette;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+1 Dec;Luzern;St. Gallen;1;4;Away win;+;+;+;5;+;-;-;1;1;V;0
+7 Dec;BSC Young Boys;Luzern;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+7 Dec;Neuchatel Xamax;Lugano;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+8 Dec;FC Basel;Sion;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+8 Dec;FC Thun;St. Gallen;1;4;Away win;+;+;+;5;+;-;-;0;2;V;0
+8 Dec;FC Zurich;Servette;0;5;Away win;+;+;+;5;-;-;+;0;2;V;0
+14 Dec;Servette;FC Thun;2;1;Home win;+;+;-;3;+;-;-;0;0;V;0
+14 Dec;St. Gallen;FC Zurich;1;3;Away win;+;+;+;4;+;-;-;1;2;V;0
+15 Dec;Lugano;BSC Young Boys;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+15 Dec;Luzern;FC Basel;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+15 Dec;Sion;Neuchatel Xamax;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+25. Jan;FC Zurich;Luzern;2;3;Away win;+;+;+;5;+;-;-;1;3;L;0
+25. Jan;Neuchatel Xamax;Servette;1;2;Away win;+;+;-;3;+;-;-;0;2;V;0
+26. Jan;BSC Young Boys;FC Basel;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+26. Jan;FC Thun;Sion;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+26. Jan;St. Gallen;Lugano;3;1;Home win;+;+;+;4;+;-;-;0;1;V;0
+01. Feb;Lugano;Neuchatel Xamax;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+01. Feb;Luzern;BSC Young Boys;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+02. Feb;FC Basel;St. Gallen;1;2;Away win;+;+;-;3;+;-;-;1;1;L;0
+02. Feb;Servette;FC Thun;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+02. Feb;Sion;FC Zurich;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+08. Feb;BSC Young Boys;Sion;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+08. Feb;FC Zurich;FC Basel;0;4;Away win;+;+;+;4;-;-;+;0;2;V;0
+09. Feb;FC Thun;Lugano;3;2;Home win;+;+;+;5;+;-;-;2;1;L;0
+09. Feb;Neuchatel Xamax;Luzern;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+09. Feb;St. Gallen;Servette;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+15. Feb;FC Basel;FC Thun;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+15. Feb;Sion;Neuchatel Xamax;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+16. Feb;Lugano;BSC Young Boys;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+16. Feb;Luzern;St. Gallen;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+16. Feb;Servette;FC Zurich;4;1;Home win;+;+;+;5;+;-;-;1;0;L;0
+22. Feb;FC Thun;Luzern;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+22. Feb;FC Zurich;Neuchatel Xamax;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+23. Feb;FC Basel;Servette;2;2;Draw;+;+;+;4;+;-;-;2;0;L;0
+23. Feb;Lugano;Sion;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+23. Feb;St. Gallen;BSC Young Boys;3;3;Draw;+;+;+;6;+;-;-;1;2;L;0
+19. Jun;BSC Young Boys;FC Zurich;3;2;Home win;+;+;+;5;+;-;-;1;2;V;1
+20. Jun;Neuchatel Xamax;FC Thun;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+20. Jun;Sion;St. Gallen;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+21. Jun;Luzern;FC Basel;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+21. Jun;Servette;Lugano;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+23. Jun;FC Thun;BSC Young Boys;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+24. Jun;Lugano;Luzern;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+24. Jun;Neuchatel Xamax;FC Basel;1;2;Away win;+;+;-;3;+;-;-;1;1;L;1
+24. Jun;Sion;Servette;1;1;Draw;+;-;-;2;+;-;-;1;1;V;1
+25. Jun;St. Gallen;FC Zurich;0;4;Away win;+;+;+;4;-;-;+;0;1;V;1
+27. Jun;BSC Young Boys;Neuchatel Xamax;6;0;Home win;+;+;+;6;-;+;-;4;0;L;1
+27. Jun;Luzern;Servette;2;2;Draw;+;+;+;4;+;-;-;0;2;V;1
+28. Jun;FC Basel;Sion;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+28. Jun;FC Zurich;Lugano;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+28. Jun;St. Gallen;FC Thun;3;2;Home win;+;+;+;5;+;-;-;3;0;L;1
+30. Jun;Servette;BSC Young Boys;1;1;Draw;+;-;-;2;+;-;-;0;0;L;1
+01. Jul;FC Thun;FC Zurich;3;2;Home win;+;+;+;5;+;-;-;3;2;L;1
+01. Jul;Lugano;FC Basel;2;1;Home win;+;+;-;3;+;-;-;0;0;L;1
+01. Jul;Neuchatel Xamax;St. Gallen;1;2;Away win;+;+;-;3;+;-;-;1;1;L;1
+02. Jul;Sion;Luzern;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+04. Jul;FC Basel;Neuchatel Xamax;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+04. Jul;FC Zurich;Servette;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+05. Jul;BSC Young Boys;Lugano;3;0;Home win;+;+;-;3;-;+;-;1;0;L;1
+05. Jul;Luzern;FC Thun;3;0;Home win;+;+;-;3;-;+;-;2;0;L;1
+05. Jul;St. Gallen;Sion;2;1;Home win;+;+;-;3;+;-;-;2;1;L;1
+07. Jul;Neuchatel Xamax;FC Zurich;1;1;Draw;+;-;-;2;+;-;-;1;1;L;1
+08. Jul;BSC Young Boys;FC Thun;4;0;Home win;+;+;+;4;-;+;-;1;0;L;1
+08. Jul;Servette;Luzern;2;0;Home win;+;-;-;2;-;+;-;2;0;L;1
+08. Jul;Sion;FC Basel;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+09. Jul;Lugano;St. Gallen;3;3;Draw;+;+;+;6;+;-;-;1;2;L;1
+11. Jul;FC Basel;BSC Young Boys;3;2;Home win;+;+;+;5;+;-;-;1;0;L;1
+12. Jul;FC Thun;Neuchatel Xamax;3;0;Home win;+;+;-;3;-;+;-;2;0;L;1
+12. Jul;Luzern;Lugano;3;3;Draw;+;+;+;6;+;-;-;0;2;V;1
+12. Jul;Servette;St. Gallen;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+14. Jul;FC Basel;FC Zurich;4;0;Home win;+;+;+;4;-;+;-;2;0;L;1
+15. Jul;BSC Young Boys;Servette;4;2;Home win;+;+;+;6;+;-;-;1;1;V;1
+15. Jul;Lugano;FC Thun;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+16. Jul;Neuchatel Xamax;Sion;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+16. Jul;St. Gallen;Luzern;4;1;Home win;+;+;+;5;+;-;-;3;0;L;1
+18. Jul;FC Zurich;BSC Young Boys;0;5;Away win;+;+;+;5;-;-;+;0;2;V;1
+19. Jul;FC Thun;St. Gallen;2;1;Home win;+;+;-;3;+;-;-;0;0;L;1
+19. Jul;Luzern;Neuchatel Xamax;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+19. Jul;Servette;FC Basel;2;2;Draw;+;+;+;4;+;-;-;1;1;L;1
+19. Jul;Sion;Lugano;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+22. Jul;FC Thun;Servette;5;1;Home win;+;+;+;6;+;-;-;2;0;L;1
+22. Jul;Lugano;FC Zurich;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+22. Jul;Luzern;Sion;1;2;Away win;+;+;-;3;+;-;-;0;2;V;1
+22. Jul;St. Gallen;FC Basel;0;5;Away win;+;+;+;5;-;-;+;0;2;V;1
+23. Jul;Neuchatel Xamax;BSC Young Boys;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+25. Jul;FC Zurich;St. Gallen;1;3;Away win;+;+;+;4;+;-;-;1;1;V;1
+25. Jul;Sion;FC Thun;1;1;Draw;+;-;-;2;+;-;-;0;0;L;1
+26. Jul;BSC Young Boys;Luzern;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+26. Jul;FC Basel;Lugano;4;4;Draw;+;+;+;8;+;-;-;2;3;V;1
+26. Jul;Servette;Neuchatel Xamax;4;1;Home win;+;+;+;5;+;-;-;1;1;L;1
+28. Jul;FC Zurich;Sion;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+31. Jul;FC Thun;FC Basel;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+31. Jul;Lugano;Servette;3;1;Home win;+;+;+;4;+;-;-;1;1;V;1
+31. Jul;Luzern;FC Zurich;2;1;Home win;+;+;-;3;+;-;-;1;1;L;1
+31. Jul;Sion;BSC Young Boys;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+31. Jul;St. Gallen;Neuchatel Xamax;6;0;Home win;+;+;+;6;-;+;-;4;0;L;1
+03. Aug;BSC Young Boys;St. Gallen;3;1;Home win;+;+;+;4;+;-;-;2;1;L;1
+03. Aug;FC Basel;Luzern;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+03. Aug;FC Zurich;FC Thun;3;3;Draw;+;+;+;6;+;-;-;2;0;L;1
+03. Aug;Neuchatel Xamax;Lugano;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+03. Aug;Servette;Sion;1;2;Away win;+;+;-;3;+;-;-;1;1;L;1
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;

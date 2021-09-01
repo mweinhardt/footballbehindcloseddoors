@@ -1,0 +1,381 @@
+Date;Local;Visitor;HG;AG;Outcome;1.5+;2.5+;3.5+;TG;BTS;hCS;aCS;HTh;HTa;FG;sample
+24. Aug;Fiorentina;Napoli;3;4;Away win;+;+;+;7;+;-;-;1;2;L;0
+24. Aug;Parma;Juventus;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+25. Aug;AS Roma;Genoa;3;3;Draw;+;+;+;6;+;-;-;2;2;L;0
+25. Aug;Cagliari;Brescia;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+25. Aug;Hellas Verona;Bologna;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+25. Aug;Sampdoria;Lazio;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+25. Aug;SPAL;Atalanta;2;3;Away win;+;+;+;5;+;-;-;2;1;L;0
+25. Aug;Torino;Sassuolo;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+25. Aug;Udinese;AC Milan;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+26. Aug;Inter Milan;Lecce;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+30. Aug;Bologna;SPAL;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+31. Aug;AC Milan;Brescia;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+31. Aug;Juventus;Napoli;4;3;Home win;+;+;+;7;+;-;-;2;0;L;0
+01. Sep;Atalanta;Torino;2;3;Away win;+;+;+;5;+;-;-;1;1;V;0
+01. Sep;Cagliari;Inter Milan;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+01. Sep;Genoa;Fiorentina;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+01. Sep;Lazio;AS Roma;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+01. Sep;Lecce;Hellas Verona;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+01. Sep;Sassuolo;Sampdoria;4;1;Home win;+;+;+;5;+;-;-;3;0;L;0
+01. Sep;Udinese;Parma;1;3;Away win;+;+;+;4;+;-;-;1;1;L;0
+14. Sep;Fiorentina;Juventus;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+14. Sep;Inter Milan;Udinese;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+14. Sep;Napoli;Sampdoria;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+15. Sep;AS Roma;Sassuolo;4;2;Home win;+;+;+;6;+;-;-;4;0;L;0
+15. Sep;Brescia;Bologna;3;4;Away win;+;+;+;7;+;-;-;3;1;L;0
+15. Sep;Genoa;Atalanta;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+15. Sep;Hellas Verona;AC Milan;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+15. Sep;Parma;Cagliari;1;3;Away win;+;+;+;4;+;-;-;0;2;V;0
+15. Sep;SPAL;Lazio;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+16. Sep;Torino;Lecce;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+20. Sep;Cagliari;Genoa;3;1;Home win;+;+;+;4;+;-;-;0;0;L;0
+21. Sep;AC Milan;Inter Milan;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+21. Sep;Juventus;Hellas Verona;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+21. Sep;Udinese;Brescia;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+22. Sep;Atalanta;Fiorentina;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+22. Sep;Bologna;AS Roma;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+22. Sep;Lazio;Parma;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+22. Sep;Lecce;Napoli;1;4;Away win;+;+;+;5;+;-;-;0;2;V;0
+22. Sep;Sampdoria;Torino;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+22. Sep;Sassuolo;SPAL;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+24. Sep;Brescia;Juventus;1;2;Away win;+;+;-;3;+;-;-;1;1;L;0
+24. Sep;Hellas Verona;Udinese;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+25. Sep;AS Roma;Atalanta;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+25. Sep;Fiorentina;Sampdoria;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+25. Sep;Genoa;Bologna;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+25. Sep;Inter Milan;Lazio;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+25. Sep;Napoli;Cagliari;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+25. Sep;Parma;Sassuolo;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+25. Sep;SPAL;Lecce;1;3;Away win;+;+;+;4;+;-;-;1;1;V;0
+26. Sep;Torino;AC Milan;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+28. Sep;Juventus;SPAL;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+28. Sep;Sampdoria;Inter Milan;1;3;Away win;+;+;+;4;+;-;-;0;2;V;0
+28. Sep;Sassuolo;Atalanta;1;4;Away win;+;+;+;5;+;-;-;0;4;V;0
+29. Sep;AC Milan;Fiorentina;1;3;Away win;+;+;+;4;+;-;-;0;1;V;0
+29. Sep;Cagliari;Hellas Verona;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+29. Sep;Lazio;Genoa;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+29. Sep;Lecce;AS Roma;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+29. Sep;Napoli;Brescia;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+29. Sep;Udinese;Bologna;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+30. Sep;Parma;Torino;3;2;Home win;+;+;+;5;+;-;-;2;2;L;0
+5 Oct;Genoa;AC Milan;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+5 Oct;Hellas Verona;Sampdoria;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+5 Oct;SPAL;Parma;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+6 Oct;AS Roma;Cagliari;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+6 Oct;Atalanta;Lecce;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+6 Oct;Bologna;Lazio;2;2;Draw;+;+;+;4;+;-;-;2;2;L;0
+6 Oct;Fiorentina;Udinese;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+6 Oct;Inter Milan;Juventus;1;2;Away win;+;+;-;3;+;-;-;1;1;V;0
+6 Oct;Torino;Napoli;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+19 Oct;Juventus;Bologna;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+19 Oct;Lazio;Atalanta;3;3;Draw;+;+;+;6;+;-;-;0;3;V;0
+19 Oct;Napoli;Hellas Verona;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+20 Oct;AC Milan;Lecce;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+20 Oct;Cagliari;SPAL;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+20 Oct;Parma;Genoa;5;1;Home win;+;+;+;6;+;-;-;3;0;L;0
+20 Oct;Sampdoria;AS Roma;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+20 Oct;Sassuolo;Inter Milan;3;4;Away win;+;+;+;7;+;-;-;1;3;V;0
+20 Oct;Udinese;Torino;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+21 Oct;Brescia;Fiorentina;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+25 Oct;Hellas Verona;Sassuolo;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+26 Oct;Genoa;Brescia;3;1;Home win;+;+;+;4;+;-;-;0;1;V;0
+26 Oct;Inter Milan;Parma;2;2;Draw;+;+;+;4;+;-;-;1;2;L;0
+26 Oct;Lecce;Juventus;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+27 Oct;AS Roma;AC Milan;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+27 Oct;Atalanta;Udinese;7;1;Home win;+;+;+;8;+;-;-;3;1;V;0
+27 Oct;Bologna;Sampdoria;2;1;Home win;+;+;-;3;+;-;-;0;0;L;0
+27 Oct;Fiorentina;Lazio;1;2;Away win;+;+;-;3;+;-;-;1;1;V;0
+27 Oct;SPAL;Napoli;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+27 Oct;Torino;Cagliari;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+29 Oct;Brescia;Inter Milan;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+29 Oct;Parma;Hellas Verona;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+30 Oct;Cagliari;Bologna;3;2;Home win;+;+;+;5;+;-;-;0;1;V;0
+30 Oct;Juventus;Genoa;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+30 Oct;Lazio;Torino;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+30 Oct;Napoli;Atalanta;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+30 Oct;Sampdoria;Lecce;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+30 Oct;Sassuolo;Fiorentina;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+30 Oct;Udinese;AS Roma;0;4;Away win;+;+;+;4;-;-;+;0;1;V;0
+31 Oct;AC Milan;SPAL;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+02. Nov;AS Roma;Napoli;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+02. Nov;Bologna;Inter Milan;1;2;Away win;+;+;-;3;+;-;-;0;0;L;0
+02. Nov;Torino;Juventus;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+03. Nov;AC Milan;Lazio;1;2;Away win;+;+;-;3;+;-;-;1;1;V;0
+03. Nov;Atalanta;Cagliari;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+03. Nov;Fiorentina;Parma;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+03. Nov;Genoa;Udinese;1;3;Away win;+;+;+;4;+;-;-;1;1;L;0
+03. Nov;Hellas Verona;Brescia;2;1;Home win;+;+;-;3;+;-;-;0;0;L;0
+03. Nov;Lecce;Sassuolo;2;2;Draw;+;+;+;4;+;-;-;2;1;L;0
+04. Nov;SPAL;Sampdoria;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+08. Nov;Sassuolo;Bologna;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+09. Nov;Brescia;Torino;0;4;Away win;+;+;+;4;-;-;+;0;2;V;0
+09. Nov;Inter Milan;Hellas Verona;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+09. Nov;Napoli;Genoa;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+10. Nov;Cagliari;Fiorentina;5;2;Home win;+;+;+;7;+;-;-;3;0;L;0
+10. Nov;Juventus;AC Milan;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+10. Nov;Lazio;Lecce;4;2;Home win;+;+;+;6;+;-;-;1;1;L;0
+10. Nov;Parma;AS Roma;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+10. Nov;Sampdoria;Atalanta;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+10. Nov;Udinese;SPAL;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+23. Nov;AC Milan;Napoli;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+23. Nov;Atalanta;Juventus;1;3;Away win;+;+;+;4;+;-;-;0;0;L;0
+23. Nov;Torino;Inter Milan;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+24. Nov;AS Roma;Brescia;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+24. Nov;Bologna;Parma;2;2;Draw;+;+;+;4;+;-;-;1;1;V;0
+24. Nov;Hellas Verona;Fiorentina;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+24. Nov;Sampdoria;Udinese;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+24. Nov;Sassuolo;Lazio;1;2;Away win;+;+;-;3;+;-;-;1;1;V;0
+25. Nov;Lecce;Cagliari;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+25. Nov;SPAL;Genoa;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+30. Nov;Brescia;Atalanta;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+30. Nov;Fiorentina;Lecce;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+30. Nov;Genoa;Torino;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+1 Dec;Hellas Verona;AS Roma;1;3;Away win;+;+;+;4;+;-;-;1;2;V;0
+1 Dec;Inter Milan;SPAL;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+1 Dec;Juventus;Sassuolo;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+1 Dec;Lazio;Udinese;3;0;Home win;+;+;-;3;-;+;-;3;0;L;0
+1 Dec;Napoli;Bologna;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+1 Dec;Parma;AC Milan;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+2 Dec;Cagliari;Sampdoria;4;3;Home win;+;+;+;7;+;-;-;0;1;V;0
+6 Dec;Inter Milan;AS Roma;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+7 Dec;Atalanta;Hellas Verona;3;2;Home win;+;+;+;5;+;-;-;1;1;V;0
+7 Dec;Lazio;Juventus;3;1;Home win;+;+;+;4;+;-;-;1;1;V;0
+7 Dec;Udinese;Napoli;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+8 Dec;Bologna;AC Milan;2;3;Away win;+;+;+;5;+;-;-;1;2;V;0
+8 Dec;Lecce;Genoa;2;2;Draw;+;+;+;4;+;-;-;0;2;V;0
+8 Dec;Sampdoria;Parma;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+8 Dec;Sassuolo;Cagliari;2;2;Draw;+;+;+;4;+;-;-;2;0;L;0
+8 Dec;SPAL;Brescia;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+8 Dec;Torino;Fiorentina;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+14 Dec;Brescia;Lecce;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+14 Dec;Genoa;Sampdoria;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+14 Dec;Napoli;Parma;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+15 Dec;AC Milan;Sassuolo;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+15 Dec;AS Roma;SPAL;3;1;Home win;+;+;+;4;+;-;-;0;1;V;0
+15 Dec;Bologna;Atalanta;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+15 Dec;Fiorentina;Inter Milan;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+15 Dec;Hellas Verona;Torino;3;3;Draw;+;+;+;6;+;-;-;0;1;V;0
+15 Dec;Juventus;Udinese;3;1;Home win;+;+;+;4;+;-;-;3;0;L;0
+16 Dec;Cagliari;Lazio;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+18 Dec;Brescia;Sassuolo;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+18 Dec;Sampdoria;Juventus;1;2;Away win;+;+;-;3;+;-;-;1;2;V;0
+20 Dec;Fiorentina;AS Roma;1;4;Away win;+;+;+;5;+;-;-;1;2;V;0
+21 Dec;Inter Milan;Genoa;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+21 Dec;Torino;SPAL;1;2;Away win;+;+;-;3;+;-;-;1;1;L;0
+21 Dec;Udinese;Cagliari;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+22 Dec;Atalanta;AC Milan;5;0;Home win;+;+;+;5;-;+;-;1;0;L;0
+22 Dec;Lecce;Bologna;2;3;Away win;+;+;+;5;+;-;-;0;1;V;0
+22 Dec;Parma;Brescia;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+22 Dec;Sassuolo;Napoli;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+05. Jan;AS Roma;Torino;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+05. Jan;Brescia;Lazio;1;2;Away win;+;+;-;3;+;-;-;1;1;L;0
+05. Jan;Genoa;Sassuolo;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+05. Jan;SPAL;Hellas Verona;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+06. Jan;AC Milan;Sampdoria;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+06. Jan;Atalanta;Parma;5;0;Home win;+;+;+;5;-;+;-;3;0;L;0
+06. Jan;Bologna;Fiorentina;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+06. Jan;Juventus;Cagliari;4;0;Home win;+;+;+;4;-;+;-;0;0;L;0
+06. Jan;Lecce;Udinese;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+06. Jan;Napoli;Inter Milan;1;3;Away win;+;+;+;4;+;-;-;1;2;V;0
+11. Jan;Cagliari;AC Milan;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+11. Jan;Inter Milan;Atalanta;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+11. Jan;Lazio;Napoli;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+12. Jan;AS Roma;Juventus;1;2;Away win;+;+;-;3;+;-;-;0;2;V;0
+12. Jan;Fiorentina;SPAL;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+12. Jan;Hellas Verona;Genoa;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+12. Jan;Sampdoria;Brescia;5;1;Home win;+;+;+;6;+;-;-;2;1;V;0
+12. Jan;Torino;Bologna;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+12. Jan;Udinese;Sassuolo;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+13. Jan;Parma;Lecce;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+18. Jan;Lazio;Sampdoria;5;1;Home win;+;+;+;6;+;-;-;3;0;L;0
+18. Jan;Napoli;Fiorentina;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+18. Jan;Sassuolo;Torino;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+19. Jan;AC Milan;Udinese;3;2;Home win;+;+;+;5;+;-;-;0;1;V;0
+19. Jan;Bologna;Hellas Verona;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+19. Jan;Brescia;Cagliari;2;2;Draw;+;+;+;4;+;-;-;1;1;V;0
+19. Jan;Genoa;AS Roma;1;3;Away win;+;+;+;4;+;-;-;1;2;V;0
+19. Jan;Juventus;Parma;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+19. Jan;Lecce;Inter Milan;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+20. Jan;Atalanta;SPAL;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+24. Jan;Brescia;AC Milan;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+25. Jan;Fiorentina;Genoa;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+25. Jan;SPAL;Bologna;1;3;Away win;+;+;+;4;+;-;-;1;1;L;0
+25. Jan;Torino;Atalanta;0;7;Away win;+;+;+;7;-;-;+;0;3;V;0
+26. Jan;AS Roma;Lazio;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+26. Jan;Hellas Verona;Lecce;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+26. Jan;Inter Milan;Cagliari;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+26. Jan;Napoli;Juventus;2;1;Home win;+;+;-;3;+;-;-;0;0;L;0
+26. Jan;Parma;Udinese;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+26. Jan;Sampdoria;Sassuolo;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+01. Feb;Bologna;Brescia;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+01. Feb;Cagliari;Parma;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+01. Feb;Sassuolo;AS Roma;4;2;Home win;+;+;+;6;+;-;-;3;0;L;0
+02. Feb;AC Milan;Hellas Verona;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+02. Feb;Atalanta;Genoa;2;2;Draw;+;+;+;4;+;-;-;2;2;L;0
+02. Feb;Juventus;Fiorentina;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+02. Feb;Lazio;SPAL;5;1;Home win;+;+;+;6;+;-;-;4;0;L;0
+02. Feb;Lecce;Torino;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+02. Feb;Udinese;Inter Milan;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+03. Feb;Sampdoria;Napoli;2;4;Away win;+;+;+;6;+;-;-;1;2;V;0
+05. Feb;Lazio;Hellas Verona;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+07. Feb;AS Roma;Bologna;2;3;Away win;+;+;+;5;+;-;-;1;2;V;0
+08. Feb;Fiorentina;Atalanta;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+08. Feb;Hellas Verona;Juventus;2;1;Home win;+;+;-;3;+;-;-;0;0;V;0
+08. Feb;Torino;Sampdoria;1;3;Away win;+;+;+;4;+;-;-;0;0;L;0
+09. Feb;Brescia;Udinese;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+09. Feb;Genoa;Cagliari;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+09. Feb;Inter Milan;AC Milan;4;2;Home win;+;+;+;6;+;-;-;0;2;V;0
+09. Feb;Napoli;Lecce;2;3;Away win;+;+;+;5;+;-;-;0;1;V;0
+09. Feb;Parma;Lazio;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+09. Feb;SPAL;Sassuolo;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+15. Feb;Atalanta;AS Roma;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+15. Feb;Bologna;Genoa;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+15. Feb;Lecce;SPAL;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+16. Feb;Cagliari;Napoli;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+16. Feb;Juventus;Brescia;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+16. Feb;Lazio;Inter Milan;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+16. Feb;Sampdoria;Fiorentina;1;5;Away win;+;+;+;6;+;-;-;0;3;V;0
+16. Feb;Sassuolo;Parma;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+16. Feb;Udinese;Hellas Verona;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+17. Feb;AC Milan;Torino;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+21. Feb;Brescia;Napoli;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+22. Feb;Bologna;Udinese;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+22. Feb;Fiorentina;AC Milan;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+22. Feb;SPAL;Juventus;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+23. Feb;AS Roma;Lecce;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+23. Feb;Genoa;Lazio;2;3;Away win;+;+;+;5;+;-;-;0;1;V;0
+29. Feb;Lazio;Bologna;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+29. Feb;Napoli;Torino;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+1 Mar;Cagliari;AS Roma;3;4;Away win;+;+;+;7;+;-;-;1;2;L;0
+1 Mar;Lecce;Atalanta;2;7;Away win;+;+;+;9;+;-;-;2;2;V;0
+8 Mar;AC Milan;Genoa;1;2;Away win;+;+;-;3;+;-;-;0;2;V;0
+8 Mar;Juventus;Inter Milan;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+8 Mar;Parma;SPAL;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+8 Mar;Sampdoria;Hellas Verona;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+8 Mar;Udinese;Fiorentina;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+9 Mar;Sassuolo;Brescia;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+20. Jun;Hellas Verona;Cagliari;2;1;Home win;+;+;-;3;+;-;-;2;1;L;1
+20. Jun;Torino;Parma;1;1;Draw;+;-;-;2;+;-;-;1;1;L;1
+21. Jun;Atalanta;Sassuolo;4;1;Home win;+;+;+;5;+;-;-;3;0;L;1
+21. Jun;Inter Milan;Sampdoria;2;1;Home win;+;+;-;3;+;-;-;2;0;L;1
+22. Jun;Bologna;Juventus;0;2;Away win;+;-;-;2;-;-;+;0;2;V;1
+22. Jun;Fiorentina;Brescia;1;1;Draw;+;-;-;2;+;-;-;1;1;V;1
+22. Jun;Lecce;AC Milan;1;4;Away win;+;+;+;5;+;-;-;0;1;V;1
+23. Jun;Genoa;Parma;1;4;Away win;+;+;+;5;+;-;-;0;2;V;1
+23. Jun;Hellas Verona;Napoli;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+23. Jun;SPAL;Cagliari;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+23. Jun;Torino;Udinese;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+24. Jun;AS Roma;Sampdoria;2;1;Home win;+;+;-;3;+;-;-;0;1;V;1
+24. Jun;Atalanta;Lazio;3;2;Home win;+;+;+;5;+;-;-;1;2;V;1
+24. Jun;Inter Milan;Sassuolo;3;3;Draw;+;+;+;6;+;-;-;2;1;V;1
+26. Jun;Juventus;Lecce;4;0;Home win;+;+;+;4;-;+;-;0;0;L;1
+27. Jun;Brescia;Genoa;2;2;Draw;+;+;+;4;+;-;-;2;1;L;1
+27. Jun;Cagliari;Torino;4;2;Home win;+;+;+;6;+;-;-;2;0;L;1
+27. Jun;Lazio;Fiorentina;2;1;Home win;+;+;-;3;+;-;-;0;1;V;1
+28. Jun;AC Milan;AS Roma;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+28. Jun;Napoli;SPAL;3;1;Home win;+;+;+;4;+;-;-;2;1;L;1
+28. Jun;Parma;Inter Milan;1;2;Away win;+;+;-;3;+;-;-;1;0;L;1
+28. Jun;Sampdoria;Bologna;1;2;Away win;+;+;-;3;+;-;-;0;0;V;1
+28. Jun;Sassuolo;Hellas Verona;3;3;Draw;+;+;+;6;+;-;-;0;0;V;1
+28. Jun;Udinese;Atalanta;2;3;Away win;+;+;+;5;+;-;-;1;1;V;1
+30. Jun;Genoa;Juventus;1;3;Away win;+;+;+;4;+;-;-;0;0;V;1
+30. Jun;Torino;Lazio;1;2;Away win;+;+;-;3;+;-;-;1;0;L;1
+01. Jul;Bologna;Cagliari;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+01. Jul;Fiorentina;Sassuolo;1;3;Away win;+;+;+;4;+;-;-;0;2;V;1
+01. Jul;Hellas Verona;Parma;3;2;Home win;+;+;+;5;+;-;-;1;1;V;1
+01. Jul;Inter Milan;Brescia;6;0;Home win;+;+;+;6;-;+;-;3;0;L;1
+01. Jul;Lecce;Sampdoria;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+01. Jul;SPAL;AC Milan;2;2;Draw;+;+;+;4;+;-;-;2;0;L;1
+02. Jul;AS Roma;Udinese;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+02. Jul;Atalanta;Napoli;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+04. Jul;Juventus;Torino;4;1;Home win;+;+;+;5;+;-;-;2;1;L;1
+04. Jul;Lazio;AC Milan;0;3;Away win;+;+;-;3;-;-;+;0;2;V;1
+04. Jul;Sassuolo;Lecce;4;2;Home win;+;+;+;6;+;-;-;1;1;L;1
+05. Jul;Brescia;Hellas Verona;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+05. Jul;Cagliari;Atalanta;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+05. Jul;Inter Milan;Bologna;1;2;Away win;+;+;-;3;+;-;-;1;0;L;1
+05. Jul;Napoli;AS Roma;2;1;Home win;+;+;-;3;+;-;-;0;0;L;1
+05. Jul;Parma;Fiorentina;1;2;Away win;+;+;-;3;+;-;-;0;2;V;1
+05. Jul;Sampdoria;SPAL;3;0;Home win;+;+;-;3;-;+;-;3;0;L;1
+05. Jul;Udinese;Genoa;2;2;Draw;+;+;+;4;+;-;-;1;0;L;1
+07. Jul;AC Milan;Juventus;4;2;Home win;+;+;+;6;+;-;-;0;0;V;1
+07. Jul;Lecce;Lazio;2;1;Home win;+;+;-;3;+;-;-;1;1;V;1
+08. Jul;AS Roma;Parma;2;1;Home win;+;+;-;3;+;-;-;1;1;V;1
+08. Jul;Atalanta;Sampdoria;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+08. Jul;Bologna;Sassuolo;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+08. Jul;Fiorentina;Cagliari;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+08. Jul;Genoa;Napoli;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+08. Jul;Torino;Brescia;3;1;Home win;+;+;+;4;+;-;-;0;1;V;1
+09. Jul;Hellas Verona;Inter Milan;2;2;Draw;+;+;+;4;+;-;-;1;0;L;1
+09. Jul;SPAL;Udinese;0;3;Away win;+;+;-;3;-;-;+;0;2;V;1
+11. Jul;Brescia;AS Roma;0;3;Away win;+;+;-;3;-;-;+;0;0;V;1
+11. Jul;Juventus;Atalanta;2;2;Draw;+;+;+;4;+;-;-;0;1;V;1
+11. Jul;Lazio;Sassuolo;1;2;Away win;+;+;-;3;+;-;-;1;0;L;1
+12. Jul;Cagliari;Lecce;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+12. Jul;Fiorentina;Hellas Verona;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+12. Jul;Genoa;SPAL;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+12. Jul;Napoli;AC Milan;2;2;Draw;+;+;+;4;+;-;-;1;1;V;1
+12. Jul;Parma;Bologna;2;2;Draw;+;+;+;4;+;-;-;0;2;V;1
+12. Jul;Udinese;Sampdoria;1;3;Away win;+;+;+;4;+;-;-;1;1;L;1
+13. Jul;Inter Milan;Torino;3;1;Home win;+;+;+;4;+;-;-;0;1;V;1
+14. Jul;Atalanta;Brescia;6;2;Home win;+;+;+;8;+;-;-;4;1;L;1
+15. Jul;AC Milan;Parma;3;1;Home win;+;+;+;4;+;-;-;0;1;V;1
+15. Jul;AS Roma;Hellas Verona;2;1;Home win;+;+;-;3;+;-;-;2;0;L;1
+15. Jul;Bologna;Napoli;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+15. Jul;Lecce;Fiorentina;1;3;Away win;+;+;+;4;+;-;-;0;3;V;1
+15. Jul;Sampdoria;Cagliari;3;0;Home win;+;+;-;3;-;+;-;2;0;L;1
+15. Jul;Sassuolo;Juventus;3;3;Draw;+;+;+;6;+;-;-;1;2;V;1
+15. Jul;Udinese;Lazio;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+16. Jul;SPAL;Inter Milan;0;4;Away win;+;+;+;4;-;-;+;0;1;V;1
+16. Jul;Torino;Genoa;3;0;Home win;+;+;-;3;-;+;-;1;0;L;1
+18. Jul;AC Milan;Bologna;5;1;Home win;+;+;+;6;+;-;-;2;1;L;1
+18. Jul;Cagliari;Sassuolo;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+18. Jul;Hellas Verona;Atalanta;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+19. Jul;AS Roma;Inter Milan;2;2;Draw;+;+;+;4;+;-;-;1;1;V;1
+19. Jul;Brescia;SPAL;2;1;Home win;+;+;-;3;+;-;-;0;1;V;1
+19. Jul;Fiorentina;Torino;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+19. Jul;Genoa;Lecce;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+19. Jul;Napoli;Udinese;2;1;Home win;+;+;-;3;+;-;-;1;1;V;1
+19. Jul;Parma;Sampdoria;2;3;Away win;+;+;+;5;+;-;-;2;0;L;1
+20. Jul;Juventus;Lazio;2;1;Home win;+;+;-;3;+;-;-;0;0;L;1
+21. Jul;Atalanta;Bologna;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+21. Jul;Sassuolo;AC Milan;1;2;Away win;+;+;-;3;+;-;-;1;2;V;1
+22. Jul;Inter Milan;Fiorentina;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+22. Jul;Lecce;Brescia;3;1;Home win;+;+;+;4;+;-;-;2;0;L;1
+22. Jul;Parma;Napoli;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+22. Jul;Sampdoria;Genoa;1;2;Away win;+;+;-;3;+;-;-;1;1;V;1
+22. Jul;SPAL;AS Roma;1;6;Away win;+;+;+;7;+;-;-;1;2;V;1
+22. Jul;Torino;Hellas Verona;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+23. Jul;Lazio;Cagliari;2;1;Home win;+;+;-;3;+;-;-;0;1;V;1
+23. Jul;Udinese;Juventus;2;1;Home win;+;+;-;3;+;-;-;0;1;V;1
+24. Jul;AC Milan;Atalanta;1;1;Draw;+;-;-;2;+;-;-;1;1;L;1
+25. Jul;Brescia;Parma;1;2;Away win;+;+;-;3;+;-;-;0;0;V;1
+25. Jul;Genoa;Inter Milan;0;3;Away win;+;+;-;3;-;-;+;0;1;V;1
+25. Jul;Napoli;Sassuolo;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+26. Jul;AS Roma;Fiorentina;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+26. Jul;Bologna;Lecce;3;2;Home win;+;+;+;5;+;-;-;2;1;L;1
+26. Jul;Cagliari;Udinese;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+26. Jul;Hellas Verona;Lazio;1;5;Away win;+;+;+;6;+;-;-;1;1;L;1
+26. Jul;Juventus;Sampdoria;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+26. Jul;SPAL;Torino;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+28. Jul;Inter Milan;Napoli;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+28. Jul;Parma;Atalanta;1;2;Away win;+;+;-;3;+;-;-;1;0;L;1
+29. Jul;Cagliari;Juventus;2;0;Home win;+;-;-;2;-;+;-;2;0;L;1
+29. Jul;Fiorentina;Bologna;4;0;Home win;+;+;+;4;-;+;-;0;0;L;1
+29. Jul;Hellas Verona;SPAL;3;0;Home win;+;+;-;3;-;+;-;2;0;L;1
+29. Jul;Lazio;Brescia;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+29. Jul;Sampdoria;AC Milan;1;4;Away win;+;+;+;5;+;-;-;0;1;V;1
+29. Jul;Sassuolo;Genoa;5;0;Home win;+;+;+;5;-;+;-;2;0;L;1
+29. Jul;Torino;AS Roma;2;3;Away win;+;+;+;5;+;-;-;1;2;L;1
+29. Jul;Udinese;Lecce;1;2;Away win;+;+;-;3;+;-;-;1;1;L;1
+01. Aug;AC Milan;Cagliari;3;0;Home win;+;+;-;3;-;+;-;1;0;L;1
+01. Aug;Atalanta;Inter Milan;0;2;Away win;+;-;-;2;-;-;+;0;2;V;1
+01. Aug;Brescia;Sampdoria;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+01. Aug;Juventus;AS Roma;1;3;Away win;+;+;+;4;+;-;-;1;2;L;1
+01. Aug;Napoli;Lazio;3;1;Home win;+;+;+;4;+;-;-;1;1;L;1
+02. Aug;Bologna;Torino;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+02. Aug;Genoa;Hellas Verona;3;0;Home win;+;+;-;3;-;+;-;3;0;L;1
+02. Aug;Lecce;Parma;3;4;Away win;+;+;+;7;+;-;-;2;2;V;1
+02. Aug;Sassuolo;Udinese;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+02. Aug;SPAL;Fiorentina;1;3;Away win;+;+;+;4;+;-;-;1;1;V;1

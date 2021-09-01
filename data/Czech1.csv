@@ -1,0 +1,271 @@
+Date;Local;Visitor;HG;AG;Outcome;1.5+;2.5+;3.5+;TG;BTS;hCS;aCS;HTh;HTa;FG;sample
+12. Jul;Jablonec;Bohemians;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+13. Jul;Banik Ostrava;Slovan Liberec;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+13. Jul;Pribram;Teplice;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+13. Jul;Viktoria Plzen;Sigma Olomouc;3;1;Home win;+;+;+;4;+;-;-;1;1;V;0
+14. Jul;Ceske Budejov.;Opava;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+14. Jul;Mlada Boleslav;Karvina;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+14. Jul;Sparta Prague;Slovacko;0;2;Away win;+;-;-;2;-;-;+;0;2;V;0
+15. Jul;Zlin;Slavia Prague;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+19. Jul;Slovan Liberec;Viktoria Plzen;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+20. Jul;Opava;Pribram;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+20. Jul;Sigma Olomouc;Zlin;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+20. Jul;Slovacko;Ceske Budejov.;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+20. Jul;Sparta Prague;Jablonec;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+21. Jul;Bohemians;Mlada Boleslav;3;0;Home win;+;+;-;3;-;+;-;3;0;L;0
+21. Jul;Teplice;Slavia Prague;1;5;Away win;+;+;+;6;+;-;-;0;3;V;0
+22. Jul;Karvina;Banik Ostrava;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+26. Jul;Banik Ostrava;Teplice;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+27. Jul;Pribram;Bohemians;3;2;Home win;+;+;+;5;+;-;-;1;0;L;0
+27. Jul;Viktoria Plzen;Karvina;3;2;Home win;+;+;+;5;+;-;-;1;0;L;0
+27. Jul;Zlin;Slovan Liberec;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+28. Jul;Jablonec;Slovacko;6;0;Home win;+;+;+;6;-;+;-;1;0;L;0
+28. Jul;Mlada Boleslav;Opava;4;1;Home win;+;+;+;5;+;-;-;2;1;V;0
+28. Jul;Slavia Prague;Sigma Olomouc;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+29. Jul;Ceske Budejov.;Sparta Prague;2;2;Draw;+;+;+;4;+;-;-;2;0;L;0
+02. Aug;Opava;Banik Ostrava;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+03. Aug;Bohemians;Viktoria Plzen;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+03. Aug;Slovacko;Zlin;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+03. Aug;Slovan Liberec;Sigma Olomouc;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+04. Aug;Ceske Budejov.;Jablonec;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+04. Aug;Karvina;Slavia Prague;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+04. Aug;Sparta Prague;Pribram;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+09. Aug;Zlin;Teplice;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+10. Aug;Banik Ostrava;Bohemians;4;2;Home win;+;+;+;6;+;-;-;2;1;V;0
+10. Aug;Pribram;Ceske Budejov.;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+10. Aug;Sigma Olomouc;Karvina;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+10. Aug;Slavia Prague;Slovan Liberec;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+11. Aug;Jablonec;Opava;2;1;Home win;+;+;-;3;+;-;-;0;0;L;0
+11. Aug;Mlada Boleslav;Sparta Prague;4;3;Home win;+;+;+;7;+;-;-;2;1;L;0
+11. Aug;Viktoria Plzen;Slovacko;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+16. Aug;Ceske Budejov.;Slavia Prague;0;3;Away win;+;+;-;3;-;-;+;0;0;V;0
+17. Aug;Bohemians;Sigma Olomouc;3;2;Home win;+;+;+;5;+;-;-;0;1;V;0
+17. Aug;Opava;Zlin;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+17. Aug;Slovacko;Pribram;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+18. Aug;Jablonec;Mlada Boleslav;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+18. Aug;Karvina;Slovan Liberec;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+18. Aug;Sparta Prague;Banik Ostrava;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+18. Aug;Teplice;Viktoria Plzen;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+23. Aug;Banik Ostrava;Slovacko;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+23. Aug;Sigma Olomouc;Teplice;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+24. Aug;Pribram;Jablonec;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+24. Aug;Slavia Prague;Bohemians;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+24. Aug;Zlin;Karvina;1;4;Away win;+;+;+;5;+;-;-;0;1;V;0
+25. Aug;Mlada Boleslav;Ceske Budejov.;4;2;Home win;+;+;+;6;+;-;-;2;2;V;0
+25. Aug;Slovan Liberec;Sparta Prague;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+25. Aug;Viktoria Plzen;Opava;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+31. Aug;Bohemians;Slovan Liberec;2;1;Home win;+;+;-;3;+;-;-;0;0;L;0
+31. Aug;Pribram;Viktoria Plzen;1;2;Away win;+;+;-;3;+;-;-;1;1;V;0
+31. Aug;Slovacko;Mlada Boleslav;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+01. Sep;Ceske Budejov.;Zlin;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+01. Sep;Jablonec;Banik Ostrava;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+01. Sep;Opava;Slavia Prague;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+01. Sep;Sparta Prague;Sigma Olomouc;3;3;Draw;+;+;+;6;+;-;-;1;2;L;0
+01. Sep;Teplice;Karvina;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+13. Sep;Sigma Olomouc;Opava;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+14. Sep;Mlada Boleslav;Pribram;6;0;Home win;+;+;+;6;-;+;-;3;0;L;0
+14. Sep;Slavia Prague;Slovacko;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+14. Sep;Slovan Liberec;Teplice;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+15. Sep;Banik Ostrava;Ceske Budejov.;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+15. Sep;Karvina;Bohemians;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+15. Sep;Zlin;Sparta Prague;0;2;Away win;+;-;-;2;-;-;+;0;2;V;0
+16. Sep;Viktoria Plzen;Jablonec;3;2;Home win;+;+;+;5;+;-;-;1;1;V;0
+18. Sep;Teplice;Mlada Boleslav;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+20. Sep;Bohemians;Zlin;2;2;Draw;+;+;+;4;+;-;-;1;2;V;0
+21. Sep;Ceske Budejov.;Viktoria Plzen;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+21. Sep;Opava;Slovan Liberec;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+21. Sep;Pribram;Karvina;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+21. Sep;Slovacko;Teplice;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+22. Sep;Mlada Boleslav;Banik Ostrava;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+22. Sep;Sparta Prague;Slavia Prague;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+23. Sep;Jablonec;Sigma Olomouc;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+27. Sep;Teplice;Bohemians;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+28. Sep;Sigma Olomouc;Slovacko;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+28. Sep;Slavia Prague;Mlada Boleslav;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+28. Sep;Zlin;Jablonec;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+29. Sep;Karvina;Opava;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+29. Sep;Viktoria Plzen;Sparta Prague;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+30. Sep;Banik Ostrava;Pribram;3;0;Home win;+;+;-;3;-;+;-;3;0;L;0
+30. Sep;Slovan Liberec;Ceske Budejov.;4;2;Home win;+;+;+;6;+;-;-;2;2;L;0
+4 Oct;Slovacko;Slovan Liberec;3;1;Home win;+;+;+;4;+;-;-;2;1;L;0
+5 Oct;Banik Ostrava;Zlin;4;0;Home win;+;+;+;4;-;+;-;4;0;L;0
+5 Oct;Opava;Teplice;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+5 Oct;Pribram;Sigma Olomouc;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+5 Oct;Sparta Prague;Karvina;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+6 Oct;Ceske Budejov.;Bohemians;3;2;Home win;+;+;+;5;+;-;-;1;0;L;0
+6 Oct;Jablonec;Slavia Prague;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+6 Oct;Mlada Boleslav;Viktoria Plzen;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+19 Oct;Sigma Olomouc;Ceske Budejov.;1;3;Away win;+;+;+;4;+;-;-;0;1;V;0
+19 Oct;Slavia Prague;Pribram;3;1;Home win;+;+;+;4;+;-;-;0;1;V;0
+19 Oct;Slovan Liberec;Jablonec;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+19 Oct;Zlin;Mlada Boleslav;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+20 Oct;Bohemians;Opava;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+20 Oct;Karvina;Slovacko;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+20 Oct;Teplice;Sparta Prague;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+20 Oct;Viktoria Plzen;Banik Ostrava;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+25 Oct;Jablonec;Teplice;4;1;Home win;+;+;+;5;+;-;-;2;0;L;0
+26 Oct;Banik Ostrava;Sigma Olomouc;2;2;Draw;+;+;+;4;+;-;-;2;1;L;0
+26 Oct;Pribram;Zlin;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+26 Oct;Slovacko;Opava;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+26 Oct;Sparta Prague;Bohemians;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+27 Oct;Ceske Budejov.;Karvina;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+27 Oct;Mlada Boleslav;Slovan Liberec;1;3;Away win;+;+;+;4;+;-;-;0;1;V;0
+27 Oct;Viktoria Plzen;Slavia Prague;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+01. Nov;Bohemians;Slovacko;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+02. Nov;Sigma Olomouc;Mlada Boleslav;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+02. Nov;Slavia Prague;Banik Ostrava;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+03. Nov;Karvina;Jablonec;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+03. Nov;Opava;Sparta Prague;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+03. Nov;Slovan Liberec;Pribram;3;2;Home win;+;+;+;5;+;-;-;2;1;L;0
+03. Nov;Teplice;Ceske Budejov.;1;3;Away win;+;+;+;4;+;-;-;0;3;V;0
+04. Nov;Zlin;Viktoria Plzen;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+08. Nov;Banik Ostrava;Karvina;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+08. Nov;Mlada Boleslav;Bohemians;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+09. Nov;Jablonec;Sparta Prague;2;2;Draw;+;+;+;4;+;-;-;0;2;V;0
+09. Nov;Pribram;Opava;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+09. Nov;Zlin;Sigma Olomouc;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+10. Nov;Ceske Budejov.;Slovacko;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+10. Nov;Slavia Prague;Teplice;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+10. Nov;Viktoria Plzen;Slovan Liberec;4;1;Home win;+;+;+;5;+;-;-;2;1;V;0
+22. Nov;Sparta Prague;Ceske Budejov.;3;3;Draw;+;+;+;6;+;-;-;1;2;V;0
+23. Nov;Bohemians;Pribram;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+23. Nov;Opava;Mlada Boleslav;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+23. Nov;Sigma Olomouc;Slavia Prague;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+23. Nov;Slovan Liberec;Zlin;5;0;Home win;+;+;+;5;-;+;-;3;0;L;0
+24. Nov;Karvina;Viktoria Plzen;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+24. Nov;Teplice;Banik Ostrava;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+25. Nov;Slovacko;Jablonec;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+29. Nov;Banik Ostrava;Opava;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+30. Nov;Pribram;Sparta Prague;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+30. Nov;Sigma Olomouc;Slovan Liberec;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+30. Nov;Zlin;Slovacko;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+1 Dec;Jablonec;Ceske Budejov.;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+1 Dec;Mlada Boleslav;Teplice;3;1;Home win;+;+;+;4;+;-;-;0;0;V;0
+1 Dec;Slavia Prague;Karvina;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+1 Dec;Viktoria Plzen;Bohemians;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+6 Dec;Bohemians;Banik Ostrava;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+6 Dec;Slovan Liberec;Slavia Prague;0;3;Away win;+;+;-;3;-;-;+;0;2;V;0
+7 Dec;Opava;Jablonec;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+7 Dec;Slovacko;Viktoria Plzen;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+7 Dec;Teplice;Zlin;2;1;Home win;+;+;-;3;+;-;-;0;0;L;0
+8 Dec;Ceske Budejov.;Pribram;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+8 Dec;Karvina;Sigma Olomouc;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+8 Dec;Sparta Prague;Mlada Boleslav;5;2;Home win;+;+;+;7;+;-;-;2;1;L;0
+13 Dec;Mlada Boleslav;Jablonec;2;3;Away win;+;+;+;5;+;-;-;1;3;V;0
+14 Dec;Banik Ostrava;Sparta Prague;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+14 Dec;Pribram;Slovacko;1;4;Away win;+;+;+;5;+;-;-;0;3;V;0
+14 Dec;Sigma Olomouc;Bohemians;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+14 Dec;Slovan Liberec;Karvina;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+14 Dec;Zlin;Opava;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+15 Dec;Slavia Prague;Ceske Budejov.;4;1;Home win;+;+;+;5;+;-;-;3;0;L;0
+15 Dec;Viktoria Plzen;Teplice;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+14. Feb;Ceske Budejov.;Mlada Boleslav;3;0;Home win;+;+;-;3;-;+;-;3;0;L;0
+15. Feb;Karvina;Zlin;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+15. Feb;Slovacko;Banik Ostrava;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+15. Feb;Sparta Prague;Slovan Liberec;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+15. Feb;Teplice;Sigma Olomouc;1;3;Away win;+;+;+;4;+;-;-;0;3;V;0
+16. Feb;Bohemians;Slavia Prague;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+16. Feb;Opava;Viktoria Plzen;0;3;Away win;+;+;-;3;-;-;+;0;0;V;0
+17. Feb;Jablonec;Pribram;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+22. Feb;Mlada Boleslav;Slovacko;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+22. Feb;Slavia Prague;Opava;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+22. Feb;Slovan Liberec;Bohemians;3;1;Home win;+;+;+;4;+;-;-;2;1;L;0
+22. Feb;Viktoria Plzen;Pribram;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+23. Feb;Karvina;Teplice;3;0;Home win;+;+;-;3;-;+;-;3;0;L;0
+23. Feb;Sigma Olomouc;Sparta Prague;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+23. Feb;Zlin;Ceske Budejov.;2;3;Away win;+;+;+;5;+;-;-;0;2;V;0
+24. Feb;Banik Ostrava;Jablonec;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+28. Feb;Ceske Budejov.;Banik Ostrava;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+29. Feb;Jablonec;Viktoria Plzen;1;2;Away win;+;+;-;3;+;-;-;0;2;V;0
+29. Feb;Opava;Sigma Olomouc;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+29. Feb;Pribram;Mlada Boleslav;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+29. Feb;Sparta Prague;Zlin;2;2;Draw;+;+;+;4;+;-;-;0;0;L;0
+1 Mar;Bohemians;Karvina;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+1 Mar;Slovacko;Slavia Prague;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+7 Mar;Sigma Olomouc;Jablonec;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+7 Mar;Viktoria Plzen;Ceske Budejov.;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+7 Mar;Zlin;Bohemians;2;3;Away win;+;+;+;5;+;-;-;1;2;V;0
+8 Mar;Karvina;Pribram;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+8 Mar;Slavia Prague;Sparta Prague;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+8 Mar;Slovan Liberec;Opava;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+8 Mar;Teplice;Slovacko;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+9 Mar;Banik Ostrava;Mlada Boleslav;2;3;Away win;+;+;+;5;+;-;-;1;2;V;0
+23 May;Teplice;Slovan Liberec;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+26 May;Jablonec;Zlin;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+26 May;Mlada Boleslav;Slavia Prague;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+26 May;Pribram;Banik Ostrava;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+26 May;Slovacko;Sigma Olomouc;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+27 May;Bohemians;Teplice;4;0;Home win;+;+;+;4;-;+;-;2;0;L;1
+27 May;Ceske Budejov.;Slovan Liberec;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+27 May;Opava;Karvina;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+27 May;Sparta Prague;Viktoria Plzen;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+30 May;Sigma Olomouc;Pribram;1;2;Away win;+;+;-;3;+;-;-;1;1;L;1
+30 May;Slavia Prague;Jablonec;5;0;Home win;+;+;+;5;-;+;-;2;0;L;1
+30 May;Slovan Liberec;Slovacko;3;1;Home win;+;+;+;4;+;-;-;1;1;V;1
+30 May;Viktoria Plzen;Mlada Boleslav;7;1;Home win;+;+;+;8;+;-;-;4;0;L;1
+30 May;Zlin;Banik Ostrava;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+31 May;Bohemians;Ceske Budejov.;3;2;Home win;+;+;+;5;+;-;-;2;0;L;1
+31 May;Karvina;Sparta Prague;1;4;Away win;+;+;+;5;+;-;-;1;0;L;1
+31 May;Teplice;Opava;2;2;Draw;+;+;+;4;+;-;-;1;1;L;1
+02. Jun;Jablonec;Slovan Liberec;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+02. Jun;Mlada Boleslav;Zlin;1;1;Draw;+;-;-;2;+;-;-;1;1;V;1
+02. Jun;Pribram;Slavia Prague;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+03. Jun;Banik Ostrava;Viktoria Plzen;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+03. Jun;Ceske Budejov.;Sigma Olomouc;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+03. Jun;Opava;Bohemians;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+03. Jun;Slovacko;Karvina;2;0;Home win;+;-;-;2;-;+;-;2;0;L;1
+03. Jun;Sparta Prague;Teplice;3;0;Home win;+;+;-;3;-;+;-;3;0;L;1
+06. Jun;Bohemians;Sparta Prague;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+06. Jun;Slovan Liberec;Mlada Boleslav;2;2;Draw;+;+;+;4;+;-;-;1;1;V;1
+06. Jun;Zlin;Pribram;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+07. Jun;Karvina;Ceske Budejov.;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+07. Jun;Opava;Slovacko;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+07. Jun;Sigma Olomouc;Banik Ostrava;2;3;Away win;+;+;+;5;+;-;-;1;3;V;1
+07. Jun;Slavia Prague;Viktoria Plzen;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+07. Jun;Teplice;Jablonec;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+10. Jun;Banik Ostrava;Slavia Prague;2;2;Draw;+;+;+;4;+;-;-;1;1;V;1
+10. Jun;Ceske Budejov.;Teplice;3;1;Home win;+;+;+;4;+;-;-;0;0;V;1
+10. Jun;Jablonec;Karvina;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+10. Jun;Mlada Boleslav;Sigma Olomouc;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+10. Jun;Pribram;Slovan Liberec;2;1;Home win;+;+;-;3;+;-;-;2;1;L;1
+10. Jun;Slovacko;Bohemians;1;2;Away win;+;+;-;3;+;-;-;1;2;V;1
+10. Jun;Sparta Prague;Opava;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+10. Jun;Viktoria Plzen;Zlin;3;0;Home win;+;+;-;3;-;+;-;2;0;L;1
+14. Jun;Bohemians;Jablonec;3;0;Home win;+;+;-;3;-;+;-;2;0;L;1
+14. Jun;Karvina;Mlada Boleslav;2;2;Draw;+;+;+;4;+;-;-;2;1;L;1
+14. Jun;Opava;Ceske Budejov.;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+14. Jun;Sigma Olomouc;Viktoria Plzen;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+14. Jun;Slavia Prague;Zlin;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+14. Jun;Slovacko;Sparta Prague;0;2;Away win;+;-;-;2;-;-;+;0;0;V;1
+14. Jun;Slovan Liberec;Banik Ostrava;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+14. Jun;Teplice;Pribram;4;0;Home win;+;+;+;4;-;+;-;2;0;L;1
+20. Jun;Banik Ostrava;Slavia Prague;1;3;Away win;+;+;+;4;+;-;-;0;2;V;1
+20. Jun;Pribram;Sigma Olomouc;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+20. Jun;Sparta Prague;Slovan Liberec;4;1;Home win;+;+;+;5;+;-;-;2;1;L;1
+20. Jun;Teplice;Karvina;4;1;Home win;+;+;+;5;+;-;-;2;0;L;1
+20. Jun;Zlin;Opava;3;1;Home win;+;+;+;4;+;-;-;2;1;L;1
+21. Jun;Mlada Boleslav;Ceske Budejov.;2;1;Home win;+;+;-;3;+;-;-;0;1;V;1
+21. Jun;Slovacko;Bohemians;1;2;Away win;+;+;-;3;+;-;-;1;1;V;1
+21. Jun;Viktoria Plzen;Jablonec;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+23. Jun;Karvina;Opava;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+23. Jun;Sigma Olomouc;Teplice;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+23. Jun;Sparta Prague;Banik Ostrava;3;2;Home win;+;+;+;5;+;-;-;3;1;V;1
+23. Jun;Zlin;Pribram;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+24. Jun;Jablonec;Slovan Liberec;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+24. Jun;Slavia Prague;Viktoria Plzen;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+27. Jun;Bohemians;Slovacko;2;1;Home win;+;+;-;3;+;-;-;0;1;V;1
+27. Jun;Ceske Budejov.;Mlada Boleslav;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+27. Jun;Slovan Liberec;Banik Ostrava;2;1;Home win;+;+;-;3;+;-;-;0;0;L;1
+28. Jun;Opava;Pribram;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+28. Jun;Sigma Olomouc;Karvina;3;1;Home win;+;+;+;4;+;-;-;2;0;L;1
+28. Jun;Slavia Prague;Jablonec;4;0;Home win;+;+;+;4;-;+;-;2;0;L;1
+28. Jun;Teplice;Zlin;4;1;Home win;+;+;+;5;+;-;-;1;1;V;1
+28. Jun;Viktoria Plzen;Sparta Prague;2;1;Home win;+;+;-;3;+;-;-;0;0;L;1
+04. Jul;Mlada Boleslav;Bohemians;3;0;Home win;+;+;-;3;-;+;-;1;0;L;1
+05. Jul;Banik Ostrava;Viktoria Plzen;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+05. Jul;Slovan Liberec;Slavia Prague;1;3;Away win;+;+;+;4;+;-;-;0;2;V;1
+05. Jul;Sparta Prague;Jablonec;3;0;Home win;+;+;-;3;-;+;-;1;0;L;1
+07. Jul;Bohemians;Mlada Boleslav;2;1;Home win;+;+;-;3;+;-;-;1;1;L;1
+08. Jul;Jablonec;Banik Ostrava;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+08. Jul;Slavia Prague;Sparta Prague;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+08. Jul;Viktoria Plzen;Slovan Liberec;4;0;Home win;+;+;+;4;-;+;-;2;0;L;1

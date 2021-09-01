@@ -1,0 +1,333 @@
+% sage_latex_guidelines.tex V1.20, 14 January 2017
+
+\documentclass[Afour,sageh,times]{sagej}
+
+\usepackage{moreverb,url}
+
+\usepackage[colorlinks,bookmarksopen,bookmarksnumbered,citecolor=red,urlcolor=red]{hyperref}
+
+\newcommand\BibTeX{{\rmfamily B\kern-.05em \textsc{i\kern-.025em b}\kern-.08em
+T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+\def\volumeyear{2020}
+
+\begin{document}
+
+\runninghead{Smith and Wittkopf}
+
+\title{Playing Football behind Closed Doors during the Corona Crisis. A Natural Experiment on Crowd Support and Home Advantage}
+
+\author{Michael Weinhardt\affilnum{1}}
+
+\affiliation{\affilnum{1}Chair for Sociology of Organizations, Technische Universität Berlin}
+
+\corrauth{Michael Weinhardt, Technische Universität Berlin, Chair for Sociology of Organizations, Straße
+des 17. Juni 135, 10623 Berlin, Germany.}
+
+\email{michael.weinhardt@tu-berlin.de}
+
+\begin{abstract}  The abstract should be capable of standing by itself,
+in the absence of the body of the article and of the bibliography.
+Therefore, it must not contain any reference citations.
+In football, as in many other sports, there is a sizeable advantage for the home team, found all around the globe, which means that home teams have a significantly higher chance of winning. While this effect has shrunk over the years, the exact reasons are unknown. They may include familiarity with the ground, travel burdens for the away team, and, of course, crowd support for the home team (directly, by affecting players’ performance, or indirectly, by pressuring referees). Currently, due to the Corona-Crisis, all major leagues in Europe are suspended and it’s unclear whether professional football can resume any time soon. In Germany, preparations for re-opening the league have advanced the furthest. It seems possible that the Bundesliga might return to play in the second half of May, without supporters. There are still 81 games to play until the end of the season. While there is a public debate about the dangers of resuming the league, playing in empty stadiums would create a natural experiment on the effect of home crowd support on the match result: As no supporters are present, the home advantage should vanish or at least diminish significantly if crowd support is the major driver. Games played on neutral venues could serve the same purpose (as currently discussed in England).
+\end{abstract}
+
+\keywords{fan support, ghost games, Covid-19, Football, home advantage, natural experiment}
+
+\maketitle
+
+\section{Introduction}
+Articles of standard length that report on original research or analysis are normally of 5000-8000 words in length, inclusive of references, notes, tables, and figures. Such research articles should include an abstract of 100 - 200 words and 5 key words must also be supplied, placed at the beginning of the article. While style and organization may vary according to theoretical and methodological traditions, these research articles normally include (1) an introduction (no heading) that clearly states the purpose and rationale for the article and places its importance in context (2) a review of literature that sets the stage for the investigation and basic approach, (3) a methodological summary that situates and details the approach and frames basic questions or hypotheses, (4) a report of results or analysis of findings, followed by (5) a discussion that emphasizes new and important observations of the study, (6) a conclusion that considers the study’s limitations and implications for future research.
+
+
+{Football as collective action}
+
+\textit{Crowd Support – when spectators show their emotions}
+
+\section{Review of Literature} 
+a review of literature that sets the stage for the investigation and basic approach
+
+Previous research on home advantage in Football
+
+Home advantage – historical and international comparisons
+Home advantage in other sporst?
+
+Likely causes: 
+
+\textit{Crowd support}
+
+Likely mechanisms:
+
+Direct emotional support
+
+Pressure on the referee
+
+\textit{Travel burden} for the away team
+
+\textit{Ground familiarity}  – condition of the green, pitch size, altitude, 
+Stadium in Quito – Ecuadorian national team
+
+Previous evidence: 
+
+Crowd Sizes
+
+Existence of running tracks
+
+Football derbies played in the same Stadium
+
+Previous ghost games
+
+Previous research on Covid-19
+
+Problems with previous research
+
+Football in Times of Corona
+
+The example of the German Bundesliga
+How leagues dealt with Corona-Crisis – creating bubbles for the players
+-	Regular Testing
+-	Training at home
+-	
+
+Rule Adjustments – allowing five substitutions
+
+Training without Körperkontakt
+
+How clubs and fans adjusted to the situation: 
+
+Did style of play change due these circumstances and the prolonged break?
+What protagonists said about the experience of “ghost ghames”
+Societal acceptance of resuming play
+Bad TV ratings in Germany.
+
+\subsection{Theoretical Underpinnings}
+
+\section{Methodological Summary} 
+a methodological summary that situates and details the approach and frames basic questions or hypotheses
+
+\subsection{Hypotheses}
+Home advantage disappears in ghost ghames
+The effect of ghost games dies off over time due to teams getting accustomed to the circumstances.
+
+
+\subsection{Data and Sample}
+All results from the 2019/2020 season where games were played without supporters for the remainder of the season.
+This was the case in the following European Football leagues: Table X provides an overview of the leagues, together with the dates when matches were stopped due to the pandemic and resumed later on.
+The data was assembled from football-API, fivethirtyeight.com, soccerstats.com and transfermarkt.de
+
+\subsection{Identification Strategy}
+Treatment: Games played without supporters (y/n)
+
+\subsection{Variables}
+
+\textit{Match Result}
+Home win, draw, away win
+
+\textit{Goals scored}
+
+\textit{Goal Difference – Home vs. Away Team}
+
+\textit{Team’s Market value}
+
+\textit{Expected Goals (xG)}
+Reducing the chance factor in estimating outcome and performance.
+
+\textit{Expected Goal Difference – Home vs. Away Team}
+
+\textit{Travel Distance}
+
+\textit{Stadium Size}
+
+\textit{Mean Attendance}
+
+\textit{Match level variables}
+
+\textit{Performance trend home/away team}
+
+Points taken from the previous five games.
+
+Net difference in league position
+
+Net difference in market value
+
+\textit{Yellow/red cards}
+
+\textit{Possession}
+
+\textit{Controls for league, matchday}
+
+
+\subsection{Models}
+
+Multinomial logit model with match result as outcome
+
+Linear regression models with net difference of (expected) goals scored as dependent variable.
+
+
+\subsection{Robustness Checks}
+Reasons why this is not a perfect experiment:
+Ghost games not play for a whole season, only roughly the last quarter of the season during spring/early summer.
+Random trends tend to fade out towards the end of the season (regression to the mean).
+It might be that by pure coincidence, travelling opponents were stronger during the last quarter than the remainder of the season.
+One way of dealing with this: Controlling for play quality and form.
+Dummy regressions – break at another matchday, same matchday previous season
+
+
+\section{Results} 
+ a report of results or analysis of findings,
+
+\section{Discussion} 
+a discussion that emphasizes new and important observations of the study
+
+Comparison to previous research
+
+\section{Conclusion} 
+a conclusion that considers the study’s limitations and implications for future research.
+
+\section{The article header information}
+The heading for any file using \textsf{\journalclass} is shown in
+Figure~\ref{F1}. You must select options for the trim/text area and
+the reference style of the journal you are submitting to.
+The choice of \verb+options+ are listed in Table~\ref{T1}.
+
+\begin{table}[h]
+\small\sf\centering
+\caption{The choice of options.\label{T1}}
+\begin{tabular}{lll}
+\toprule
+Option&Trim and font size&Columns\\
+\midrule
+\texttt{shortAfour}& 210 $\times$ 280 mm, 10pt& Double column\\
+\texttt{Afour} &210 $\times$ 297 mm, 10pt& Double column\\
+\texttt{MCfour} &189 $\times$ 246 mm, 10pt& Double column\\
+\texttt{PCfour} &170 $\times$ 242 mm, 10pt& Double column\\
+\texttt{Royal} &156 $\times$ 234 mm, 10pt& Single column\\
+\texttt{Crown} &7.25 $\times$ 9.5 in, 10pt&Single column\\
+\texttt{Review} & 156 $\times$ 234 mm, 12pt & Single column\\
+\bottomrule
+\end{tabular}\\[10pt]
+\begin{tabular}{ll}
+\toprule
+Option&Reference style\\
+\midrule
+\texttt{sageh}&SAGE Harvard style (author-year)\\
+\texttt{sagev}&SAGE Vancouver style (superscript numbers)\\
+\texttt{sageapa}&APA style (author-year)\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+\subsection{Figures and tables} \textsf{\journalclass} includes the
+\textsf{graphicx} package for handling figures.
+
+Figures are called in as follows:
+\begin{verbatim}
+\begin{figure}
+\centering
+\includegraphics{<figure name>}
+\caption{<Figure caption>}
+\end{figure}
+\end{verbatim}
+
+For further details on how to size figures, etc., with the
+\textsf{graphicx} package see, for example, \cite{R1}
+or \cite{R3}.
+
+The standard coding for a table is shown in Figure~\ref{F2}.
+
+\subsection{Cross-referencing}
+The use of the \LaTeX\ cross-reference system
+for figures, tables, equations, etc., is encouraged
+(using \verb"\ref{<name>}" and \verb"\label{<name>}").
+
+\subsection{End of paper special sections}
+Depending on the requirements of the journal that you are submitting to,
+there are macros defined to typeset various special sections.
+
+The commands available are:
+\begin{verbatim}
+\begin{acks}
+To typeset an
+  "Acknowledgements" section.
+\end{acks}
+\end{verbatim}
+
+\begin{verbatim}
+\begin{biog}
+To typeset an
+  "Author biography" section.
+\end{biog}
+\end{verbatim}
+
+\begin{verbatim}
+\begin{biogs}
+To typeset an
+  "Author Biographies" section.
+\end{biogs}
+\end{verbatim}
+
+%\newpage
+
+\begin{verbatim}
+\begin{dci}
+To typeset a "Declaration of
+  conflicting interests" section.
+\end{dci}
+\end{verbatim}
+
+\begin{verbatim}
+\begin{funding}
+To typeset a "Funding" section.
+\end{funding}
+\end{verbatim}
+
+\begin{verbatim}
+\begin{sm}
+To typeset a
+  "Supplemental material" section.
+\end{sm}
+\end{verbatim}
+
+\subsection{References}
+Please note that the files \textsf{SageH.bst} and \textsf{SageV.bst} are included with the class file
+for those authors using \BibTeX.
+The files work in a completely standard way, and you just need to uncomment one of the lines in the below example depending on what style you require:
+\begin{verbatim}
+%%Harvard (name/date)
+%\bibliographystyle{SageH}
+%%Vancouver (numbered)
+%\bibliographystyle{SageV}
+\bibliography{<YourBibfile.bib>}
+\end{verbatim}
+and remember to add the relevant option to the \verb+\documentclass[]{sagej}+ line as listed in Table~\ref{T1}. 
+
+%\section{Support for \textsf{\journalclass}}
+%We offer on-line support to participating authors. Please contact
+%us via e-mail at \dots
+%
+%We would welcome any feedback, positive or otherwise, on your
+%experiences of using \textsf{\journalclass}.
+
+\begin{acks}
+This class file was developed by Sunrise Setting Ltd,
+Brixham, Devon, UK.\\
+Website: \url{http://www.sunrise-setting.co.uk}
+\end{acks}
+
+\begin{thebibliography}{99}
+\bibitem[Kopka and Daly(2003)]{R1}
+Kopka~H and Daly~PW (2003) \textit{A Guide to \LaTeX}, 4th~edn.
+Addison-Wesley.
+
+\bibitem[Lamport(1994)]{R2}
+Lamport~L (1994) \textit{\LaTeX: a Document Preparation System},
+2nd~edn. Addison-Wesley.
+
+\bibitem[Mittelbach and Goossens(2004)]{R3}
+Mittelbach~F and Goossens~M (2004) \textit{The \LaTeX\ Companion},
+2nd~edn. Addison-Wesley.
+
+\end{thebibliography}
+
+\end{document}

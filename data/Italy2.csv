@@ -1,0 +1,381 @@
+Date;Local;Visitor;HG;AG;Outcome;1.5+;2.5+;3.5+;TG;BTS;hCS;aCS;HTh;HTa;FG;sample
+23. Aug;Pisa;Benevento;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+24. Aug;Ascoli;Trapani;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+24. Aug;Cittadella;Spezia;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+24. Aug;Crotone;Cosenza;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+24. Aug;Salernitana;Pescara;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+24. Aug;Venezia;Cremonese;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+24. Aug;Virtus Entella;Livorno;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+25. Aug;Empoli;Juve Stabia;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+25. Aug;Perugia;Chievo;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+26. Aug;Pordenone;Frosinone;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+30. Aug;Chievo;Empoli;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+31. Aug;Benevento;Cittadella;4;1;Home win;+;+;+;5;+;-;-;1;0;L;0
+31. Aug;Cosenza;Salernitana;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+31. Aug;Cremonese;Virtus Entella;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+31. Aug;Livorno;Perugia;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+31. Aug;Spezia;Crotone;1;2;Away win;+;+;-;3;+;-;-;1;2;V;0
+31. Aug;Trapani;Venezia;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+01. Sep;Frosinone;Ascoli;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+01. Sep;Juve Stabia;Pisa;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+01. Sep;Pescara;Pordenone;4;2;Home win;+;+;+;6;+;-;-;1;2;L;0
+13. Sep;Pordenone;Spezia;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+14. Sep;Ascoli;Livorno;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+14. Sep;Cittadella;Trapani;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+14. Sep;Perugia;Juve Stabia;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+14. Sep;Venezia;Chievo;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+14. Sep;Virtus Entella;Frosinone;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+15. Sep;Cosenza;Pescara;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+15. Sep;Crotone;Empoli;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+15. Sep;Pisa;Cremonese;4;1;Home win;+;+;+;5;+;-;-;1;0;L;0
+16. Sep;Salernitana;Benevento;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+20. Sep;Frosinone;Venezia;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+21. Sep;Benevento;Cosenza;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+21. Sep;Chievo;Pisa;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+21. Sep;Cremonese;Crotone;2;1;Home win;+;+;-;3;+;-;-;2;1;L;0
+21. Sep;Empoli;Cittadella;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+21. Sep;Juve Stabia;Ascoli;1;5;Away win;+;+;+;6;+;-;-;0;0;V;0
+21. Sep;Livorno;Pordenone;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+21. Sep;Pescara;Virtus Entella;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+21. Sep;Spezia;Perugia;2;2;Draw;+;+;+;4;+;-;-;2;1;V;0
+22. Sep;Trapani;Salernitana;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+24. Sep;Ascoli;Spezia;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+24. Sep;Cittadella;Pescara;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+24. Sep;Cosenza;Livorno;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+24. Sep;Crotone;Juve Stabia;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+24. Sep;Perugia;Frosinone;3;1;Home win;+;+;+;4;+;-;-;2;1;V;0
+24. Sep;Pisa;Empoli;2;3;Away win;+;+;+;5;+;-;-;1;1;V;0
+24. Sep;Pordenone;Benevento;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+24. Sep;Virtus Entella;Venezia;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+25. Sep;Salernitana;Chievo;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+25. Sep;Trapani;Cremonese;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+27. Sep;Pescara;Crotone;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+28. Sep;Empoli;Perugia;3;0;Home win;+;+;-;3;-;+;-;2;0;L;0
+28. Sep;Frosinone;Cosenza;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+28. Sep;Juve Stabia;Cittadella;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+28. Sep;Venezia;Pisa;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+29. Sep;Benevento;Virtus Entella;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+29. Sep;Chievo;Pordenone;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+29. Sep;Livorno;Salernitana;2;3;Away win;+;+;+;5;+;-;-;1;1;L;0
+29. Sep;Spezia;Trapani;2;4;Away win;+;+;+;6;+;-;-;1;3;V;0
+30. Sep;Cremonese;Ascoli;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+4 Oct;Perugia;Pisa;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+5 Oct;Cosenza;Venezia;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+5 Oct;Crotone;Virtus Entella;3;1;Home win;+;+;+;4;+;-;-;2;0;L;0
+5 Oct;Livorno;Chievo;3;4;Away win;+;+;+;7;+;-;-;3;1;L;0
+5 Oct;Pordenone;Empoli;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+5 Oct;Spezia;Benevento;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+5 Oct;Trapani;Juve Stabia;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+6 Oct;Ascoli;Pescara;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+6 Oct;Cremonese;Cittadella;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+6 Oct;Salernitana;Frosinone;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+18 Oct;Cittadella;Cosenza;1;3;Away win;+;+;+;4;+;-;-;1;0;L;0
+19 Oct;Benevento;Perugia;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+19 Oct;Juve Stabia;Pordenone;4;2;Home win;+;+;+;6;+;-;-;4;1;L;0
+19 Oct;Pescara;Spezia;1;2;Away win;+;+;-;3;+;-;-;1;0;L;0
+19 Oct;Venezia;Salernitana;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+19 Oct;Virtus Entella;Trapani;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+20 Oct;Chievo;Ascoli;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+20 Oct;Empoli;Cremonese;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+20 Oct;Pisa;Crotone;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+21 Oct;Frosinone;Livorno;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+25 Oct;Ascoli;Virtus Entella;2;1;Home win;+;+;-;3;+;-;-;2;1;L;0
+26 Oct;Cosenza;Chievo;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+26 Oct;Crotone;Venezia;3;2;Home win;+;+;+;5;+;-;-;1;1;V;0
+26 Oct;Livorno;Pisa;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+26 Oct;Pescara;Benevento;4;0;Home win;+;+;+;4;-;+;-;0;0;L;0
+26 Oct;Pordenone;Cittadella;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+26 Oct;Salernitana;Perugia;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+26 Oct;Spezia;Juve Stabia;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+26 Oct;Trapani;Empoli;2;2;Draw;+;+;+;4;+;-;-;1;1;V;0
+27 Oct;Cremonese;Frosinone;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+29 Oct;Chievo;Crotone;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+29 Oct;Cittadella;Livorno;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+29 Oct;Empoli;Spezia;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+29 Oct;Juve Stabia;Pescara;2;1;Home win;+;+;-;3;+;-;-;1;1;V;0
+29 Oct;Perugia;Ascoli;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+29 Oct;Pisa;Salernitana;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+29 Oct;Venezia;Pordenone;1;2;Away win;+;+;-;3;+;-;-;0;0;L;0
+29 Oct;Virtus Entella;Cosenza;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+30 Oct;Benevento;Cremonese;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+30 Oct;Frosinone;Trapani;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+01. Nov;Spezia;Chievo;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+02. Nov;Ascoli;Venezia;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+02. Nov;Crotone;Perugia;2;3;Away win;+;+;+;5;+;-;-;0;1;V;0
+02. Nov;Livorno;Juve Stabia;2;1;Home win;+;+;-;3;+;-;-;0;0;V;0
+02. Nov;Pescara;Pisa;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+02. Nov;Salernitana;Virtus Entella;2;1;Home win;+;+;-;3;+;-;-;0;0;L;0
+03. Nov;Benevento;Empoli;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+03. Nov;Cittadella;Frosinone;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+03. Nov;Pordenone;Trapani;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+04. Nov;Cosenza;Cremonese;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+08. Nov;Crotone;Ascoli;3;1;Home win;+;+;+;4;+;-;-;2;1;L;0
+09. Nov;Empoli;Pescara;1;2;Away win;+;+;-;3;+;-;-;1;2;V;0
+09. Nov;Juve Stabia;Benevento;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+09. Nov;Perugia;Cittadella;0;2;Away win;+;-;-;2;-;-;+;0;2;V;0
+09. Nov;Pisa;Spezia;3;2;Home win;+;+;+;5;+;-;-;1;0;L;0
+09. Nov;Venezia;Livorno;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+09. Nov;Virtus Entella;Pordenone;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+10. Nov;Cremonese;Salernitana;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+10. Nov;Frosinone;Chievo;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+10. Nov;Trapani;Cosenza;2;2;Draw;+;+;+;4;+;-;-;2;2;V;0
+22. Nov;Pescara;Cremonese;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+23. Nov;Benevento;Crotone;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+23. Nov;Empoli;Venezia;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+23. Nov;Juve Stabia;Salernitana;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+23. Nov;Livorno;Trapani;1;2;Away win;+;+;-;3;+;-;-;0;2;V;0
+23. Nov;Pordenone;Perugia;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+24. Nov;Ascoli;Cosenza;3;2;Home win;+;+;+;5;+;-;-;1;2;V;0
+24. Nov;Cittadella;Pisa;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+24. Nov;Spezia;Frosinone;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+25. Nov;Chievo;Virtus Entella;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+29. Nov;Cosenza;Spezia;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+30. Nov;Cremonese;Livorno;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+30. Nov;Crotone;Cittadella;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+30. Nov;Frosinone;Empoli;4;0;Home win;+;+;+;4;-;+;-;2;0;L;0
+30. Nov;Salernitana;Ascoli;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+30. Nov;Venezia;Benevento;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+1 Dec;Perugia;Pescara;3;1;Home win;+;+;+;4;+;-;-;2;1;L;0
+1 Dec;Trapani;Chievo;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+1 Dec;Virtus Entella;Juve Stabia;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+2 Dec;Pisa;Pordenone;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+6 Dec;Benevento;Trapani;5;0;Home win;+;+;+;5;-;+;-;2;0;L;0
+7 Dec;Chievo;Cremonese;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+7 Dec;Cittadella;Salernitana;4;3;Home win;+;+;+;7;+;-;-;3;1;V;0
+7 Dec;Empoli;Ascoli;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+7 Dec;Pescara;Venezia;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+7 Dec;Spezia;Livorno;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+8 Dec;Juve Stabia;Frosinone;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+8 Dec;Pisa;Virtus Entella;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+8 Dec;Pordenone;Crotone;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+9 Dec;Perugia;Cosenza;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+13 Dec;Chievo;Juve Stabia;2;3;Away win;+;+;+;5;+;-;-;2;0;L;0
+14 Dec;Ascoli;Cittadella;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+14 Dec;Frosinone;Pescara;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+14 Dec;Livorno;Benevento;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+14 Dec;Venezia;Spezia;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+14 Dec;Virtus Entella;Empoli;2;0;Home win;+;-;-;2;-;+;-;2;0;L;0
+15 Dec;Cosenza;Pordenone;1;2;Away win;+;+;-;3;+;-;-;0;2;V;0
+15 Dec;Cremonese;Perugia;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+15 Dec;Salernitana;Crotone;3;2;Home win;+;+;+;5;+;-;-;0;1;V;0
+16 Dec;Trapani;Pisa;1;3;Away win;+;+;+;4;+;-;-;1;2;V;0
+21 Dec;Benevento;Frosinone;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+21 Dec;Cittadella;Chievo;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+21 Dec;Crotone;Livorno;2;1;Home win;+;+;-;3;+;-;-;2;1;V;0
+21 Dec;Empoli;Salernitana;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+21 Dec;Juve Stabia;Venezia;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+21 Dec;Perugia;Virtus Entella;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+22 Dec;Pescara;Trapani;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+22 Dec;Pisa;Cosenza;1;3;Away win;+;+;+;4;+;-;-;0;3;V;0
+22 Dec;Pordenone;Ascoli;2;1;Home win;+;+;-;3;+;-;-;2;0;L;0
+26 Dec;Ascoli;Pisa;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+26 Dec;Chievo;Benevento;1;2;Away win;+;+;-;3;+;-;-;1;2;L;0
+26 Dec;Cosenza;Empoli;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+26 Dec;Cremonese;Juve Stabia;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+26 Dec;Frosinone;Crotone;1;2;Away win;+;+;-;3;+;-;-;1;1;V;0
+26 Dec;Livorno;Pescara;0;2;Away win;+;-;-;2;-;-;+;0;2;V;0
+26 Dec;Salernitana;Pordenone;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+26 Dec;Trapani;Perugia;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+26 Dec;Venezia;Cittadella;1;2;Away win;+;+;-;3;+;-;-;0;2;V;0
+26 Dec;Virtus Entella;Spezia;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+29 Dec;Benevento;Ascoli;4;0;Home win;+;+;+;4;-;+;-;1;0;L;0
+29 Dec;Cittadella;Virtus Entella;1;3;Away win;+;+;+;4;+;-;-;0;1;V;0
+29 Dec;Crotone;Trapani;3;0;Home win;+;+;-;3;-;+;-;0;0;L;0
+29 Dec;Empoli;Livorno;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+29 Dec;Juve Stabia;Cosenza;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+29 Dec;Perugia;Venezia;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+29 Dec;Pescara;Chievo;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+29 Dec;Pisa;Frosinone;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+29 Dec;Pordenone;Cremonese;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+29 Dec;Spezia;Salernitana;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+17. Jan;Frosinone;Pordenone;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+18. Jan;Chievo;Perugia;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+18. Jan;Cremonese;Venezia;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+18. Jan;Juve Stabia;Empoli;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+18. Jan;Livorno;Virtus Entella;4;4;Draw;+;+;+;8;+;-;-;3;1;L;0
+18. Jan;Trapani;Ascoli;3;1;Home win;+;+;+;4;+;-;-;1;1;L;0
+19. Jan;Benevento;Pisa;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+19. Jan;Pescara;Salernitana;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+19. Jan;Spezia;Cittadella;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+20. Jan;Cosenza;Crotone;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+24. Jan;Empoli;Chievo;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+25. Jan;Cittadella;Benevento;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+25. Jan;Pisa;Juve Stabia;1;1;Draw;+;-;-;2;+;-;-;0;0;L;0
+25. Jan;Pordenone;Pescara;0;2;Away win;+;-;-;2;-;-;+;0;0;V;0
+25. Jan;Salernitana;Cosenza;2;1;Home win;+;+;-;3;+;-;-;2;1;V;0
+25. Jan;Virtus Entella;Cremonese;1;1;Draw;+;-;-;2;+;-;-;1;1;V;0
+26. Jan;Ascoli;Frosinone;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+26. Jan;Crotone;Spezia;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+26. Jan;Venezia;Trapani;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+27. Jan;Perugia;Livorno;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+31. Jan;Cremonese;Pisa;3;4;Away win;+;+;+;7;+;-;-;2;1;L;0
+01. Feb;Empoli;Crotone;3;1;Home win;+;+;+;4;+;-;-;2;1;L;0
+01. Feb;Frosinone;Virtus Entella;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+01. Feb;Livorno;Ascoli;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+01. Feb;Spezia;Pordenone;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+01. Feb;Trapani;Cittadella;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+02. Feb;Benevento;Salernitana;1;1;Draw;+;-;-;2;+;-;-;0;0;V;0
+02. Feb;Chievo;Venezia;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+02. Feb;Juve Stabia;Perugia;1;2;Away win;+;+;-;3;+;-;-;1;1;V;0
+03. Feb;Pescara;Cosenza;2;1;Home win;+;+;-;3;+;-;-;0;0;V;0
+07. Feb;Ascoli;Juve Stabia;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+08. Feb;Cittadella;Empoli;1;2;Away win;+;+;-;3;+;-;-;1;1;V;0
+08. Feb;Crotone;Cremonese;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+08. Feb;Perugia;Spezia;0;3;Away win;+;+;-;3;-;-;+;0;1;V;0
+08. Feb;Pordenone;Livorno;2;2;Draw;+;+;+;4;+;-;-;1;0;L;0
+08. Feb;Venezia;Frosinone;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+09. Feb;Cosenza;Benevento;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+09. Feb;Pisa;Chievo;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+09. Feb;Virtus Entella;Pescara;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+10. Feb;Salernitana;Trapani;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+11. Feb;Spezia;Cremonese;3;2;Home win;+;+;+;5;+;-;-;0;1;V;0
+14. Feb;Pescara;Cittadella;1;2;Away win;+;+;-;3;+;-;-;1;1;V;0
+15. Feb;Benevento;Pordenone;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+15. Feb;Juve Stabia;Crotone;3;2;Home win;+;+;+;5;+;-;-;2;2;L;0
+15. Feb;Livorno;Cosenza;0;3;Away win;+;+;-;3;-;-;+;0;3;V;0
+15. Feb;Spezia;Ascoli;3;1;Home win;+;+;+;4;+;-;-;0;1;V;0
+15. Feb;Venezia;Virtus Entella;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+16. Feb;Cremonese;Trapani;5;0;Home win;+;+;+;5;-;+;-;2;0;L;0
+16. Feb;Empoli;Pisa;2;1;Home win;+;+;-;3;+;-;-;0;1;V;0
+16. Feb;Frosinone;Perugia;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+17. Feb;Chievo;Salernitana;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+21. Feb;Cosenza;Frosinone;0;2;Away win;+;-;-;2;-;-;+;0;2;V;0
+22. Feb;Cittadella;Juve Stabia;3;0;Home win;+;+;-;3;-;+;-;1;0;L;0
+22. Feb;Pisa;Venezia;1;2;Away win;+;+;-;3;+;-;-;1;1;L;0
+22. Feb;Trapani;Spezia;1;1;Draw;+;-;-;2;+;-;-;1;1;L;0
+22. Feb;Virtus Entella;Benevento;0;4;Away win;+;+;+;4;-;-;+;0;3;V;0
+23. Feb;Crotone;Pescara;4;1;Home win;+;+;+;5;+;-;-;3;0;L;0
+23. Feb;Pordenone;Chievo;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+23. Feb;Salernitana;Livorno;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+24. Feb;Perugia;Empoli;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+28. Feb;Virtus Entella;Crotone;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+29. Feb;Benevento;Spezia;3;1;Home win;+;+;+;4;+;-;-;0;1;V;0
+29. Feb;Chievo;Livorno;0;1;Away win;-;-;-;1;-;-;+;0;0;V;0
+29. Feb;Cittadella;Cremonese;0;0;Draw;-;-;-;0;-;+;+;0;0;-;0
+29. Feb;Empoli;Pordenone;0;1;Away win;-;-;-;1;-;-;+;0;1;V;0
+29. Feb;Frosinone;Salernitana;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+29. Feb;Juve Stabia;Trapani;2;2;Draw;+;+;+;4;+;-;-;0;1;V;0
+29. Feb;Pisa;Perugia;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+29. Feb;Venezia;Cosenza;1;1;Draw;+;-;-;2;+;-;-;1;0;L;0
+1 Mar;Pescara;Ascoli;2;1;Home win;+;+;-;3;+;-;-;1;1;L;0
+3 Mar;Cosenza;Cittadella;1;2;Away win;+;+;-;3;+;-;-;0;0;V;0
+3 Mar;Cremonese;Empoli;2;3;Away win;+;+;+;5;+;-;-;2;2;L;0
+3 Mar;Crotone;Pisa;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+3 Mar;Livorno;Frosinone;2;2;Draw;+;+;+;4;+;-;-;1;1;L;0
+3 Mar;Perugia;Benevento;1;2;Away win;+;+;-;3;+;-;-;0;1;V;0
+3 Mar;Pordenone;Juve Stabia;2;1;Home win;+;+;-;3;+;-;-;1;0;L;0
+3 Mar;Salernitana;Venezia;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+3 Mar;Trapani;Virtus Entella;4;1;Home win;+;+;+;5;+;-;-;0;1;V;0
+4 Mar;Ascoli;Chievo;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+4 Mar;Spezia;Pescara;2;0;Home win;+;-;-;2;-;+;-;0;0;L;0
+7 Mar;Cittadella;Pordenone;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+7 Mar;Empoli;Trapani;1;1;Draw;+;-;-;2;+;-;-;0;1;V;0
+7 Mar;Frosinone;Cremonese;0;2;Away win;+;-;-;2;-;-;+;0;1;V;0
+7 Mar;Perugia;Salernitana;1;0;Home win;-;-;-;1;-;+;-;1;0;L;0
+7 Mar;Pisa;Livorno;1;0;Home win;-;-;-;1;-;+;-;0;0;L;0
+7 Mar;Venezia;Crotone;1;3;Away win;+;+;+;4;+;-;-;0;2;V;0
+8 Mar;Benevento;Pescara;4;0;Home win;+;+;+;4;-;+;-;3;0;L;0
+8 Mar;Juve Stabia;Spezia;3;1;Home win;+;+;+;4;+;-;-;1;0;L;0
+8 Mar;Virtus Entella;Ascoli;3;0;Home win;+;+;-;3;-;+;-;3;0;L;0
+9 Mar;Chievo;Cosenza;2;0;Home win;+;-;-;2;-;+;-;1;0;L;0
+17. Jun;Ascoli;Cremonese;1;3;Away win;+;+;+;4;+;-;-;1;2;V;1
+19. Jun;Spezia;Empoli;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+20. Jun;Cosenza;Virtus Entella;2;1;Home win;+;+;-;3;+;-;-;2;0;L;1
+20. Jun;Crotone;Chievo;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+20. Jun;Livorno;Cittadella;0;2;Away win;+;-;-;2;-;-;+;0;0;V;1
+20. Jun;Pescara;Juve Stabia;3;1;Home win;+;+;+;4;+;-;-;0;0;L;1
+20. Jun;Pordenone;Venezia;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+20. Jun;Salernitana;Pisa;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+20. Jun;Trapani;Frosinone;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+21. Jun;Ascoli;Perugia;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+21. Jun;Cremonese;Benevento;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+26. Jun;Chievo;Spezia;1;3;Away win;+;+;+;4;+;-;-;0;0;L;1
+26. Jun;Cremonese;Cosenza;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+26. Jun;Empoli;Benevento;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+26. Jun;Frosinone;Cittadella;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+26. Jun;Juve Stabia;Livorno;2;3;Away win;+;+;+;5;+;-;-;1;0;L;1
+26. Jun;Perugia;Crotone;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+26. Jun;Pisa;Pescara;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+26. Jun;Trapani;Pordenone;3;0;Home win;+;+;-;3;-;+;-;1;0;L;1
+26. Jun;Venezia;Ascoli;2;1;Home win;+;+;-;3;+;-;-;1;1;L;1
+26. Jun;Virtus Entella;Salernitana;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+29. Jun;Ascoli;Crotone;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+29. Jun;Benevento;Juve Stabia;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+29. Jun;Chievo;Frosinone;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+29. Jun;Cittadella;Perugia;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+29. Jun;Cosenza;Trapani;2;2;Draw;+;+;+;4;+;-;-;1;2;V;1
+29. Jun;Livorno;Venezia;0;2;Away win;+;-;-;2;-;-;+;0;2;V;1
+29. Jun;Pescara;Empoli;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+29. Jun;Pordenone;Virtus Entella;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+29. Jun;Salernitana;Cremonese;3;3;Draw;+;+;+;6;+;-;-;0;1;V;1
+29. Jun;Spezia;Pisa;1;2;Away win;+;+;-;3;+;-;-;1;1;L;1
+03. Jul;Cosenza;Ascoli;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+03. Jul;Cremonese;Pescara;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+03. Jul;Crotone;Benevento;3;0;Home win;+;+;-;3;-;+;-;2;0;L;1
+03. Jul;Frosinone;Spezia;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+03. Jul;Perugia;Pordenone;1;2;Away win;+;+;-;3;+;-;-;1;2;V;1
+03. Jul;Pisa;Cittadella;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+03. Jul;Salernitana;Juve Stabia;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+03. Jul;Trapani;Livorno;2;1;Home win;+;+;-;3;+;-;-;0;0;V;1
+03. Jul;Venezia;Empoli;0;2;Away win;+;-;-;2;-;-;+;0;0;V;1
+03. Jul;Virtus Entella;Chievo;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+10. Jul;Ascoli;Salernitana;3;2;Home win;+;+;+;5;+;-;-;2;0;L;1
+10. Jul;Benevento;Venezia;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+10. Jul;Chievo;Trapani;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+10. Jul;Cittadella;Crotone;1;3;Away win;+;+;+;4;+;-;-;0;2;V;1
+10. Jul;Empoli;Frosinone;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+10. Jul;Juve Stabia;Virtus Entella;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+10. Jul;Livorno;Cremonese;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+10. Jul;Pescara;Perugia;2;2;Draw;+;+;+;4;+;-;-;2;2;L;1
+10. Jul;Pordenone;Pisa;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+10. Jul;Spezia;Cosenza;5;1;Home win;+;+;+;6;+;-;-;2;0;L;1
+13. Jul;Ascoli;Empoli;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+13. Jul;Cosenza;Perugia;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+13. Jul;Cremonese;Chievo;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+13. Jul;Crotone;Pordenone;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+13. Jul;Frosinone;Juve Stabia;2;2;Draw;+;+;+;4;+;-;-;1;1;V;1
+13. Jul;Livorno;Spezia;0;1;Away win;-;-;-;1;-;-;+;0;0;V;1
+13. Jul;Salernitana;Cittadella;4;1;Home win;+;+;+;5;+;-;-;2;1;L;1
+13. Jul;Trapani;Benevento;2;0;Home win;+;-;-;2;-;+;-;1;0;L;1
+13. Jul;Venezia;Pescara;1;1;Draw;+;-;-;2;+;-;-;0;0;L;1
+13. Jul;Virtus Entella;Pisa;1;1;Draw;+;-;-;2;+;-;-;0;1;V;1
+17. Jul;Benevento;Livorno;3;1;Home win;+;+;+;4;+;-;-;1;0;L;1
+17. Jul;Cittadella;Ascoli;1;2;Away win;+;+;-;3;+;-;-;0;0;V;1
+17. Jul;Crotone;Salernitana;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+17. Jul;Empoli;Virtus Entella;2;4;Away win;+;+;+;6;+;-;-;2;1;L;1
+17. Jul;Juve Stabia;Chievo;3;2;Home win;+;+;+;5;+;-;-;0;1;V;1
+17. Jul;Perugia;Cremonese;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+17. Jul;Pescara;Frosinone;1;1;Draw;+;-;-;2;+;-;-;1;0;L;1
+17. Jul;Pisa;Trapani;3;2;Home win;+;+;+;5;+;-;-;1;0;L;1
+17. Jul;Pordenone;Cosenza;1;2;Away win;+;+;-;3;+;-;-;0;2;V;1
+17. Jul;Spezia;Venezia;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+24. Jul;Ascoli;Pordenone;2;2;Draw;+;+;+;4;+;-;-;1;2;V;1
+24. Jul;Chievo;Cittadella;4;1;Home win;+;+;+;5;+;-;-;2;1;V;1
+24. Jul;Cosenza;Pisa;2;1;Home win;+;+;-;3;+;-;-;1;0;L;1
+24. Jul;Cremonese;Spezia;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+24. Jul;Frosinone;Benevento;2;3;Away win;+;+;+;5;+;-;-;1;3;V;1
+24. Jul;Livorno;Crotone;1;5;Away win;+;+;+;6;+;-;-;1;3;L;1
+24. Jul;Salernitana;Empoli;2;4;Away win;+;+;+;6;+;-;-;1;3;L;1
+24. Jul;Trapani;Pescara;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+24. Jul;Venezia;Juve Stabia;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+24. Jul;Virtus Entella;Perugia;0;2;Away win;+;-;-;2;-;-;+;0;2;V;1
+27. Jul;Benevento;Chievo;0;1;Away win;-;-;-;1;-;-;+;0;1;V;1
+27. Jul;Cittadella;Venezia;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+27. Jul;Crotone;Frosinone;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+27. Jul;Empoli;Cosenza;1;5;Away win;+;+;+;6;+;-;-;0;3;V;1
+27. Jul;Juve Stabia;Cremonese;1;2;Away win;+;+;-;3;+;-;-;0;1;V;1
+27. Jul;Perugia;Trapani;1;2;Away win;+;+;-;3;+;-;-;1;1;V;1
+27. Jul;Pescara;Livorno;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+27. Jul;Pisa;Ascoli;1;0;Home win;-;-;-;1;-;+;-;1;0;L;1
+27. Jul;Pordenone;Salernitana;1;1;Draw;+;-;-;2;+;-;-;1;1;L;1
+27. Jul;Spezia;Virtus Entella;0;0;Draw;-;-;-;0;-;+;+;0;0;-;1
+31. Jul;Ascoli;Benevento;2;4;Away win;+;+;+;6;+;-;-;0;3;V;1
+31. Jul;Chievo;Pescara;1;0;Home win;-;-;-;1;-;+;-;0;0;L;1
+31. Jul;Cosenza;Juve Stabia;3;1;Home win;+;+;+;4;+;-;-;2;1;L;1
+31. Jul;Cremonese;Pordenone;2;2;Draw;+;+;+;4;+;-;-;1;1;V;1
+31. Jul;Frosinone;Pisa;1;1;Draw;+;-;-;2;+;-;-;0;0;V;1
+31. Jul;Livorno;Empoli;0;2;Away win;+;-;-;2;-;-;+;0;1;V;1
+31. Jul;Salernitana;Spezia;1;2;Away win;+;+;-;3;+;-;-;1;1;L;1
+31. Jul;Trapani;Crotone;2;0;Home win;+;-;-;2;-;+;-;0;0;L;1
+31. Jul;Venezia;Perugia;3;1;Home win;+;+;+;4;+;-;-;1;0;L;1
+31. Jul;Virtus Entella;Cittadella;2;3;Away win;+;+;+;5;+;-;-;2;2;V;1
